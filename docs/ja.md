@@ -34,7 +34,7 @@ Our app uses third-party advertising networks to display non-personalized, conte
 - We utilize AdMob’s **Family Policy settings** to restrict unsuitable ads.
 - Any ad network integrated into our app **must comply with Apple's Kids Category requirements**.
 
-For more details, refer to Admob's site: [https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP]
+[For more details, refer to Admob's site](https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP)
 
 ---
 
@@ -139,7 +139,7 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 - 当社は、AdMobの**ファミリーポリシー設定**を利用して、不適切な広告を制限しています。
 - 当社のアプリに統合される広告ネットワークは、**Appleのキッズカテゴリ要件**に準拠する必要があります。
 
-Admobのポリシー詳細はこちら： [https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP].
+[Admobのポリシー詳細はこちら](https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP)
 
 ---
 
