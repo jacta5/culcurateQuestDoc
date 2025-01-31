@@ -26,8 +26,8 @@ The App uses Google AdMob to display advertisements. To ensure child safety and 
 2. **Non-Personalized Ads**  
    - Ads are contextual and non-personalized.  
 
-3. **Human-Reviewed Ad Creatives**  
-   - All ads undergo human review to ensure they are age-appropriate.  
+3. **Child-Safe Ad Content**  
+   - Ads comply with Google AdMob policies to ensure they are appropriate for children.  
 
 4. **No Tracking Technology**  
    - No third-party tracking or analytics tools are used.  
@@ -45,7 +45,7 @@ The App does not use cookies or other tracking technologies.
 ---
 
 ### Data Security  
-Since no data is collected, there are no risks associated with data storage or security.  
+Since no data is collected, there are no risks associated with data storage or leakage.  
 
 ---
 
@@ -56,7 +56,7 @@ The App strictly complies with the following regulations to protect the privacy 
 
 The App ensures the following:  
 - No collection of personally identifiable information.  
-- Strict review of ad content to maintain child safety.  
+- Strict adherence to age-appropriate advertising standards.  
 
 ---
 
@@ -70,6 +70,7 @@ The App fully complies with Apple and Google Play Kids Category Guidelines. This
    - No external links or purchase opportunities are provided. If necessary, parental gates are implemented.  
 
 ---
+For more details regarding our advertising policy, please refer to [Culcurate Quest Advertising Policy](https://jacta5.github.io/culcurateQuestDoc/culcurateQuestAdvertisingPolicy).  
 
 ### Contact Information  
 For inquiries regarding this Privacy Policy, please contact us at:  
@@ -84,7 +85,7 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 
 ## 日本語版プライバシーポリシー  
 
-**最終更新日**: 2025年1月28日  
+**最終更新日**: 2025年1月29日  
 
 本プライバシーポリシーは、モバイルアプリ「Culcurate Quest」（以下、「本アプリ」）をご利用いただく際に、ユーザーのプライバシーがどのように保護されるかを説明するものです。本アプリでは、特に子どものプライバシー保護に配慮し、安全な広告表示を保証します。  
 
@@ -99,9 +100,6 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 
 ---
 
-
----
-
 ### 第三者サービスの利用  
 本アプリでは、GoogleのAdMobを使用して広告を配信しています。子どもの安全を保証するため、以下の基準を満たしています:  
 
@@ -112,8 +110,8 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 2. **非個人化された広告の提供**  
    - 広告は文脈に基づいてターゲティングされ、個人データを使用しません。  
 
-3. **広告クリエイティブの人間による審査**  
-   - 広告は人間の審査を受け、年齢に適した内容であることが確認されています。  
+3. **子ども向けの広告内容の確保**  
+   - Google AdMobのポリシーに準拠し、子ども向けに適切な広告を配信します。  
 
 4. **データ追跡技術の不使用**  
    - 第三者によるデータ追跡や解析ツールは使用していません。  
@@ -131,7 +129,7 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 ---
 
 ### データのセキュリティ  
-データを収集しないため、保存やセキュリティに関するリスクはありません。  
+本アプリではデータを収集しないため、保存や漏洩のリスクはありません。  
 
 ---
 
@@ -140,9 +138,9 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 1. **COPPA（児童オンラインプライバシー保護法）**  
 2. **GDPR-K（子ども向けデータ保護規則）**  
 
-以下の基準を保証します:  
+本アプリでは以下を保証します:  
 - 個人情報の収集は行いません。  
-- 広告の内容を厳密に審査し、子どもの安全性を確保します。  
+- 年齢に適した広告のみを表示します。  
 
 ---
 
@@ -157,8 +155,9 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 
 ---
 
+広告ポリシーの詳細については、[Culcurate Quest 広告ポリシー](https://jacta5.github.io/culcurateQuestDoc/culcurateQuestAdvertisingPolicy) をご参照ください。
+
 ### お問い合わせ先  
-本プライバシーポリシーに関するお問い合わせは以下までお願いします:  
 **メールアドレス**: rievaltj9367travel@gmail.com  
 
 ---
