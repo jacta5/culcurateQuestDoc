@@ -16,28 +16,6 @@ The App does **not** collect any of the following information:
 
 ---
 
-## Advertising Practices and Policies
-
-Our app uses third-party advertising networks to display non-personalized, contextual ads that comply with child safety regulations. We take the following measures to ensure a safe experience:
-
-### 1. **Ad Networks and Contextual Advertising**
-- We use **Google AdMob** (or your ad provider) to serve ads.
-- **Only non-personalized ads** are displayed, meaning no user data is collected or used for ad targeting.
-- Ads are selected based on app content, **not user behavior**.
-
-### 2. **Human Review for Age Appropriateness**
-- All ads displayed in our app **undergo human review** to ensure they are suitable for children.
-- We comply with **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**.
-
-### 3. **Ad Filtering and Safety Measures**
-- Our app **does not display ads containing inappropriate content**, including violence, gambling, or mature themes.
-- We utilize AdMob’s **Family Policy settings** to restrict unsuitable ads.
-- Any ad network integrated into our app **must comply with Apple's Kids Category requirements**.
-
-[For more details, refer to Admob's site](https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP)
-
----
-
 ### Use of Third-Party Services  
 The App uses Google AdMob to display advertisements. To ensure child safety and compliance, the following practices are in place:  
 
@@ -121,25 +99,6 @@ This Privacy Policy will be updated as necessary. Revisions will be posted on th
 
 ---
 
-##　広告の実践とポリシー
-
-当社のアプリは、サードパーティの広告ネットワークを使用して、子供の安全に関する規制に準拠した、パーソナライズされていないコンテキスト広告を表示します。私たちは、安全な体験を保証するために以下の措置を講じています：
-
-### 1. **広告ネットワークとコンテクスト広告**
-- Google AdMob**（または広告プロバイダー）を使用して広告を配信します。
-- パーソナライズされていない広告のみが表示されます。
-- 広告はアプリのコンテンツに基づいて選択され、**ユーザー行動**ではありません。
-
-### 2. **年齢適正のためのヒューマンレビュー**
-- 当社のアプリに表示されるすべての広告は、**人による審査**を受け、お子様に適していることを確認します。
-- 当社は、**COPPA (Children's Online Privacy Protection Act)**および**GDPR-K (General Data Protection Regulation for Kids)**に準拠しています。
-
-### 3. **広告フィルタリングと安全対策**について
-- 当社のアプリは、暴力、ギャンブル、成熟したテーマを含む不適切なコンテンツ**を含む広告を表示しません。
-- 当社は、AdMobの**ファミリーポリシー設定**を利用して、不適切な広告を制限しています。
-- 当社のアプリに統合される広告ネットワークは、**Appleのキッズカテゴリ要件**に準拠する必要があります。
-
-[Admobのポリシー詳細はこちら](https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP)
 
 ---
 
