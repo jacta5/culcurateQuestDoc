@@ -37,9 +37,6 @@ Our app may display third-party contextual advertisements to provide a better us
 - No personally identifiable information (PII) is collected, stored, or shared with third-party advertisers.
 - Contextual ads are displayed based on app usage without tracking personal data.
 
-### Alternative to Third-Party Ads
-- Users can enjoy an ad-free experience by purchasing an in-app subscription or one-time payment.
-
 For further inquiries, please contact us at [rievaltj9367travel@gmail.com].
 
 ---
@@ -74,8 +71,5 @@ For further inquiries, please contact us at [rievaltj9367travel@gmail.com].
 ### データ収集とプライバシー
 - 個人を特定できる情報（PII）は収集、保存、または第三者の広告業者と共有しません。
 - 個人データを追跡せず、アプリの使用状況に基づいたコンテキスト広告のみを表示します。
-
-### サードパーティ広告の代替案
-- ユーザーはアプリ内課金または一回限りの支払いによって広告なしのエクスペリエンスを選択できます。
 
 ご質問がございましたら、[rievaltj9367travel@gmail.com] までお問い合わせください。
