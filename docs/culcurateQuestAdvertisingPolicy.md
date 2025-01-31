@@ -1,4 +1,5 @@
 # Advertising Policy / 広告ポリシー
+**Last Updated**: February 1, 2025  
 
 ## English Version
 
@@ -10,10 +11,9 @@ Our app uses third-party advertising networks to display non-personalized, conte
 - We use **Google AdMob** (or your ad provider) to serve ads.
 - **Only non-personalized ads** are displayed, meaning no user data is collected or used for ad targeting.
 - Ads are selected based on app content, **not user behavior**.
-- According to [Google's Kids Policy](https://support.google.com/googleplay/android-developer/answer/9283445), all ad creatives to be rendered are reviewed and rated before being delivered to users if a network is used that is part of the **Families Ads Program**. **AdMob is part of that program**.
 
 ### 2. **Human Review for Age Appropriateness**
-- All ads displayed in our app **undergo human review** to ensure they are suitable for children.
+- According to [Google's Kids Policy](https://support.google.com/googleplay/android-developer/answer/9283445), all ad creatives to be rendered are reviewed and rated before being delivered to users if a network is used that is part of the **Families Ads Program**. **AdMob is part of that program**, ensuring that all advertisements undergo **human review** for age appropriateness.
 - We comply with **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**.
 
 ### 3. **Ad Filtering and Safety Measures**
@@ -54,10 +54,9 @@ For further inquiries, please contact us at [rievaltj9367travel@gmail.com].
 - **Google AdMob**（または広告プロバイダー）を使用して広告を配信します。
 - パーソナライズされていない広告のみが表示されます。
 - 広告はアプリのコンテンツに基づいて選択され、**ユーザー行動に基づくものではありません**。
-- [Googleのキッズポリシー](https://support.google.com/googleplay/android-developer/answer/9283445) によると、Families Ads Programの一部である広告ネットワークを使用している場合、表示されるすべての広告クリエイティブは事前にレビューされ、レーティングされます。**AdMobはこのプログラムの一部です**。
 
 ### 2. **年齢適正のためのヒューマンレビュー**
-- 当社のアプリに表示されるすべての広告は、**人による審査**を受け、お子様に適していることを確認します。
+- [Googleのキッズポリシー](https://support.google.com/googleplay/android-developer/answer/9283445) によると、Families Ads Programの一部である広告ネットワークを使用している場合、表示されるすべての広告クリエイティブは事前にレビューされ、レーティングされます。**AdMobはこのプログラムの一部です**。これにより、すべての広告は**Googleによるヒューマンレビュー**を受け、年齢適合性が確保されています。
 - 当社は、**COPPA (Children's Online Privacy Protection Act)** および **GDPR-K (General Data Protection Regulation for Kids)** に準拠しています。
 
 ### 3. **広告フィルタリングと安全対策**
