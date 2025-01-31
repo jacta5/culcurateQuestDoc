@@ -1,5 +1,5 @@
 # Culcurate Quest Privacy Policy  
-**Last Updated**: January 29, 2025  
+**Last Updated**: January 31, 2025  
 
 ## Privacy Policy in English  
 
