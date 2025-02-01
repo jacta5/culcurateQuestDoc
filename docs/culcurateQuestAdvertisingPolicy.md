@@ -8,12 +8,13 @@
 Our app uses third-party advertising networks to display non-personalized, contextual ads that comply with child safety regulations. We take the following measures to ensure a safe experience:
 
 ### 1. **Ad Networks and Contextual Advertising**
-- We use **Google AdMob** (or your ad provider) to serve ads.
+- We use **Google AdMob**, which is part of the [Families Self-Certified Ads SDK Program](https://support.google.com/googleplay/android-developer/answer/12955712), ensuring compliance with Google Play's family policies.
 - **Only non-personalized ads** are displayed, meaning no user data is collected or used for ad targeting.
 - Ads are selected based on app content, **not user behavior**.
 
 ### 2. **Human Review for Age Appropriateness**
-- According to [Google's Kids Policy](https://support.google.com/googleplay/android-developer/answer/9283445), all ad creatives to be rendered are reviewed and rated before being delivered to users if a network is used that is part of the **Families Ads Program**. **AdMob is part of that program**, ensuring that all advertisements undergo **human review** for age appropriateness.
+- According to [Google's Families Self-Certified Ads SDK Program](https://support.google.com/googleplay/android-developer/answer/12955712), all ad creatives to be rendered are reviewed and rated before being delivered to users if a network is used that is part of the **Families Ads Program**.
+- **AdMob is part of this program**, ensuring that all advertisements undergo **Google's human review** for age appropriateness.
 - We comply with **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**.
 
 ### 3. **Ad Filtering and Safety Measures**
@@ -21,7 +22,7 @@ Our app uses third-party advertising networks to display non-personalized, conte
 - We utilize AdMob’s **Family Policy settings** to restrict unsuitable ads.
 - Any ad network integrated into our app **must comply with Apple's Kids Category requirements**.
 
-[For more details, refer to AdMob's site](https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP)
+[For more details, refer to Google's Families Policy](https://support.google.com/googleplay/android-developer/answer/9893335).
 
 ---
 
@@ -48,12 +49,13 @@ For further inquiries, please contact us at [rievaltj9367travel@gmail.com].
 当社のアプリは、サードパーティの広告ネットワークを使用して、子供の安全に関する規制に準拠した、パーソナライズされていないコンテキスト広告を表示します。私たちは、安全な体験を保証するために以下の措置を講じています:
 
 ### 1. **広告ネットワークとコンテキスト広告**
-- **Google AdMob**（または広告プロバイダー）を使用して広告を配信します。
-- パーソナライズされていない広告のみが表示されます。
+- **Google AdMob**を使用して広告を配信します。AdMobは[Families Self-Certified Ads SDK Program](https://support.google.com/googleplay/android-developer/answer/12955712)の一部であり、Google Playのファミリーポリシーに準拠しています。
+- **パーソナライズされていない広告のみ**が表示されます。
 - 広告はアプリのコンテンツに基づいて選択され、**ユーザー行動に基づくものではありません**。
 
 ### 2. **年齢適正のためのヒューマンレビュー**
-- [Googleのキッズポリシー](https://support.google.com/googleplay/android-developer/answer/9283445) によると、Families Ads Programの一部である広告ネットワークを使用している場合、表示されるすべての広告クリエイティブは事前にレビューされ、レーティングされます。**AdMobはこのプログラムの一部です**。これにより、すべての広告は**Googleによるヒューマンレビュー**を受け、年齢適合性が確保されています。
+- [GoogleのFamilies Self-Certified Ads SDK Program](https://support.google.com/googleplay/android-developer/answer/12955712)によると、Families Ads Programの一部である広告ネットワークを使用している場合、表示されるすべての広告クリエイティブは事前にレビューされ、レーティングされます。
+- **AdMobはこのプログラムの一部です**。これにより、すべての広告は**Googleによるヒューマンレビュー**を受け、年齢適合性が確保されています。
 - 当社は、**COPPA (Children's Online Privacy Protection Act)** および **GDPR-K (General Data Protection Regulation for Kids)** に準拠しています。
 
 ### 3. **広告フィルタリングと安全対策**
@@ -61,7 +63,7 @@ For further inquiries, please contact us at [rievaltj9367travel@gmail.com].
 - 当社は、AdMobの **ファミリーポリシー設定** を利用して、不適切な広告を制限しています。
 - 当社のアプリに統合される広告ネットワークは、**Appleのキッズカテゴリ要件** に準拠する必要があります。
 
-[AdMobのポリシー詳細はこちら](https://support.google.com/admob/answer/6223431?hl=en&sjid=13606131128959449637-AP)
+[Googleのファミリーポリシー詳細はこちら](https://support.google.com/googleplay/android-developer/answer/9893335)
 
 ### 年齢適切な広告
 - すべての広告クリエイティブは、事前に人間の目で審査し、13歳未満の子どもに適切であることを確認します。
