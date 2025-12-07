@@ -66,8 +66,28 @@ All collected data is securely managed through Firebase’s security rules and e
 
 ## 6. User Data Deletion
 
-Users may delete their account information through the **Firebase Authentication account deletion** feature.  
-Related user data will also be deleted accordingly.
+Users can request the deletion of their account and associated data as follows:
+
+### (1) Account Deletion
+Users may delete their account from within the App through:
+
+**Settings > User Information > Delete Account**
+
+This action will permanently delete the user's Firebase Authentication account  
+(Google / Apple / Email).  
+All deletions are processed immediately and cannot be undone.
+
+Please note that account deletion does **not** automatically delete user-generated data  
+(such as recipes or shared rooms). These can be deleted manually by the user as described below.
+
+### (2) Deletion of User-Generated Data Without Account Deletion
+Users may delete individual recipes or shared rooms directly within the App at any time.  
+Account deletion is **not required** for deleting these data items.
+
+### (3) Retention Period After Deletion
+Deleted data is **not retained**.  
+Once a deletion is performed by the user, the data is removed immediately from the Firebase database.  
+No backups or logs containing personally identifiable information are stored.
 
 ---
 
@@ -160,10 +180,32 @@ AdMobのプライバシーポリシーについては以下をご参照くださ
 
 ---
 
-## 6. ユーザーによる情報の削除
+## 6. ユーザーデータの削除
 
-ユーザーは、Firebase Authenticationのアカウント削除機能を通じて、自身のアカウント情報を削除することができます。  
-削除後は、関連するユーザーデータも順次削除されます。
+ユーザーは、以下の方法でアカウントおよび関連データの削除をリクエストできます。
+
+### (1) アカウント削除
+ユーザーはアプリ内の以下の操作からアカウントを削除できます：
+
+**設定 > ユーザー情報 > アカウント削除**
+
+この操作により、Firebase Authentication アカウント  
+（Google / Apple / Email）は永久に削除されます。  
+削除は即時に実行され、元に戻すことはできません。
+
+なお、アカウント削除を行っても、  
+レシピや共有ルームなどのユーザー生成データは自動的には削除されません。  
+これらのデータは、以下の方法でユーザー自身が個別に削除できます。
+
+### (2) アカウント削除を行わずにユーザー生成データを削除する方法
+ユーザーはアプリ内から、レシピや共有ルームなどのユーザー生成データを  
+いつでも個別に削除できます。  
+これらのデータを削除するために、アカウント削除を行う必要はありません。
+
+### (3) 削除後のデータ保持期間
+削除されたデータは保持されません。  
+ユーザーが削除操作を行った時点で、Firebase データベースから即時に削除されます。  
+個人を特定できる情報を含むバックアップやログは保存されません。
 
 ---
 
