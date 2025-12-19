@@ -3,9 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs, urljoin
 from datetime import datetime, timezone
+from pathlib import Path
 
 INPUT_URL = "https://jacta5.github.io/culcurateQuestDoc/menuPlanner/docs/recipes_export.json"
-OUTPUT_FILE = "ogp-cache.json"
+
+BASE_DIR = Path(__file__).resolve().parent
+OUTPUT_FILE = BASE_DIR / "ogp-cache.json"
 
 
 def extract_youtube_thumbnail(url):

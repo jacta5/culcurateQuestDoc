@@ -4,9 +4,11 @@ from datetime import datetime, timezone
 import firebase_admin
 from firebase_admin import credentials, firestore
 from google.cloud.firestore_v1._helpers import DatetimeWithNanoseconds
+from pathlib import Path
 
-SERVICE_ACCOUNT_PATH = "firebase-service-account.json"
-OUTPUT_JSON_PATH = "recipes_export.json"
+BASE_DIR = Path(__file__).resolve().parent
+SERVICE_ACCOUNT_PATH = BASE_DIR / "firebase-service-account.json"
+OUTPUT_JSON_PATH = BASE_DIR / "recipes_export.json"
 COLLECTION_NAME = "recipes"
 
 
