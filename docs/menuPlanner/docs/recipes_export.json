@@ -2641,64 +2641,65 @@
     "id": "66"
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "group": "主菜",
     "favoriteCount": 0,
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "name": "鍋",
-    "isPublic": false,
     "ingredients": [
       {
+        "ingredientName": "鍋の素",
         "quantity": 0.25,
         "unit": "袋",
-        "ingredientName": "鍋の素",
         "category": "調味料・乾物・缶詰"
       },
       {
+        "ingredientName": "はくさい",
         "quantity": 0.125,
         "unit": "玉",
-        "ingredientName": "はくさい",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "キノコ",
         "quantity": 0.5,
         "unit": "個",
-        "ingredientName": "キノコ",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "豆腐",
         "quantity": 0.5,
         "unit": "丁",
-        "ingredientName": "豆腐",
         "category": "加工食品"
       },
       {
+        "ingredientName": "ソーセージ",
         "quantity": 0.25,
         "unit": "袋",
-        "ingredientName": "ソーセージ",
         "category": "加工食品"
       },
       {
+        "ingredientName": "ネギ",
         "quantity": 0.25,
         "unit": "本",
-        "ingredientName": "ネギ",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "豚肉",
         "quantity": 80.0,
         "unit": "g",
-        "ingredientName": "豚肉",
         "category": "お肉"
       }
     ],
-    "features": [],
+    "isPublic": false,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
     "isDeleted": false,
+    "genres": [],
+    "updatedAt": "2025-12-18T15:00:00.490000+00:00",
+    "name": "鍋",
     "id": "67"
   },
   {
@@ -2817,5 +2818,4357 @@
     "subCategory": [],
     "isDeleted": false,
     "id": "9"
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "1b64fbf3-8175-4531-849a-8b647668458c",
+    "nutrition": {
+      "fat": 6.0,
+      "protein": 7.4,
+      "calories": 233.0,
+      "carbs": 37.0,
+      "fiber": 1.5,
+      "salt": 1.9
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/702548/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "卵おじや",
+    "ingredients": [
+      {
+        "ingredientName": "ご飯",
+        "quantity": 110.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "大根",
+        "quantity": 40.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 15.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しいたけ",
+        "quantity": 0.5,
+        "unit": "枚",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ねぎ",
+        "quantity": 0.125,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "みつば",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ほんだし",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-15T13:51:55.391383",
+    "steps": [
+      "大根・にんじんは細切りにし、しいたけは薄切りにする。ねぎは小口切りにし、みつばは2～3cm長さに切る。",
+      "土鍋に(1)の大根・にんじんを入れて火にかける。煮立ったら(1)のしいたけ・ねぎ、洗ったご飯を加え、うす口しょうゆで味を調える。",
+      "再び煮立ったら溶き卵を流し入れ、固まりかけたら火を止め、(1)のみつばを散らす。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理"
+    ],
+    "favoriteCount": 0,
+    "id": "2b1ddad9-0bd9-4362-b6f1-6552f0b7a2fc",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 12.6,
+      "calories": 379.0,
+      "carbs": 35.0,
+      "fiber": 1.0,
+      "salt": 0.5
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/706892/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "朝チーズケーキ",
+    "ingredients": [
+      {
+        "ingredientName": "クリームチーズ",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "プレーンヨーグルト",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "レモン汁",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 40.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "朝ごはん",
+      "おやつ"
+    ],
+    "createdAt": "2025-12-15T13:38:31.714153",
+    "steps": [
+      "オーブントースター（1000W）を230℃前後に温めておく。",
+      "クリームチーズは室温に戻しておく。",
+      "ボウルに室温に戻したクリームチーズを入れ、ゴムベラでクリーム状に練る。「パルスイート」大さじ1.5、プレーンヨーグルト、卵、レモン汁の順に加えて、そのつど泡立て器で均一になるまで混ぜる。",
+      "薄力粉をふるって加え、ゴムベラで切るように混ぜる。",
+      "薄いバットにクッキングシートを敷き、生地を入れて平らにならし、オーブントースターで10分焼く。",
+      "12等分に切り分けて皿に盛り、好みで「パルスイート」適量をふる。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "3a5a9b3a-3f35-4c24-a826-ded2ac05d97b",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 12.9,
+      "calories": 349.0,
+      "carbs": 25.0,
+      "fiber": 5.0,
+      "salt": 2.6
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/803777/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "カップスープコーンクリームでつくるコーン鍋",
+    "ingredients": [
+      {
+        "ingredientName": "ウインナーソーセージ",
+        "quantity": 2.0,
+        "unit": "本",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "木綿豆腐",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "キャベツ",
+        "quantity": 0.0625,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 1,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "豆乳",
+        "quantity": 0.25,
+        "unit": "カップ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "クノールカップスープコーンクリーム",
+        "quantity": 0.75,
+        "unit": "袋",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "鍋",
+      "洋風"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-15T13:36:00.831656",
+    "steps": [
+      "豆腐はひと口大に切る。キャベツはザク切りにし、玉ねぎはくし形切りにする。にんじんはピーラーで薄切りにする。耐熱容器にキャベツ、玉ねぎを入れてふんわりとラップをし、電子レンジ（６００Ｗ）で２分加熱する。",
+      "鍋にオリーブオイルを熱し、ソーセージを入れてサッと炒める。Ａを加え、ひと煮立ちしたら、（１）の豆腐・キャベツ・玉ねぎ・にんじんを加えて５分ほど煮る。",
+      "途中でアクを取り、全体に火が通ったら、Ｂを加えてひと煮立ちさせる。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "4a79fdc2-6cb8-4905-8f95-872221619541",
+    "nutrition": {
+      "fat": 5.0,
+      "protein": 3.7,
+      "calories": 167.0,
+      "carbs": 25.0,
+      "fiber": 1.0,
+      "salt": 1.3
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/801647/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "きのこ de チーズリゾット",
+    "ingredients": [
+      {
+        "ingredientName": "ご飯",
+        "quantity": 60.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "クノール カップスープ ミルク仕立てのきのこのポタージュ",
+        "quantity": 1.0,
+        "unit": "袋",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "粉チーズ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-15T13:50:14.748393",
+    "steps": [
+      "マグカップに「クノール カップスープ」を入れる。",
+      "(1)のマグカップに熱湯を注ぎ、すぐに15秒ほどかき混ぜる。",
+      "ご飯を加えて軽くかき混ぜ、粉チーズをふる。"
+    ],
+    "cookingTime": {
+      "total": 5,
+      "cook": 3,
+      "prep": 2
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "4af8f3c9-7b63-48c0-a225-14811f7b8370",
+    "nutrition": {
+      "fat": 3.5,
+      "protein": 4.2,
+      "calories": 66.0,
+      "carbs": 4.5,
+      "fiber": 1.5,
+      "salt": 1.3
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/707197/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "白菜と豆腐のコンソメスープ",
+    "ingredients": [
+      {
+        "ingredientName": "白菜",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "木綿豆腐",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 10.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しめじ",
+        "quantity": 10.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ウィンナーソーセージ",
+        "quantity": 0.5,
+        "unit": "本",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 1,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "スープ"
+    ],
+    "category": [
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-15T13:42:41.478430",
+    "steps": [
+      "白菜、豆腐は小さめの一口大に切る。にんじんは短冊切りにし、しめじは小房に分ける。ソーセージは5mm幅の斜め切りにする。",
+      "鍋に分量の水を入れ沸かし、「コンソメ」を加えて溶かす。",
+      "（１）を加えて材料に火が通るまで煮る。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "505311cf-f1cf-47c6-9f0b-bea19feef33c",
+    "nutrition": {
+      "fat": 3.0,
+      "protein": 2.8,
+      "calories": 56.0,
+      "carbs": 5.0,
+      "fiber": 2.0,
+      "salt": 1.3
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/707198/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "お鍋の野菜が朝食に！きのこ白菜のトマトコンソメスープ",
+    "ingredients": [
+      {
+        "ingredientName": "しめじ",
+        "quantity": 10.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "エリンギ",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "白菜",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ウインナーソーセージ",
+        "quantity": 0.5,
+        "unit": "本",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 1,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "スープ"
+    ],
+    "category": [
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-15T13:31:50.513607",
+    "steps": [
+      "しめじは小房に分け、エリンギは長さを半分に切り、食べやすい大きさに裂く。白菜は小さめの一口大に切り、ソーセージは5mm幅の斜め切りにする。",
+      "鍋に分量の水、トマト缶を入れて沸かし、「コンソメ」を加えて溶かす。",
+      "（1）を加えて材料に火が通るまで煮る。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "時短料理"
+    ],
+    "favoriteCount": 0,
+    "id": "64837f89-1243-4c7e-a9c4-fd5e890b52f6",
+    "nutrition": {
+      "fat": 2.0,
+      "protein": 3.0,
+      "calories": 133.0,
+      "carbs": 25.0,
+      "fiber": 2.0,
+      "salt": 0.7
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/805098/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "焼きもちの大根おろし汁",
+    "ingredients": [
+      {
+        "ingredientName": "餅",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "大根",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "大根の葉",
+        "quantity": 15.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ほんだし",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "汁物",
+      "スープ"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-15T13:31:29.752978",
+    "steps": [
+      "大根の葉は小口切りにする。大根はすりおろして軽く水気をしぼり、飾り用に大さじ２とっておく。餅は焦がさないようにオーブントースターでふっくらと焼く。",
+      "鍋にＡ（※水、みりん、しょうゆ、「ほんだし かつおとこんぶのあわせだし」）を入れて火にかけ、沸騰したら、（１）の大根の葉・大根おろしを加えてひと煮立ちさせる。",
+      "器に（１）の餅を盛り、（１） のとっておいた飾り用の大根おろしをのせ、（２）の汁を注ぐ。"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "76f9ad1b-9265-4cfd-bae4-22d066affd66",
+    "nutrition": {
+      "fat": 3.0,
+      "protein": 2.8,
+      "calories": 56.0,
+      "carbs": 5.0,
+      "fiber": 2.0,
+      "salt": 1.3
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/707198/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "お鍋の野菜が朝食に！きのこ白菜のトマトコンソメスープ",
+    "ingredients": [
+      {
+        "ingredientName": "しめじ",
+        "quantity": 10.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "エリンギ",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "白菜",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ウインナーソーセージ",
+        "quantity": 0.5,
+        "unit": "本",
+        "category": "加工食品"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "スープ",
+      "野菜スープ"
+    ],
+    "category": [
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-15T13:44:09.700077",
+    "steps": [
+      "しめじは小房に分け、エリンギは長さを半分に切り、食べやすい大きさに裂く。白菜は小さめの一口大に切り、ソーセージは5mm幅の斜め切りにする。",
+      "鍋に分量の水、トマト缶を入れて沸かし、「コンソメ」を加えて溶かす。",
+      "（1）を加えて材料に火が通るまで煮る。"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "8ddbb705-a620-46da-a08e-a55c31e018a8",
+    "nutrition": {
+      "fat": 13.0,
+      "protein": 11.7,
+      "calories": 208.0,
+      "carbs": 20.0,
+      "fiber": 3.0,
+      "salt": 1.9
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/707199/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "朝から満足！鶏だんごと野菜のミルクコンソメスープ",
+    "ingredients": [
+      {
+        "ingredientName": "鶏つくね",
+        "quantity": 2.0,
+        "unit": "個",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "大根",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "じゃがいも",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 20.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しめじ",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 0.75,
+        "unit": "カップ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "固形コンソメ",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "汁物",
+      "スープ",
+      "具だくさん"
+    ],
+    "category": [
+      "朝ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-15T13:43:37.927700",
+    "steps": [
+      "大根、じゃがいも、にんじんは小さめの乱切りにする。しめじは小房に分ける。",
+      "鍋に牛乳を入れて沸かし、固形コンソメを加えて溶かす。",
+      "（1）の野菜、鶏だんごを加えて材料に火が通るまで煮る。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 12,
+      "prep": 8
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "921ccf8f-5dfb-4bd7-ae62-9a4eecee88ff",
+    "nutrition": {
+      "fat": 1.5,
+      "protein": 3.6,
+      "calories": 43.0,
+      "carbs": 3.8,
+      "fiber": 1.0,
+      "salt": 1.6
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/703413/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "豆腐とわかめの基本のみそ汁",
+    "ingredients": [
+      {
+        "ingredientName": "絹ごし豆腐",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "カットわかめ（乾）",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "海産物"
+      },
+      {
+        "ingredientName": "長ねぎ",
+        "quantity": 0.125,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ほんだし",
+        "quantity": 0.33,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "みそ",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "みそ汁",
+      "汁物・スープ"
+    ],
+    "category": [
+      "朝ごはん",
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-15T13:44:44.161044",
+    "steps": [
+      "豆腐は1.5cm角に切る。ねぎは小口切りにする。",
+      "鍋に分量の水、「ほんだし」小さじ1/3を入れて火にかけ、煮立ったら、（1）の豆腐を加えて1分ほど煮、わかめを加えてひと煮立ちする。",
+      "みそを溶かし入れ、（1）のねぎ、「ほんだし」小さじ1/3をふり入れて混ぜる。"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "9bbca3e7-c344-4419-a284-620f238ada91",
+    "nutrition": {
+      "fat": 5.0,
+      "protein": 6.2,
+      "calories": 231.0,
+      "carbs": 40.0,
+      "fiber": 3.0,
+      "salt": 1.8
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/801671/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "トースト × パンプキン dip スープ",
+    "ingredients": [
+      {
+        "ingredientName": "食パン",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "クノール カップスープ 栗かぼちゃのポタージュ",
+        "quantity": 1.0,
+        "unit": "袋",
+        "category": "加工食品"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "パン",
+      "スープ"
+    ],
+    "category": [
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-15T13:50:56.189855",
+    "steps": [
+      "食パンはタテ6等分に切る。マグカップに「クノール カップスープ」を入れる。",
+      "オーブントースターで食パンをきつね色になるまで焼き、マグカップに熱湯を注ぎ、すぐに15秒ほどかき混ぜ、スープを作る。"
+    ],
+    "cookingTime": {
+      "total": 5,
+      "cook": 2,
+      "prep": 3
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "a0f0cfde-20e6-41ac-885a-276f13b447e9",
+    "nutrition": {
+      "fat": 7.7,
+      "protein": 6.8,
+      "calories": 264.0,
+      "carbs": 39.8,
+      "fiber": 0.5,
+      "salt": 0.2
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/706107/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "かんたんカステラ",
+    "ingredients": [
+      {
+        "ingredientName": "卵",
+        "quantity": 0.67,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 0.04,
+        "unit": "カップ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "はちみつ",
+        "quantity": 0.33,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "強力粉",
+        "quantity": 20.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-15T13:53:54.576344",
+    "steps": [
+      "新聞紙で１５×１５ｃｍの正方形の型を作る。",
+      "新聞紙６枚、クッキングシート、ハサミ、ホチキス、ペンを用意する。",
+      "［ａ］新聞紙６枚を重ね、４７ｃｍ角の正方形に切る。（６枚をホチキスで留めておくと作業しやすい。）",
+      "［ｂ］各辺の端から１６ｃｍのところに辺と平行にペンで線を引く。（中心が１５ｃｍ角の正方形になる。）引いた線をひとつおきに中心の正方形に向かって４ヶ所切り込みを入れる。",
+      "［ｃ］各辺を切り込みの長さの半分まで折る。",
+      "［ｄ］折った四辺の飛び出した部分をそれぞれ２ｃｍ切り落とし、長さを半分に折り込む。",
+      "［ｅ］側面を立ち上げて折り曲げた部分をとなりの側面のなかに折り込み、箱状にする。",
+      "［ｆ］四隅をホチキスで留め、型に合わせてクッキングシートを敷く。",
+      "オーブンは１８０℃に予熱しておく。卵は卵黄と卵白に分ける。",
+      "耐熱容器に牛乳、はちみつを入れ、ラップをかけて電子レンジ（６００Ｗ）で４０秒加熱して混ぜ、はちみつを溶かす。",
+      "水気、油気がないボウルに卵白を入れ、ハンドミキサーで真白になるまで泡立て、砂糖を３回に分けて加えながらさらに泡立て、しっかりしたメレンゲを作る。",
+      "卵黄を入れ、全体にムラがないようにハンドミキサーで混ぜる。（３）を少しずつ加えながらさらに混ぜる。",
+      "強力粉をふるいながら加え、ゴムベラで泡をつぶさないようにサックリと混ぜ、粉が見えなくなったら油を少しずつ加えて照りが出るまでサックリと混ぜる。",
+      "（１）の型に流し入れ、表面を平らにして１８０℃のオーブンで２０分焼き、１５０℃に下げてさらに４０～５０分焼く。中心に竹串を刺してみてドロッとした生地がついてこなければ取り出す。",
+      "ラップを広げて焼き目を下にしてのせ、クッキングシートをつけたまま冷ます（時間外）。",
+      "完全に冷めてからクッキングシートを外して切り分ける。"
+    ],
+    "cookingTime": {
+      "total": 115,
+      "cook": 90,
+      "prep": 25
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ad3b25fa-7869-4f29-9774-38ba55c7062c",
+    "nutrition": {
+      "fat": 6.0,
+      "protein": 6.8,
+      "calories": 156.0,
+      "carbs": 18.0,
+      "fiber": 2.0,
+      "salt": 1.4
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/707196/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "朝からほっこり。かぼちゃとじゃがいものミルクコンソメスープ",
+    "ingredients": [
+      {
+        "ingredientName": "かぼちゃ",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "じゃがいも",
+        "quantity": 20.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 12.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 150.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 1,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-15T13:43:03.672535",
+    "steps": [
+      "かぼちゃは１ｃｍ幅の薄切りにする。じゃがいも、玉ねぎ、にんじんも薄切りにする。",
+      "鍋に牛乳を入れて沸かし、コンソメを加えて溶かす。",
+      "（１）を加え、かぼちゃ、じゃがいもがやわらかくなるまで煮る。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_0369a271-21f0-4c19-af61-cbd9f957cda8",
+    "nutrition": {
+      "fat": 22.0,
+      "protein": 18.0,
+      "calories": 640.0,
+      "carbs": 75.0,
+      "fiber": 3.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/18951127",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "簡単♪牛乳と全卵☆★濃厚カルボナーラ★☆",
+    "ingredients": [
+      {
+        "ingredientName": "パスタ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "ベーコン",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "ハム",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 75.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "スライスチーズ",
+        "quantity": 1.5,
+        "unit": "枚",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "パスタ",
+      "イタリアン"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T02:10:41.304793",
+    "steps": [
+      "【準備】玉ねぎはスライス 、ベーコンは食べやすい大きさに切る\n＊注意＊パスタは、茹で時間より少し【早目】に上げる",
+      "✱中火✱フライパンを熱し\nオリーブオイルでにんにくを炒め\n↓\nベーコンを炒める\n↓\n玉ねぎを炒める",
+      "✱弱火にする✱フライパンに◆を入れ、チーズを溶かす\n※チーズは溶け易いよう、手で小さくちぎって下さい♪",
+      "✱弱火中✱チーズが柔らかくなったら、パスタを入れ\n↓\n塩・黒コショウで味を整える",
+      "✱火を止める✱割りほぐした卵を全体にかけ\n(　ﾟ∀ﾟ)o彡手早く絡める",
+      "✱火停止中✱余熱で混ぜ、卵が全体に馴染んだら\nヽ|・∀・|丿【完成】\n黒コショウをたっぷりかけてどうぞ❤"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_07550664-b81c-40e7-8d0e-1eacc4bf9249",
+    "nutrition": {
+      "fat": 5.4,
+      "protein": 3.6,
+      "calories": 110.0,
+      "carbs": 9.9,
+      "fiber": 0.3,
+      "salt": 0.01
+    },
+    "url": "https://cookpad.com/jp/recipes/17876718",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "しっとり・ふわふわ＊ミルクスポンジ",
+    "ingredients": [
+      {
+        "ingredientName": "卵白",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "卵黄",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 12.5,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 6.25,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ",
+      "イベント・特別な日"
+    ],
+    "createdAt": "2025-12-18T02:08:07.082108",
+    "steps": [
+      "【材料について】◆卵＝Ｌサイズ推奨。使う直前まで冷やしておく。◆バター＝ケーキ用マーガリン代用可。【下準備】◆型にクッキングシート（又は包装紙）を敷く。クッキングシートが浮く場合は、型の内側にサラダ油を塗ってから敷くと引っ付きます。",
+      "ボウルに卵白を入れ、ハンドミキサーでほぐすように泡立てる。（※ボウルは必ず綺麗なものを使って下さい。水分や油気が付いていると綺麗に泡立ちません！）",
+      "泡の大きさが全体にそろってきたら、グラニュー糖を半分加え更に混ぜ合わせる。ふわふわになったら残りのグラニュー糖を加え、きめ細かくツヤのあるメレンゲを作っていきます。",
+      "ハンドミキサーを持ち上げた時、メレンゲが角立ったらＯＫです！",
+      "④に卵黄を入れ混ぜ合わせ（全体に混ざったらＯＫです♪）、更にバニラオイルを入れ混ぜる。",
+      "⑤に薄力粉をふるいにかけながら加える。ゴムベラを立てて、底から生地をすくいあげ、生地を切るようにさっくり混ぜ合わせる。ボウルを手前に回しながらするとやり易いですよ！（※絶対に練らないようにして下さいね♪）",
+      "耐熱ボウルにバターと牛乳を入れ、ラップをし、レンジで1分（～1分20秒）温める。",
+      "混ぜ溶かす。（50度くらいになるよう、かき混ぜて冷まして下さい）",
+      "⑥に⑧を少しずつ回し入れ（※一気に入れるとミルクバターが沈んでしまいます！）、生地をすくいあげるように、ボウルを手前に回しながら、手早く切るように混ぜ合わせる。（※ここでも、絶対に練らないようにして下さいね♪）",
+      "型に⑨の生地を流し入れる。（※ボウルに残った生地はふくらみが悪いので、火の通りが早い型のまわりに流し込んで下さい）",
+      "型を少し高い所から2～3回落として空気抜きをし、表面を平らにならします。",
+      "170度に温めておいたオーブンで30～40分焼く。中心に竹串をさして生地がつかないようであれば出来上がり！焼けたらすぐ、型ごと20～30ｃｍの高さから1回落とし、焼き縮みを防ぎます。",
+      "台の上に固く絞った濡れ布巾を敷き、型からスポンジをとり出す。側面のクッキングシートをはがす。（上の面を下にして置く）",
+      "⑬に、もう一度型をかぶせて、2～3分おく。（※表面を平らにする為と、生地の中の水分を均一にする為です)",
+      "型をはずして、底のクッキングシートを外し、",
+      "表に返して、クーラー（網）の上にのせ、",
+      "固く絞った濡れ布巾をかけて冷ます。",
+      "スポンジが冷めたらスライスしてお好みのクリーム等でデコ。（※1日寝かせた方がスライスし易いです。ビニール袋に入れて保存）",
+      "【スポンジを綺麗にスライスするポイント】スライスして、戻した時に、方向が分かるように包丁で縦に目印をつけておく。",
+      "≪スライサーがない場合≫側面の切る同じ高さの位置に（まず上の段から）爪楊枝を等間隔にさし（4～8箇所位）、",
+      "その上（爪楊枝）に包丁をのせるようにして、スポンジを水平に切り分ける。同様にして下の段も切り分ける。",
+      "スライスしたスポンジを、目印にあわせて、重ねる。",
+      "【綺麗技】三枚にスライスしたスポンジは、下段を上下ひっくり返しに。上段を真ん中に、中段を一番上に入れ替えるとデコ後が綺麗"
+    ],
+    "cookingTime": {
+      "total": 55,
+      "cook": 35,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_1ad767f7-4999-4c53-b024-75606e85ca2b",
+    "nutrition": {
+      "fat": 35.0,
+      "protein": 25.0,
+      "calories": 500.0,
+      "carbs": 25.0,
+      "fiber": 4.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/22621855",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "おいし～い☆うちの回鍋肉（ホイコーロー）",
+    "ingredients": [
+      {
+        "ingredientName": "キャベツ",
+        "quantity": 1.5,
+        "unit": "枚",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ピーマン",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "豚バラ切り落とし",
+        "quantity": 83.33,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.11,
+        "unit": "カップ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "しょうが",
+        "quantity": 0.33,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.33,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "オイスターソース",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "豆板醤",
+        "quantity": 0.08,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "味噌",
+        "quantity": 0.33,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:39:30.065851",
+    "steps": [
+      "キャベツとピーマンは手で食べやすい大きさにちぎっておく。 豚肉はビニール袋に入れ、酒大さじ1と醤油小さじ1/2をふり、よくもんで下味をつける。 ★のあわせ調味料をあわせておく。",
+      "ビニール袋の豚肉に、片栗粉を一緒に入れてふり混ぜる。このとき切り落とし肉を広げずに、まるまったまま片栗粉をまぶして 1つずつ軽くにぎっておく。※こうすることでやわらか固まり肉みたいなおいしい食感になります",
+      "サラダ油とごま油をフライパンで熱して、白い煙が上がるくらいになったら、みじん切りのしょうがとにんにくをいためる。香りが出たら、片栗粉をまぶした豚肉を入れて炒める。",
+      "キャベツとピーマンを肉の上にのせ、少ししんなりするまで2分くらいフライパンにふたをして蒸し焼きにする。☆の合わせ調味料を回しかけて、大きく混ぜて味をなじませる。お好みで塩コショウで味を調えてできあがり！"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_1d476296-8ef3-442d-9799-cf7cbcc8a269",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 20.0,
+      "calories": 350.0,
+      "carbs": 15.0,
+      "fiber": 3.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17401568",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "定番おいしい麻婆豆腐",
+    "ingredients": [
+      {
+        "ingredientName": "木綿豆腐",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "豚ひき肉",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 0.5,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ニンニク",
+        "quantity": 0.5,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ネギ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "豆板醤",
+        "quantity": 0.75,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "鶏ガラスープ",
+        "quantity": 75.0,
+        "unit": "ml",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "味噌",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "豆腐料理"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T02:10:13.772464",
+    "steps": [
+      "豆腐はしっかり水切りをする。生姜とニンニク、ネギはみじん切りにする。",
+      "調味料は混ぜておく。",
+      "フライパンを熱し油を適量ひき生姜・ニンニク・ネギを炒める。香りがたってきたら豆板醤を加え炒める。",
+      "豚挽肉を加え肉の色が変わったら２の調味料を加える。",
+      "４が沸いてきたら豆腐を一口大に崩しながら加える。",
+      "再び沸いたら弱火でしばらく煮、水溶き片栗粉を様子を見ながら回し入れとろみを付ける。",
+      "粉臭さを飛ばすため一度沸騰させてから火を止める。酢を少々加え、器に盛りつけごま油を少量ふり、ネギをちらす。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_1e417962-d9ed-4e18-a037-5eac7c8c01e3",
+    "nutrition": {
+      "fat": 15.0,
+      "protein": 10.0,
+      "calories": 300.0,
+      "carbs": 20.0,
+      "fiber": 2.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17616085",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "簡単もやしの卵♪中華あんかけ",
+    "ingredients": [
+      {
+        "ingredientName": "もやし",
+        "quantity": 1.0,
+        "unit": "袋",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 3.0,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "味ぽん",
+        "quantity": 3.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "中華だし",
+        "quantity": 2.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T02:03:05.607781",
+    "steps": [
+      "●の材料を器に入れ混ぜておく。卵は溶いておく。もやしを洗い水分を切っておく。",
+      "フライパンにごま油を入れ、もやしを塩コショウ（分量外）をして強火でサッと炒める。お皿に取り出しておく。",
+      "2のフライパンをサッと拭き、油（大さじ２）を入れ、卵で半熟のスクランブルエッグを作り、2のもやしの上に乗せる。",
+      "3のフライパンに●を入れ、とろみが付いたら、卵の上にかける。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "おつまみ",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_2cc1b248-55d7-4d71-8dd1-c66951dc455f",
+    "nutrition": {
+      "fat": 5.0,
+      "protein": 3.0,
+      "calories": 180.0,
+      "carbs": 33.0,
+      "fiber": 3.0,
+      "salt": 1.0
+    },
+    "url": "https://cookpad.com/jp/recipes/19582825",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "止まらない～コロコロじゃがいものテリヤキ",
+    "ingredients": [
+      {
+        "ingredientName": "じゃがいも",
+        "quantity": 1.1,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 1.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 0.33,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "じゃがいも料理",
+      "照り焼き"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん",
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T23:38:06.089053",
+    "steps": [
+      "じゃが芋は1～1.5cm角に切り、片栗粉をまぶす。※水にさらさない",
+      "多めの油を熱したフライパンで軽く塩を振り、コンガリ焼く。（中～強火で5分以上）",
+      "★を入れ、タレを絡める。※タレを入れる際、焦げるので、一度火を止める。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ヘルシー",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_2d44d74f-1a0c-483a-a653-8d1d4be727e9",
+    "nutrition": {
+      "fat": 12.0,
+      "protein": 8.0,
+      "calories": 220.0,
+      "carbs": 20.0,
+      "fiber": 6.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/17911342",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "切り干し大根の煮物",
+    "ingredients": [
+      {
+        "ingredientName": "切り干し大根",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "人参",
+        "quantity": 0.5,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "だし汁",
+        "quantity": 500.0,
+        "unit": "ml",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "煮物"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:43:19.600994",
+    "steps": [
+      "切り干し大根は水洗いしてから、ひたひたの水に１５分つけて戻し、ぎゅっと絞って水気をきる。食べやすい長さにザクザク切る。",
+      "油揚げはキッチンペーパーで両面挟み、ギューっと押さえつけて油をとり細切りにする。人参は皮をむき細切り。",
+      "鍋にサラダ油を熱し、切り干し大根を炒め、続いて人参・油揚げを加え炒める。そこにだし汁・酒・みりん・塩を加え煮立たせる。",
+      "煮立ったら砂糖・醤油を加え、煮汁がほぼなくなるまで煮る。"
+    ],
+    "cookingTime": {
+      "total": 45,
+      "cook": 25,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_34a0b90e-51f1-4afc-8e9f-2c6c2757052c",
+    "nutrition": {
+      "fat": 32.0,
+      "protein": 20.0,
+      "calories": 420.0,
+      "carbs": 12.0,
+      "fiber": 1.0,
+      "salt": 0.5
+    },
+    "url": "https://cookpad.com/jp/recipes/18511880",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "簡単サクぷり★エビマヨ",
+    "ingredients": [
+      {
+        "ingredientName": "むきえび",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "海産物"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "アスパラ",
+        "quantity": 1.5,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "レモン汁",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん",
+      "イベント・特別な日"
+    ],
+    "createdAt": "2025-12-18T23:42:24.374655",
+    "steps": [
+      "えびと片栗を袋に入れて、下からたたき上げる様にして薄く粉をまぶす。",
+      "オリーブオイルでエビを両面焼き、茹でたアスパラと一緒に★の入ったボウルに移して和えれば完成！"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "お弁当向き",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_468a5590-36c4-472b-8e6f-0e12b56c54a2",
+    "nutrition": {
+      "fat": 24.0,
+      "protein": 25.0,
+      "calories": 360.0,
+      "carbs": 19.0,
+      "fiber": 1.5,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/17715016",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "秘密の豆腐ハンバーグ",
+    "ingredients": [
+      {
+        "ingredientName": "合挽き肉",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "絹ごし豆腐",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "パン粉",
+        "quantity": 4.0,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ナツメグ",
+        "quantity": 0.0625,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "中濃ソース",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "ハンバーグ",
+      "豆腐料理"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T02:09:00.644165",
+    "steps": [
+      "ボールに絹ごし豆腐を入れホイッパーでぐるぐる混ぜてペースト状にする。",
+      "1にパン粉を加え水分を吸わせるように混ぜ十分にふやかしておく。",
+      "合挽き肉、卵、ナツメグ、コンソメ（砕きながら）を加え粘りが出るまでよく練り混ぜる。",
+      "みじん切りにした玉ねぎを混ぜる。",
+      "大きめなら4～6等分、小さめなら8～10等分くらいにして小判型にし真ん中をへこませる。",
+      "強火のフライパンで焦げ目がつくまで焼き固め、ひっくり返す。",
+      "裏面もある程度焼き色がついたら、水をカップ1/2（分量外）を注ぎ入れふたをして中火で蒸し焼きにする。",
+      "水分がなくなって竹串をさして透明な汁が出たらお皿に移す。汁が濁っているようならまだ生なのでもう少し焼く。",
+      "フライパンの汚れを軽く拭き、ケチャップ、中濃ソースを入れ軽く混ぜてから弱火にかけ軽く煮詰めてバターを加え混ぜる。フライパンに残った肉汁を混ぜながら溶かしてね♪",
+      "ソースをハンバーグの上にかけて完成♪"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 20,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_4f6c4ca7-46f7-4ff1-a605-ec42259b6013",
+    "nutrition": {
+      "fat": 1.0,
+      "protein": 5.0,
+      "calories": 320.0,
+      "carbs": 70.0,
+      "fiber": 9.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/19240768",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "家の黄金比率で♪かぼちゃの煮物♡",
+    "ingredients": [
+      {
+        "ingredientName": "かぼちゃ",
+        "quantity": 250.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "煮物",
+      "和食"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T02:01:40.513578",
+    "steps": [
+      "かぼちゃはホクホク感を出すため、また味が染み過ぎるのを防ぐため、なるべく大きく切ります。",
+      "鍋に黄金比率の煮汁（水、醤油、酒、砂糖、みりん）を入れ強火にかけ、沸騰したら大きめに切ったかぼちゃを入れ、強めの中火にし、アルミ箔で落とし蓋をします。",
+      "煮汁量が1/3程度に減るまで煮詰めます。火の通りが不安な場合は、そのまま3分余熱で放置するとホクホクになります。",
+      "ホクホクのかぼちゃの煮物の出来上がりです。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_570b02c3-4c9a-4fa1-a195-804c5cf4dd7f",
+    "nutrition": {
+      "fat": 35.0,
+      "protein": 25.0,
+      "calories": 450.0,
+      "carbs": 12.0,
+      "fiber": 1.5,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17526500",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "★びっくりのハンバーグ★",
+    "ingredients": [
+      {
+        "ingredientName": "合いびき肉",
+        "quantity": 105.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "パン粉",
+        "quantity": 0.25,
+        "unit": "カップ",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "みそ",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ナツメグ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "しその葉",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "大根おろし",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん",
+      "イベント・特別な日"
+    ],
+    "createdAt": "2025-12-18T23:40:14.507048",
+    "steps": [
+      "白ワイン以外の材料を全てボールに入れて、色が白っぽくなるまでよくこねます。",
+      "①のタネを薄い小判型に形成します。びっくりドンキー風なので大きく薄くして下さい。",
+      "油を少し多めにひいたフライパンをよく熱して、タネを焦げ目が両面につく程度焼きます。焦げ目がついたら白ワインを回しいれて蓋をし、蒸し焼きにします。火が通ったら完成です★",
+      "しそ２枚、大根おろし適量を写真のようにトッピングすると、「おろしそバーグディッシュ」風に♪"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 15,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_5962b197-5bde-40de-a323-346de274574a",
+    "nutrition": {
+      "fat": 1.0,
+      "protein": 2.0,
+      "calories": 120.0,
+      "carbs": 25.0,
+      "fiber": 2.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/19240768",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "家の黄金比率で♪かぼちゃの煮物♡",
+    "ingredients": [
+      {
+        "ingredientName": "かぼちゃ",
+        "quantity": 90.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "煮物"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-17T02:51:48.700997",
+    "steps": [
+      "かぼちゃはホクホク感を出すため、味が染み過ぎないよう大きめに切る。",
+      "鍋に煮汁を入れ強火にかける。沸騰したら大きめに切ったかぼちゃを入れ、強めの中火にしてアルミ箔で落とし蓋をする。",
+      "煮汁量が1/3程度になるまで煮詰める。火の通りに不安があれば、そのまま3分余熱放置する。",
+      "ホクホクかぼちゃの煮物の完成。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_610062c3-e144-4524-b64b-dd52a7b1e611",
+    "nutrition": {
+      "fat": 6.0,
+      "protein": 2.5,
+      "calories": 120.0,
+      "carbs": 12.0,
+      "fiber": 4.0,
+      "salt": 1.2
+    },
+    "url": "https://cookpad.com/jp/recipes/18584308",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "フライパンで簡単～☆きんぴらごぼう☆～",
+    "ingredients": [
+      {
+        "ingredientName": "ごぼう",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 0.17,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ごま",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "作り置き",
+      "お弁当"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T02:02:42.053832",
+    "steps": [
+      "ごぼうは洗って泥を軽く落とす。",
+      "長さ5~6cm、幅3mmくらいの斜め切りにする。",
+      "切れ目を上にして千切りにする。（できれば２、３枚重ねて千切りにすると早いです。）",
+      "ごぼうを数分間、水にさらして、ザルにあげる。",
+      "にんじんもごぼうと同様に千切りにする。",
+      "フライパンにごま油をひき、ごぼう・にんじんをしんなりするまで炒める。",
+      "しんなりしてきたら酒を入れて混ぜ全体にからめる。",
+      "7に★を入れて混ぜ、味見をして好みの味に調整する。",
+      "煮汁が少量残るくらいまで煮含める。",
+      "火を止めた後、しばらく広げておく。（冷める際により味がしみます）",
+      "器に盛り付けて、いりごま（お好みで）をかけて出来上がり♪"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 13,
+      "prep": 12
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ヘルシー",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_63a2ab0b-9c2f-497b-a1db-a3380e3f69c0",
+    "nutrition": {
+      "fat": 4.0,
+      "protein": 4.0,
+      "calories": 97.0,
+      "carbs": 13.0,
+      "fiber": 0.5,
+      "salt": 0.2
+    },
+    "url": "https://cookpad.com/jp/recipes/18362980",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "ヨーグルトとＨＭで超簡単濃厚チーズケーキ",
+    "ingredients": [
+      {
+        "ingredientName": "プレーンヨーグルト",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "ホットケーキミックス",
+        "quantity": 12.5,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T23:37:48.317299",
+    "steps": [
+      "【準備】オーブンを１８０℃で予熱する。型に油を塗って粉をふるう。（分量外）または、クッキングシートを敷く。",
+      "材料を全てボールに入れ、しっかり混ぜて型に流し込み、１８０℃で予熱したオーブンで５５～７０分程度焼く。"
+    ],
+    "cookingTime": {
+      "total": 70,
+      "cook": 60,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_7005d86a-a95d-460b-a830-414b1b88a52c",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 28.0,
+      "calories": 400.0,
+      "carbs": 15.0,
+      "fiber": 1.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/20064156",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "肉マニア考案若鶏もも肉のうまいうまい焼き",
+    "ingredients": [
+      {
+        "ingredientName": "鶏もも肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "白すりごま",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.5,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しょうが",
+        "quantity": 0.5,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:42:55.185361",
+    "steps": [
+      "はじめに○を合わせておきます。にんにくとしょうがはあれば。",
+      "鶏もも肉を唐揚げ位の一口大に切ります。",
+      "鶏もも肉全体に塩、胡椒をします。",
+      "フライパンにごま油をひき、中火で温めます。",
+      "温まったフライパンに鶏もも肉を皮目から入れ、約3分焼き色をつけます。",
+      "裏返して弱火にし、さらに5分位焼きます。",
+      "両面に焼き色がついたら、合わせた○の調味料を入れ、強火で煮詰めます。",
+      "とろみがついてきたら火を止め、器にお肉を盛り付け、たれをかけたら完成です。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "時短料理"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_71e4ecf4-34a6-44b8-9681-2fba261cf5be",
+    "nutrition": {
+      "fat": 13.0,
+      "protein": 4.0,
+      "calories": 150.0,
+      "carbs": 7.0,
+      "fiber": 2.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17426721",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
+    "ingredients": [
+      {
+        "ingredientName": "白菜",
+        "quantity": 125.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "かつお節",
+        "quantity": 1.0,
+        "unit": "袋",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "和風だしの素",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.375,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "すり胡麻",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "白菜",
+      "白菜サラダ",
+      "サラダ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T03:03:45.351617",
+    "steps": [
+      "1/4カットの白菜を太めの千切りにザクザク切る。（葉の大きな部分は初めに縦半分に切ってから）●を合わせておく。",
+      "白菜をたっぷりのお湯で茹でる。（先に芯の部分を入れて、葉の部分はさっとでいい）　　　　　　　　　その後、ザルに上げて粗熱が取れたら手で水気を絞る。",
+      "ボウルに2を入れ、●を振り入れて手で揉む様に馴染ませる。冷めるまでしばらく放置。",
+      "また水分が出てくるので手でギュッと絞る。そこにマヨネーズとすり胡麻を加えて全体を良く混ぜる。最後にかつお節を加えて箸でザックリと混ぜて出来あがり♪"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_76294fbc-3163-4fe2-9b30-224c3833d310",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 30.0,
+      "calories": 600.0,
+      "carbs": 60.0,
+      "fiber": 5.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17749015",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "出来た☆ジューシーな餃子",
+    "ingredients": [
+      {
+        "ingredientName": "キャベツ",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ニラ",
+        "quantity": 0.17,
+        "unit": "束",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "豚ひき肉",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "中華スープの素",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "餃子の皮",
+        "quantity": 10.0,
+        "unit": "枚",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 1.0,
+        "unit": "小さじ",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:36:40.483536",
+    "steps": [
+      "キャベツ粗みじん、ニラは小口切り。皮以外の材料全てをボウルに入れてよく練り混ぜる。",
+      "皮で包む（中身たっぷりです）。",
+      "フライパンを熱してサラダ油をひき、餃子を並べる（餃子底の粉を落としてから←焼き色のムラをなくすため）。",
+      "この程度間隔をあけて並べてください。この時点で焼き色はつけなくてＯＫ。",
+      "水１００ｃｃを注いで、（※）羽根つきにするなら薄力粉小さじ２をよく溶かして",
+      "蓋をし火を少し弱めて４～５分。",
+      "餃子がぷっくり膨らんで、皮の中で水分が沸騰しているのが透けて見えるはず。フライパンの水分がほぼ飛んだのを確認します。",
+      "サラダ油かごま油をまわしかけ火を少し強めてパリッと焼く。端っこの底をチラ見して焼き色をチェック。",
+      "火を止めてお皿をかぶせる。お皿とフライパンしっかり両手で持ち、落ち着いてひっくり返す。返さずそのままお皿に移しても。"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 10,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_767af249-abe0-490b-8e47-37e0ce001492",
+    "nutrition": {
+      "fat": 10.0,
+      "protein": 10.0,
+      "calories": 300.0,
+      "carbs": 40.0,
+      "fiber": 2.0,
+      "salt": 0.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17967995",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "1分で中まで浸透♪フレンチトースト♪",
+    "ingredients": [
+      {
+        "ingredientName": "牛乳",
+        "quantity": 75.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "食パン",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "フレンチトースト",
+      "パン",
+      "時短レシピ"
+    ],
+    "category": [
+      "朝ごはん",
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T23:40:29.978531",
+    "steps": [
+      "食パンは食べやすい大きさに切る。",
+      "耐熱容器(食パンが重ならないでちゃんと入る大きさの物）に牛乳、卵を入れ掻き混ぜる。",
+      "食パンを液に入れて一度両面に液を付ける。",
+      "食パンは液に漬けたままラップをかけずレンジ500Wで30秒、裏にしてまた30秒。",
+      "熱したフライパンにバターを入れて中火～弱火の間でで両面じっくり焦げ目が付くまで焼けば出来上がり♪"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_798ad024-0235-4a02-ab81-670f091ad62d",
+    "nutrition": {
+      "fat": 35.0,
+      "protein": 28.0,
+      "calories": 750.0,
+      "carbs": 90.0,
+      "fiber": 4.0,
+      "salt": 3.0
+    },
+    "url": "https://cookpad.com/jp/recipes/17424363",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "牛丼～吉野家風～☆",
+    "ingredients": [
+      {
+        "ingredientName": "牛バラ肉",
+        "quantity": 85.71,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.29,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 0.29,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "本だし",
+        "quantity": 0.57,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:39:09.709008",
+    "steps": [
+      "４００ｃｃのお湯に本だしと切った玉ねぎを入れ玉ねぎが少し柔らかくなるまで煮る。",
+      "酒、砂糖、塩、両方の醤油をいれ牛ばら肉を入れかき混ぜてから蓋をします。",
+      "中火で10分くらいたったら、摩り下ろした生姜を入れます。",
+      "更に1分くらいたってから、味を見て砂糖と醤油で味を調えれば出来上がり。後は、熱々のご飯に乗せるだけ。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_7a18d76f-9942-4cc9-ab78-e3075499eeba",
+    "nutrition": {
+      "fat": 10.0,
+      "protein": 2.0,
+      "calories": 340.0,
+      "carbs": 63.0,
+      "fiber": 4.0,
+      "salt": 0.0
+    },
+    "url": "https://cookpad.com/jp/recipes/17449348",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "魔法の大学芋",
+    "ingredients": [
+      {
+        "ingredientName": "薩摩芋",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "炒りゴマ",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T02:09:49.552499",
+    "steps": [
+      "薩摩芋は良く洗い皮ごと乱切りにしたら10分ほど水につける。先の尖った切り方が、あとで先端がカリカリして美味しい。",
+      "フライパンに油大匙3をいれ砂糖大匙3をふりいれ、その上に水気をペーパーなどでぬぐった芋を平たく並べ、蓋をし点火。",
+      "中火くらいで加熱し、パチパチ音が激しくなったら火を弱め、約10分。芋に竹串がスッとささったら砂糖が絡むまで炒っていく。",
+      "良い具合に表面が均等にカリッとしてきたら、皿に盛りゴマをたっぷりふりかけ出来上がり♪余分な油は鍋に残りヘルシー！"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_7ad44b3b-1806-4b43-9623-bdad1d93d9f2",
+    "nutrition": {
+      "fat": 2.0,
+      "protein": 2.0,
+      "calories": 40.0,
+      "carbs": 4.5,
+      "fiber": 1.5,
+      "salt": 1.0
+    },
+    "url": "https://cookpad.com/jp/recipes/17631433",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "居酒屋風☆やみつききゅうり",
+    "ingredients": [
+      {
+        "ingredientName": "きゅうり",
+        "quantity": 1.0,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "鶏ガラスープの素",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "すりごま",
+        "quantity": 1.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "和え物",
+      "おつまみ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T23:37:02.708016",
+    "steps": [
+      "きゅうりを麺棒でたたき、手で適当な大きさにちぎります。",
+      "塩揉み後、10分ほど置いておき、水分をよく絞っておく。",
+      "(A)を絡ませて、出来上がり。"
+    ],
+    "cookingTime": {
+      "total": 5,
+      "cook": 1,
+      "prep": 4
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_7cb2c85b-288a-455e-89c9-02a993056f61",
+    "nutrition": {
+      "fat": 12.0,
+      "protein": 5.0,
+      "calories": 200.0,
+      "carbs": 21.0,
+      "fiber": 2.0,
+      "salt": 0.8
+    },
+    "url": "https://cookpad.com/jp/recipes/18833006",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "みんな大絶賛のポテトサラダ",
+    "ingredients": [
+      {
+        "ingredientName": "じゃがいも",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "きゅうり",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 3.75,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 6.25,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "サラダ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん",
+      "イベント・特別な日"
+    ],
+    "createdAt": "2025-12-18T02:08:35.143379",
+    "steps": [
+      "ゆで卵を作る♪じゃがいもは皮をむいて縦半分２㎝厚さに切り、お鍋に入れて洗う♪ひたひたのお水に★塩を入れて茹でる←下味➊",
+      "じゃがが煮えたら湯切りし、中火で１分ほど加熱、水分を飛ばしながら潰す♪下味➋→☆お酢を加える♪ココ大事♪味見して確認♪",
+      "2を冷ます♪野菜は薄くカット(人参は極薄に)、少量の塩で揉みしばらく置き…水で洗ってよく絞る♪卵は荒みじん切りに♪",
+      "3(野菜と卵)全部とマヨネーズを加えてよく混ぜる♪こしょうで味を整えて完成♪工程毎に味見すると失敗無く出来ますよ♪",
+      "盛り付けて出来上がりです♪"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 20,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_7cd765ab-1a71-47b3-9984-945e0742ccac",
+    "nutrition": {
+      "fat": 15.0,
+      "protein": 5.0,
+      "calories": 185.0,
+      "carbs": 10.0,
+      "fiber": 3.0,
+      "salt": 2.2
+    },
+    "url": "https://cookpad.com/jp/recipes/17426721",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
+    "ingredients": [
+      {
+        "ingredientName": "白菜",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "かつお節",
+        "quantity": 1.0,
+        "unit": "袋",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "和風だしの素",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.375,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "すり胡麻",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "サラダ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T02:02:11.434148",
+    "steps": [
+      "1/4カットの白菜を太めの千切りにザクザク切る。（葉の大きな部分は初めに縦半分に切ってから）●を合わせておく。",
+      "白菜をたっぷりのお湯で茹でる。（先に芯の部分を入れて、葉の部分はさっとでいい）その後、ザルに上げて粗熱が取れたら手で水気を絞る。",
+      "ボウルに2を入れ、●を振り入れて手で揉む様に馴染ませる。冷めるまでしばらく放置。",
+      "また水分が出てくるので手でギュッと絞る。そこにマヨネーズとすり胡麻を加えて全体を良く混ぜる。最後にかつお節を加えて箸でザックリと混ぜて出来あがり♪"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 5,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ヘルシー",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_a57ce715-0310-4a21-99c2-dd53130161ed",
+    "nutrition": {
+      "fat": 12.0,
+      "protein": 19.0,
+      "calories": 490.0,
+      "carbs": 70.0,
+      "fiber": 5.0,
+      "salt": 2.3
+    },
+    "url": "https://cookpad.com/jp/recipes/17771866",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "極ウマ♡ナスとひき肉のボロネーゼ風パスタ",
+    "ingredients": [
+      {
+        "ingredientName": "パスタ",
+        "quantity": 80.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "豚ひき肉",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "ナス",
+        "quantity": 1.0,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 1.0,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 2.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ウスターソース",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "顆粒コンソメ",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "パルメザンチーズ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "パスタ"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:40:47.074038",
+    "steps": [
+      "パスタを茹で始める。にんにくはみじん切り ナスはヘタを取って洗い小さめのひと口大に切る。",
+      "フライパンを熱して温まったらひき肉を入れ炒める。色が変わってきたらにんにくを入れ炒めいい香りがしてきたらナスも入れる。",
+      "全体に混ぜながら炒めナスがしんなりしてきたらケチャップ ウスターソース コンソメの順に入れ混ぜる。",
+      "茹で上がったパスタを加え全体に絡まるように混ぜたらお皿に盛りつけ出来上がり♪パルメザンチーズをかけて食べてね♡"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_a78e01e2-b3c0-4099-8e2b-b073765a6dd7",
+    "nutrition": {
+      "fat": 18.0,
+      "protein": 4.0,
+      "calories": 280.0,
+      "carbs": 30.0,
+      "fiber": 2.0,
+      "salt": 0.4
+    },
+    "url": "https://cookpad.com/jp/recipes/17480081",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "簡単！ホットケーキミックスでバナナケーキ",
+    "ingredients": [
+      {
+        "ingredientName": "バナナ",
+        "quantity": 0.17,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "マーガリン",
+        "quantity": 6.7,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.17,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "ホットケーキミックス",
+        "quantity": 16.7,
+        "unit": "g",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [
+      "ケーキ",
+      "スイーツ"
+    ],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T23:39:53.566457",
+    "steps": [
+      "ボウルにバナナを入れてつぶし、マーガリン、卵、ホットケーキミックスの順に入れて　その都度よく混ぜる。",
+      "パウンド型2つに分けいれて　１８０度に予熱したオーブンで３０分焼く。"
+    ],
+    "cookingTime": {
+      "total": 45,
+      "cook": 30,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_a94cd1a5-f1da-4a9c-9d0f-b968453a5d13",
+    "nutrition": {
+      "fat": 15.0,
+      "protein": 3.0,
+      "calories": 250.0,
+      "carbs": 25.0,
+      "fiber": 4.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/19174499",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "マジ旨！薩摩芋とレンコンのデパ地下風",
+    "ingredients": [
+      {
+        "ingredientName": "さつまいも",
+        "quantity": 66.7,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "れんこん",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ごま",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "根菜",
+      "甘酢炒め"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-17T06:15:03.043255",
+    "steps": [
+      "さつま芋は皮つきで0.5～1cm幅に切り、水にさらし片栗粉をつける。（大きい場合、半月切り）",
+      "多めの油を熱したフライパンでコンガリ焼き、取り出す。",
+      "れんこんは1cm幅に切り、片栗粉をつける。（大きい場合、半月切り）",
+      "多めの油を熱したフライパンでコンガリ焼く。",
+      "フライパンに薩摩芋を戻し、★を入れ一煮立ちさせ、タレを絡ませる。仕上げのゴマ。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_adf980a1-2bb8-4b0d-9a1b-74a9eb73bc90",
+    "nutrition": {
+      "fat": 15.0,
+      "protein": 18.0,
+      "calories": 250.0,
+      "carbs": 10.0,
+      "fiber": 3.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/17555478",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "旨い！ゴーヤチャンプル",
+    "ingredients": [
+      {
+        "ingredientName": "ゴーヤ",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "豚肉",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "木綿豆腐",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "かつおぶし",
+        "quantity": 0.25,
+        "unit": "袋",
+        "category": "海産物"
+      },
+      {
+        "ingredientName": "オイスターソース",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "和風だし",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "殿堂入り",
+      "沖縄料理",
+      "時短",
+      "本格的"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T02:09:29.313313",
+    "steps": [
+      "ゴーヤを切って塩でもむ、そして塩水に最低１０分つけておく。ここで苦味を軽減させます。",
+      "切った豆腐をキッチンペーパー３～４枚に包んで、レンジ６００Ｗで１分くらいかけて水分を飛ばす",
+      "豚肉に塩コショウをしてから小麦粉でコーティングしておく",
+      "オリーブオイルをひいて豆腐を炒め、焦げ目が軽くついたら、取り出しておく。",
+      "ごま油を入れて豚肉、塩分を洗い落とし水気を切ったゴーヤを炒める",
+      "豆腐を加えて混ぜておいた★調味料を入れる。",
+      "解き卵を回し入れて、鰹節をいれて全体にからめたら出来上がり♪"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 15,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "おつまみ",
+      "ダイエット向き",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_b6544191-854c-44f6-9b83-9628f04a7b3a",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 25.0,
+      "calories": 320.0,
+      "carbs": 20.0,
+      "fiber": 0.5,
+      "salt": 3.0
+    },
+    "url": "https://cookpad.com/jp/recipes/19196492",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "鶏手羽元の甘辛さっぱり煮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏の手羽元",
+        "quantity": 125.0,
+        "unit": "g",
+        "category": "お肉"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "さっぱり煮",
+      "手羽元"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T02:07:36.430719",
+    "steps": [
+      "フライパンに油を熱し、手羽元を入れ、表面を軽く素焼きにする。",
+      "[1]に、醤油、料理酒、酢、砂糖を入れて煮る。※みりんのみ後入れ。",
+      "弱火で落とし蓋をして、更に蓋をして30分煮込む。※水分が飛んで焦げそうなら水を少し足す。",
+      "途中一度上下を返す。最後5分でみりんを入れて強火で煮詰め、照りを出す。",
+      "お皿に盛り付け、お好みでゴマを振り掛けて完成。"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 30,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_cac7fcfe-6e9e-4f70-8887-744115816dba",
+    "nutrition": {
+      "fat": 35.5,
+      "protein": 27.0,
+      "calories": 470.0,
+      "carbs": 7.0,
+      "fiber": 0.0,
+      "salt": 1.9
+    },
+    "url": "https://cookpad.com/jp/recipes/22640981",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "めっちゃジューシー♪鶏の唐揚げ",
+    "ingredients": [
+      {
+        "ingredientName": "鶏もも肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "おろしにんにく",
+        "quantity": 0.5,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "おろししょうが",
+        "quantity": 0.5,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 0.75,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.75,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T02:11:00.450533",
+    "steps": [
+      "鶏肉は大きめの一口大にカット。●の調味料を良くもみ込み、３０分位おく。（冷蔵）",
+      "次にときほぐした卵を入れて良くもみ込む。ここでも出来たら３０分程おく。（時間無ければすぐに３へ）",
+      "２に◎を入れて混ぜる。★カリッと仕上げたい場合は、ボウルに◎を合わせて入れ、そこに汁気をきった鶏肉を入れてまぶす。",
+      "中温の油で揚げる。",
+      "まだ少し揚げ色が足りないうちに取り出し、2～3分置く。油を高温に上げる。",
+      "高温の油に５を戻し入れて、こんがり良い揚げ色が付くまで、1～2分揚げる。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_cbbf1e46-a3d8-4ca5-b43e-dbcc2ca907cd",
+    "nutrition": {
+      "fat": 10.0,
+      "protein": 2.0,
+      "calories": 180.0,
+      "carbs": 20.0,
+      "fiber": 1.0,
+      "salt": 0.1
+    },
+    "url": "https://cookpad.com/jp/recipes/17563615",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "簡単やみつきクッキー♪卵なしでサクサク☆",
+    "ingredients": [
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 4.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "マーガリン",
+        "quantity": 2.0,
+        "unit": "g",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [
+      "焼き菓子"
+    ],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T02:06:41.063724",
+    "steps": [
+      "厚手のビニール袋に薄力粉と砂糖を入れる。小さめのボウルやお椀などにポリ袋をかぶせて、計りながら入れると楽チン♪",
+      "袋の口を軽くねじって持って空気を入れ、袋を振ってパフパフします。これで粉ふるい完了♪",
+      "１の要領でマーガリン(冷たいままでOK)も入れたら、粉っぽさがなくなるまで袋をもみもみ♪",
+      "袋のまま麺棒で生地を５ミリくらいの厚さに伸ばします。袋を四角くたたむとやりやすい♪",
+      "袋をキッチンバサミで切り開き、好きなように型抜きして、クッキングシートを敷いた天板に並べます♪",
+      "170℃に余熱しておいたオーブンで20分ほど焼いたら出来上がり♪焼きたてはやわらかいけど、冷めたらサクサクになります♪"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 20,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_cdfc88f2-0b0f-4e23-bddb-91a7c190a964",
+    "nutrition": {
+      "fat": 10.0,
+      "protein": 3.0,
+      "calories": 180.0,
+      "carbs": 20.0,
+      "fiber": 1.0,
+      "salt": 0.5
+    },
+    "url": "https://cookpad.com/jp/recipes/18978154",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "☆HMチョコスコーン☆",
+    "ingredients": [
+      {
+        "ingredientName": "ホットケーキミックス",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 5.625,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "板チョコレート",
+        "quantity": 0.125,
+        "unit": "枚",
+        "category": "加工食品"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T02:11:16.223880",
+    "steps": [
+      "チョコを適当な、大きさに刻んでおく♪",
+      "ボールにホットケーキミックスをいれ、柔らかくしたバターを加えて木べらでさっくり混ぜる♪",
+      "牛乳、刻んだチョコを加えて混ぜる♪",
+      "最後は手でまとめて、ひとかたまりに♪",
+      "オーブンシートを敷いた天板に生地を置き、軽く形を整えて♪",
+      "包丁で、8等分にする♪",
+      "並べて‥‥",
+      "オーブン、170度で20〜25分焼いたら出来上がり♪♪♪（オーブンの機種により焼き時間は異なります。加減して下さいね＊）"
+    ],
+    "cookingTime": {
+      "total": 40,
+      "cook": 25,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_d5525dca-7c54-41c0-8061-20683b51e917",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 12.0,
+      "calories": 350.0,
+      "carbs": 25.0,
+      "fiber": 1.5,
+      "salt": 0.3
+    },
+    "url": "https://cookpad.com/jp/recipes/17508669",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "簡単★しっとり濃厚チーズケーキ",
+    "ingredients": [
+      {
+        "ingredientName": "クリームチーズ",
+        "quantity": 31.25,
+        "unit": "g",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "生クリーム",
+        "quantity": 25.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 0.375,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "レモン汁",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "クラッカーまたはビスケット",
+        "quantity": 11.25,
+        "unit": "g",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [
+      "チーズケーキ"
+    ],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-18T23:41:21.129628",
+    "steps": [
+      "クラッカーを袋に入れ密封して細かく砕き、溶かした無塩バターと混ぜ合わせて型の底に敷く。（マッシャー等で力強く押し付ける）",
+      "クリームチーズをレンジで３０秒～１分くらい加熱して柔らかくし、３～４等分にしておく。",
+      "ミキサーに卵・グラニュー糖・レモン汁・薄力粉を入れて攪拌する。（薄力粉は少量だけどふるってください）",
+      "さらに生クリームとクリームチーズを投入して攪拌する。（うまく混ざらない場合は一度止めてゴムベラでかき混ぜてから再度攪拌）",
+      "①の型に④の生地を流し込み、170℃に予熱しておいたオーブンで４０～４５分焼く。",
+      "キレイな焼き色がつき竹串に生地がつかなければOK。粗熱がとれたら型のまま冷蔵庫に入れ一晩じっくり冷やして出来上がり♪"
+    ],
+    "cookingTime": {
+      "total": 60,
+      "cook": 45,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_de097bd9-26de-45e8-8782-607ccb20b07d",
+    "nutrition": {
+      "fat": 12.0,
+      "protein": 14.0,
+      "calories": 210.0,
+      "carbs": 7.0,
+      "fiber": 1.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/18003519",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "こってり甘旨っ！◆豚丼◆",
+    "ingredients": [
+      {
+        "ingredientName": "豚コマ切れ肉",
+        "quantity": 85.7,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "レタス",
+        "quantity": 1.3,
+        "unit": "枚",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "玉葱",
+        "quantity": 0.14,
+        "unit": "個",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "豚丼",
+      "丼もの"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:37:22.367003",
+    "steps": [
+      "レタスは1.5センチくらいの太さに切り、冷蔵庫で冷やしてパリッとさせておく。※キャベツ使用の場合は千切りにする。",
+      "玉葱は粗みじんにする。",
+      "フライパンに少量の油を敷き中火で豚肉を炒め、お皿にいったん取り出しておく(玉葱を炒めるのでフライパンは洗わない)",
+      "豚肉から出た油を利用して、玉葱をほんのりきつね色になるくらいまで炒める。",
+      "いったん火を止め、◆の調味料を加えて再び火にかけ、③のお肉も加え、中火でタレをお肉によくからめる。",
+      "器にご飯を盛り、レタスを敷いてお肉をのせて出来上がり♫フライパンに残ったタレもかけてね。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_e0a6ed84-f1b3-4cff-b598-18774a60e019",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 12.0,
+      "calories": 300.0,
+      "carbs": 15.0,
+      "fiber": 3.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/18558350",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "子供も大好き！豚なすピーマンみそ炒め",
+    "ingredients": [
+      {
+        "ingredientName": "豚バラ薄切り",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "なす",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ピーマン",
+        "quantity": 30.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.25,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しょうが",
+        "quantity": 0.25,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "長ねぎ",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "肉野菜炒め",
+      "なす料理",
+      "味噌炒め"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T02:06:17.208198",
+    "steps": [
+      "なすは大きめの乱切りで水にさらす。ピーマンも乱切り。豚バラは４cmに切り、にんにくとしょうがは薄切り、長ねぎは粗みじん",
+      "フライパンににんにく、しょうが、長ねぎを入れて火にかけ、油がちりちりいいだしたら豚バラも加えて炒める",
+      "豚バラがほぐれたらなすも加えて炒める。なすに油が回ったら調味料と水を加え、蓋をして強火で煮立てる",
+      "煮汁が煮詰まってきたらピーマンを加え、煮汁が完全に煮詰まり油がじゅうじゅういいだすまで炒め煮。好みで粉山椒を振っても"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_e20aacc4-d722-4887-862a-847169c5e45a",
+    "nutrition": {
+      "fat": 28.0,
+      "protein": 7.0,
+      "calories": 450.0,
+      "carbs": 45.0,
+      "fiber": 3.0,
+      "salt": 0.2
+    },
+    "url": "https://cookpad.com/jp/recipes/17546743",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "◆りぴ・りぴ㊙チョコレートケーキ◆",
+    "ingredients": [
+      {
+        "ingredientName": "卵白",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "卵黄",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 10.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 6.25,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "純ココア",
+        "quantity": 2.5,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "生クリーム",
+        "quantity": 25.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "スイートチョコ",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "純ココア",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ",
+      "イベント・特別な日"
+    ],
+    "createdAt": "2025-12-18T03:03:20.953413",
+    "steps": [
+      "【下準備】型にクッキングシート（包装紙でもＯＫ！）を敷く。クッキングシートが浮いちゃう場合は、型の内側にサラダ油を塗ってから敷くと引っ付きますよ♪卵は使う直前まで冷やしておく。（泡立ち易いそうです！）",
+      "ボウルに卵白を入れ、ハンドミキサーでほぐすように泡立てる。（※ボウルは必ず綺麗なものを使って下さい。水分や油気が付いていると綺麗に泡立ちません！）",
+      "泡の大きさが全体にそろってきたら、グラニュー糖を半分加え更に混ぜ合わせる。ふわふわになったら残りのグラニュー糖を加え、きめ細かくツヤのあるメレンゲを作っていきます。",
+      "ハンドミキサーを持ち上げた時、メレンゲが角立ったらＯＫです！",
+      "④に卵黄を入れ混ぜ合わせる。（全体に混ざったらＯＫです♪）",
+      "⑤に薄力粉をふるいにかけながら加える。ゴムベラを立てて、底から生地をすくいあげ、生地を切るようにさっくり混ぜ合わせる。ボウルを手前に回しながらするとやり易いですよ！（※絶対に練らないようにして下さいね♪）",
+      "耐熱ボウルにバターと牛乳を入れ、ラップをし、レンジで1分半温める。（小鍋に入れて温めてもＯＫです)",
+      "温まったら、ココアを茶こしでふるいにかけながら加え溶かす。（※手間ですが、必ずふるいにかけて下さいね！）",
+      "ココアがしっかり溶けるまでかき混ぜて下さい！（※ダマが残らないようにしっかり溶かして下さいねぇ♪）",
+      "⑥に⑨を少しずつ回し入れ（※一気に入れるとココアバターが沈んでしまいます！）、生地をすくいあげるように、ボウルを手前に回しながら、手早く切るように混ぜ合わせる。（※ここでも、絶対に練らないようにして下さいね♪）",
+      "型に⑩の生地を流し入れる。（※ボウルに残った生地はふくらみが悪いので、火の通りが早い型のまわりに流し込んで下さい♪）型を少し高い所から4～5回落として空気抜きをし、表面を平らにならします。",
+      "170度に温めておいたオーブンで30～40分焼く。中心に竹串をさして生地がつかないようであれば出来上がり！焼けたらすぐ、型ごと20～30ｃｍの高さから1回落とし、焼き縮みを防ぎます。",
+      "台の上に固く絞った濡れ布巾を敷き、型からスポンジをとり出す。側面のクッキングシートをはがす。（上の面を下にして置く）",
+      "⑬に、もう一度型をかぶせて、2～3分おく。（※表面を平らにする為と、生地の中の水分を均一にする為です)",
+      "型をはずして、底のクッキングシートを外し、",
+      "表に返して、クーラー（網）の上にのせ、",
+      "固く絞った濡れ布巾をかけて冷ます。",
+      "スポンジが冷めたら三枚にスライスにする。（※1日寝かせた方がスライスし易いです。乾燥しないようにビニール袋に入れて保存）",
+      "【スポンジを綺麗にスライスするポイント】スライスして、戻した時に、方向が分かるように包丁で縦に目印をつけておく。",
+      "≪スライサーがない場合≫側面の切る同じ高さの位置に（まず上の段から）爪楊枝を等間隔にさし（4～8箇所位）、",
+      "その上（爪楊枝）に包丁をのせるようにして、スポンジを水平に切り分ける。同様にして下の段も切り分ける。",
+      "スライスしたスポンジを、目印にあわせて、重ねる。",
+      "【綺麗技】三枚にスライスしたスポンジは、下段を上下ひっくり返しに。上段を真ん中に、中段を一番上に入れ替えるとデコ後が綺麗",
+      "【チョコレートクリームを作る】小鍋に生クリームを入れ、弱火で温める。温まったら火を止め（※鍋の周りがフツフツするくらい！）細かく刻んだチョコレートを加え溶かす。",
+      "混ぜ溶かす。（粗熱がとれたらお好みで洋酒プラス。工程42参照）※鍋に残ったチョコでホットチョコレート",
+      "鍋底を氷水をつけて、泡立て器でトロッとコーティングし易いかたさになるまで冷ます。（ホイップしても美味しいですよ♡）",
+      "(23)のスポンジの切り口に（26）のチョコクリームをたっぷ～りサンド！（※思ってるよりも多めにサンド！しっとり倍増♡）",
+      "たっぷ～り♪",
+      "上や側面にもたっぷりぬって9割出来上がり！",
+      "チョコレートクリームが固まったら（固まりにくい時は冷蔵庫に入れて下さいね♪）、茶こしでココアパウダー（分量外）をふります。側面はケーキー持ち上げて、斜めに傾けながらふりかけて下さい。",
+      "チョコレートクリームが固まったら切り分けて出来上がり（包丁を熱い湯につけて、水分を拭きとってから切ると綺麗に切れます）",
+      "【賞味期限】2～3日。当日も美味しいですが、2日目の方が断然美味しい！チョコクリームがスポンジに馴染んでしっとり最高！",
+      "【保存】ラップをふわっとかけて常温で保存。ケーキの箱や、紙袋でもOK！夏場は野菜室などで保存して下さい。"
+    ],
+    "cookingTime": {
+      "total": 100,
+      "cook": 40,
+      "prep": 60
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ヘルシー",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_e7d33019-3437-437a-a7e1-0c4ea5206233",
+    "nutrition": {
+      "fat": 13.0,
+      "protein": 8.0,
+      "calories": 200.0,
+      "carbs": 14.0,
+      "fiber": 7.0,
+      "salt": 1.8
+    },
+    "url": "https://cookpad.com/jp/recipes/17426721",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
+    "ingredients": [
+      {
+        "ingredientName": "白菜",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "かつお節",
+        "quantity": 1.0,
+        "unit": "袋",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "和風だしの素",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "すり胡麻",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "サラダ"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:36:19.289044",
+    "steps": [
+      "1/4カットの白菜を太めの千切りにザクザク切る。（葉の大きな部分は初めに縦半分に切ってから）●を合わせておく。",
+      "白菜をたっぷりのお湯で茹でる。（先に芯の部分を入れて、葉の部分はさっとでいい）その後、ザルに上げて粗熱が取れたら手で水気を絞る。",
+      "ボウルに2を入れ、●（和風だしの素）を振り入れて手で揉む様に馴染ませる。冷めるまでしばらく放置。",
+      "また水分が出てくるので手でギュッと絞る。そこにマヨネーズとすり胡麻を加えて全体を良く混ぜる。最後にかつお節を加えて箸でザックリと混ぜて出来あがり♪"
+    ],
+    "cookingTime": {
+      "total": 12,
+      "cook": 7,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_efb9e70e-ef7b-45f4-9fbc-6bfd29cf52ff",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 25.0,
+      "calories": 300.0,
+      "carbs": 5.0,
+      "fiber": 1.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17832934",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "食べ過ぎ注意☆鶏肉のねぎマヨポン炒め",
+    "ingredients": [
+      {
+        "ingredientName": "鶏肉",
+        "quantity": 125.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.625,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "青葱",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "炒め物"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T02:07:07.683045",
+    "steps": [
+      "鶏肉は食べやすい大きさに切る。☆印の調味料をもみこんで１０分以上おく。その後全体に片栗粉をまぶす。",
+      "フライパンにマヨネーズ（炒め用）を入れてから火にかけ、マヨネーズがとけてきたら《１》を入れる。",
+      "強めの中火にして肉の表面をこんがり焼く。あまり動かしたりかきまぜたりしないでね。表面が焼けてから少し火を弱め、ふたをして中まで火を通す。",
+      "最後にマヨネーズ（味付け用）とポン酢、青葱の小口切りを加えてさっと混ぜる。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_f57855c4-6ee4-4e1f-a710-dd8c78a0178d",
+    "nutrition": {
+      "fat": 10.0,
+      "protein": 15.0,
+      "calories": 250.0,
+      "carbs": 20.0,
+      "fiber": 3.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/18478645",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "大根とひき肉で♪簡単とろ〜り煮物",
+    "ingredients": [
+      {
+        "ingredientName": "大根",
+        "quantity": 90.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "豚ひき肉",
+        "quantity": 35.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 0.2,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "だし汁",
+        "quantity": 40.0,
+        "unit": "ml",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.2,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-18T23:42:00.401126",
+    "steps": [
+      "大根を食べやすい大きさに切る（写真は乱切り）。",
+      "鍋に○と大根と豚ひき肉、生姜を入れる。ひと混ぜしたら落とし蓋をして中火にかけて、途中で灰汁を取る。",
+      "沸騰後中火で20分程煮込んで煮汁がほぼなくなったら水溶き片栗粉を入れとろみをつけ完成。火を止めしばらく置いて煮含ませる。"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 20,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_f7df0f9f-fc09-4240-9e86-49d901d8a82f",
+    "nutrition": {
+      "fat": 5.0,
+      "protein": 4.0,
+      "calories": 90.0,
+      "carbs": 6.0,
+      "fiber": 1.0,
+      "salt": 1.8
+    },
+    "url": "https://cookpad.com/jp/recipes/19159154",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "我が家の定番やみつき☆もやしの中華サラダ",
+    "ingredients": [
+      {
+        "ingredientName": "もやし",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "きゅうり",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ハム",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "加工食品"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "中華サラダ"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:41:40.440000",
+    "steps": [
+      "もやしはさっと茹で、水で洗って冷やし、水を切っておく。",
+      "きゅうりを千切りし、ハムは細長く切っておく。",
+      "☆の調味料をボールに入れ、よく混ぜておく。",
+      "もやし、きゅうり、ハムを☆の調味料の中に入れ混ぜ合わせ完成！"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 3,
+      "prep": 7
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_fe7055c4-807a-4d6b-b0dd-dd47df59e90d",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 25.0,
+      "calories": 350.0,
+      "carbs": 25.0,
+      "fiber": 1.5,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17868688",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "サバの味噌煮",
+    "ingredients": [
+      {
+        "ingredientName": "サバ",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "海産物"
+      },
+      {
+        "ingredientName": "しょうが",
+        "quantity": 0.25,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "味噌",
+        "quantity": 0.75,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-18T23:38:29.061752",
+    "steps": [
+      "サバは表、裏ともしっかり熱湯をかけ霜降りする。※臭みが残らないように熱湯でしっかりと下処理してください。しょうがは薄切りに。",
+      "フライパンに調味料類を全て入れ、強めの中火でぐつぐつなったら、中火にし、味をみてサバとしょうがを入れる。蓋をして、時々煮汁をかけながら煮る。※煮詰まると味が濃くなるのでそれを踏まえて好みの味に調えて下さい。",
+      "１０～１３分程でとろっとしてきたらできあがり。※とろみがつかないと思っていても、しばらく煮詰めるととろりとなります。"
+    ],
+    "cookingTime": {
+      "total": 22,
+      "cook": 12,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "bca0efc3-7ecd-4f67-8f8b-2fda770dab33",
+    "nutrition": {
+      "fat": 12.0,
+      "protein": 6.2,
+      "calories": 202.0,
+      "carbs": 30.0,
+      "fiber": 1.0,
+      "salt": 1.7
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/801674/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "ほうれん草 de チーズリゾット",
+    "ingredients": [
+      {
+        "ingredientName": "ごはん",
+        "quantity": 60.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "クノール カップスープ チーズ仕立てのほうれん草のポタージュ",
+        "quantity": 1.0,
+        "unit": "袋",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "シュレッドチーズ",
+        "quantity": 15.0,
+        "unit": "g",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "リゾット",
+      "チーズ料理",
+      "マグカップ料理"
+    ],
+    "category": [
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-15T13:50:31.635846",
+    "steps": [
+      "マグカップに「クノール カップスープ」を入れる。",
+      "（１）のマグカップに熱湯を注ぎ、すぐに１５秒ほどかき混ぜる。",
+      "ごはんを加えて軽くかき混ぜ、チーズをのせる。"
+    ],
+    "cookingTime": {
+      "total": 5,
+      "cook": 2,
+      "prep": 3
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "bec4fce0-f089-4a43-a082-c593046f811c",
+    "nutrition": {
+      "fat": 4.4,
+      "protein": 3.8,
+      "calories": 69.0,
+      "carbs": 4.1,
+      "fiber": 1.6,
+      "salt": 1.7
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/003998/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "大根の葉とじゃこ炒め",
+    "ingredients": [
+      {
+        "ingredientName": "大根の葉",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "本だし",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "白ごま",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ちりめんじゃこ",
+        "quantity": 0.75,
+        "unit": "大さじ",
+        "category": "海産物"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "20分以内",
+      "大根",
+      "副菜もう一品",
+      "冬レシピ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-15T13:51:21.326408",
+    "steps": [
+      "大根の葉はサッと塩ゆでして、みじん切りにする。",
+      "鍋に油を熱してごまを炒め、ごまが色づいてきたらちりめんじゃこ、(1)の大根の葉を加え、強火で軽く炒める。",
+      "Aを加え、汁気を飛ばしながら手早く炒め合わせる。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "時短料理"
+    ],
+    "favoriteCount": 0,
+    "id": "eb65abe0-2b1b-47cf-ab54-24a42db62fc9",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 20.0,
+      "calories": 300.0,
+      "carbs": 10.0,
+      "fiber": 1.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/18090858",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "一番簡単★しょうが焼き",
+    "ingredients": [
+      {
+        "ingredientName": "豚ロース",
+        "quantity": 120.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "生姜チューブ",
+        "quantity": 2.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-16T23:32:26.567248",
+    "steps": [
+      "肉を軽く焼く。",
+      "混ぜておいた★を入れ、タレがほとんどなくなれば完成！"
+    ],
+    "cookingTime": {
+      "total": 8,
+      "cook": 6,
+      "prep": 2
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "f0d3faba-20a9-4a8b-b432-cb3ebdbd9bb4",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 14.1,
+      "calories": 322.0,
+      "carbs": 12.0,
+      "fiber": 4.0,
+      "salt": 2.3
+    },
+    "url": "https://park.ajinomoto.co.jp/recipe/card/705346/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "name": "見た目も美味しい！ だし香る 豚バラと白菜の重ね鍋",
+    "ingredients": [
+      {
+        "ingredientName": "豚バラ薄切り肉",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "白菜",
+        "quantity": 250.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ほんだし",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "白髪ねぎ",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小ねぎ",
+        "quantity": 0.75,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しょうが",
+        "quantity": 0.0625,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "ミルフィーユ鍋",
+      "冬レシピ",
+      "白菜",
+      "豚バラ",
+      "秋レシピ",
+      "鍋"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-15T13:38:10.213627",
+    "steps": [
+      "白菜は1枚ずつはがし、白菜と豚肉を交互に4回重ねる。5cm幅に切り、鍋のフチに沿って敷き詰める。これを3～4回繰り返す。",
+      "「ほんだし」をまんべんなくふり入れ、Aを加えて火にかける。沸騰したらフタをして煮る。",
+      "火が通ったら白髪ねぎ、小ねぎ、しょうがを混ぜ合わせたものを上に盛る。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
   }
 ]
