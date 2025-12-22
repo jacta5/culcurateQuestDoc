@@ -3385,7 +3385,7 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707198/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-19T13:26:40.170000+00:00",
     "name": "お鍋の野菜が朝食に！きのこ白菜のトマトコンソメスープ",
     "ingredients": [
       {
@@ -3433,7 +3433,7 @@
       "cook": 5,
       "prep": 5
     },
-    "isDeleted": false,
+    "isDeleted": true,
     "genres": [
       "洋食"
     ]
@@ -4767,7 +4767,7 @@
     },
     "url": "https://cookpad.com/jp/recipes/19240768",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-19T13:29:12.900000+00:00",
     "name": "家の黄金比率で♪かぼちゃの煮物♡",
     "ingredients": [
       {
@@ -4798,7 +4798,7 @@
       "cook": 15,
       "prep": 10
     },
-    "isDeleted": false,
+    "isDeleted": true,
     "genres": [
       "和食"
     ]
@@ -5024,7 +5024,7 @@
     },
     "url": "https://cookpad.com/jp/recipes/17426721",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-19T13:32:25.982000+00:00",
     "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
     "ingredients": [
       {
@@ -5081,7 +5081,7 @@
       "cook": 10,
       "prep": 5
     },
-    "isDeleted": false,
+    "isDeleted": true,
     "genres": [
       "和食"
     ]
@@ -5542,7 +5542,7 @@
     },
     "url": "https://cookpad.com/jp/recipes/17426721",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-19T13:33:36.604000+00:00",
     "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
     "ingredients": [
       {
@@ -5597,7 +5597,7 @@
       "cook": 5,
       "prep": 10
     },
-    "isDeleted": false,
+    "isDeleted": true,
     "genres": [
       "和食"
     ]
@@ -7169,6 +7169,4857 @@
     "isDeleted": false,
     "genres": [
       "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_0487fbc0-9461-48cc-a566-73247768fd0f",
+    "nutrition": {
+      "fat": 35.0,
+      "protein": 25.0,
+      "calories": 550.0,
+      "carbs": 20.0,
+      "fiber": 2.0,
+      "salt": 2.5
+    },
+    "url": "https://bazurecipe.com/2020/05/17/%e7%a9%b6%e6%a5%b5%e3%81%ae%e8%b1%9a%e3%82%b3%e3%83%9e%e7%94%9f%e5%a7%9c%e7%84%bc%e3%81%8d/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "究極の豚コマ生姜焼き",
+    "ingredients": [
+      {
+        "ingredientName": "豚コマ肉",
+        "quantity": 110.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 7.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 0.75,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "味の素",
+        "quantity": 0.2,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉",
+      "フライパン",
+      "野菜・果物"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:33:05.677536",
+    "steps": [
+      "豚コマ肉200gに塩コショウを振り、小麦粉大さじ1と1/2をまぶします。",
+      "フライパンにサラダ油大さじ1強を熱し、(1)の豚肉を入れ焦げ目がつくまで焼きます。",
+      "焦げ目がついたら玉ねぎ1/2個を加えて炒めます。",
+      "醤油大さじ1と1/2、みりん小さじ2、酒大さじ2、砂糖小さじ1と1/2、千切り生姜7g、おろし生姜8g、味の素3ふりを加えて全体を炒め合わせたら完成です。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_07f5bc8c-fb38-4154-b0d3-cd2ee0b290ff",
+    "nutrition": {
+      "fat": 23.0,
+      "protein": 22.0,
+      "calories": 670.0,
+      "carbs": 94.0,
+      "fiber": 3.0,
+      "salt": 3.5
+    },
+    "url": "https://bazurecipe.com/2020/04/28/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%8a%e3%83%9d%e3%83%aa%e3%82%bf%e3%83%b3/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高のナポリタン",
+    "ingredients": [
+      {
+        "ingredientName": "パスタ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "マッシュルーム",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ウインナソーセージ",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "タマネギ",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ピーマン",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 4.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "パスタ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:31:34.641683",
+    "steps": [
+      "ウインナソーセージは拍子切り、マッシュルームとピーマンはスライス、タマネギはくし切りにしておく。",
+      "フライパンに油をひき、ウインナソーセージを炒めて脂が出てきたら、マッシュルーム、タマネギを入れて炒める。",
+      "ケチャップを入れて、へらなどで混ぜながら酸味のないペースト状になるまでよく炒める。",
+      "ペーストをフライパンの端に寄せ、バターを入れてピーマンを炒める。",
+      "ゆであがったパスタを入れて焼きながら絡める。パサつくようであればパスタのゆで汁を少し、味が足りなければコンソメを入れる。",
+      "器に盛り、粉チーズと黒コショウを振り供する。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_0b94d8c5-6414-48e3-b9b7-4017569a5c76",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 35.0,
+      "calories": 450.0,
+      "carbs": 15.0,
+      "fiber": 1.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/recipe/450372",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "食べ過ぎ注意☆鶏肉のねぎマヨポン炒め",
+    "ingredients": [
+      {
+        "ingredientName": "鶏肉",
+        "quantity": 125.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.625,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 0.75,
+        "unit": "大さじ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "青ねぎ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:07:37.176304",
+    "steps": [
+      "鶏肉は食べやすい大きさに切る。写真はころころですが、それより火の通りやすいそぎ切りがお勧め。☆印の調味料をもみこんで１０分以上おく。（ビニール袋を利用すると便利です）その後全体に片栗粉をまぶす。",
+      "フライパンにマヨネーズ（炒め用）を入れてから火にかけ、マヨネーズがとけてきたら《１》を入れる。",
+      "強めの中火にして肉の表面をこんがり焼く。あまり動かしたりかきまぜたりしないでね。表面が焼けてから少し火を弱め、ふたをして中まで火を通す。",
+      "最後にマヨネーズ（味付け用）とポン酢、青葱の小口切りを加えてさっと混ぜる。"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_0cad4df9-d87c-4962-b395-2deb76b79b26",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 25.0,
+      "calories": 550.0,
+      "carbs": 80.0,
+      "fiber": 4.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17679730",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "喫茶店の味♡懐かしまろやかナポリタン",
+    "ingredients": [
+      {
+        "ingredientName": "パスタ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ピーマン",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ソーセージ",
+        "quantity": 1.75,
+        "unit": "本",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "椎茸",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 3.0,
+        "unit": "大さじ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "粉チーズ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "パセリ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "パスタ",
+      "洋風"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:30:23.344077",
+    "steps": [
+      "具を食べやすい大きさに切る。パスタを茹でるお湯を沸かし始める。",
+      "■はよく混ぜ合わせておく。",
+      "フライパンを中火に熱し、バターとオリーブ油を入れて玉ねぎを炒める。",
+      "玉ねぎが透き通ってしんなりしたら、ピーマン、ソーセージ、椎茸を加えて更に炒め、軽く塩胡椒をふる。",
+      "火が通ったら一度取り出す。",
+      "同じフライパンに2を入れ、混ぜながら中火で煮立てる。",
+      "写真のようにふつふつと泡立ち、ソースの色が赤くやや透明になるまでしっかりと煮立てる。焦がさないように絶えず混ぜて。",
+      "5で取り出しておいた具を戻す。",
+      "軽く混ぜ合わせたらソースの完成。火を止めておく。",
+      "パスタを茹でる。おすすめはバリラの1.7mm。つるつるもちもちでソースがよく絡みます。",
+      "パスタが茹ったら再び9を熱し、パスタと茹で汁を入れて手早く混ぜる。煮詰めたソースを茹で汁でのばしつつ、全体に絡めて。",
+      "お皿に盛り付け、粉チーズとパセリをふって出来上がり♡熱々のうちに召し上がれ。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_146a02a7-7a1d-49a2-8798-3dc5a8f88bfb",
+    "nutrition": {
+      "fat": 2.0,
+      "protein": 20.0,
+      "calories": 140.0,
+      "carbs": 12.0,
+      "fiber": 2.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/recipe/2446661",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "キャベツと鶏むね肉のオイスター炒め",
+    "ingredients": [
+      {
+        "ingredientName": "キャベツ",
+        "quantity": 97.2,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 83.3,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.7,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "オイスターソース",
+        "quantity": 0.3,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:09:29.825574",
+    "steps": [
+      "鶏肉は一口大のそぎ切りにし、酒と醤油で下味をつける。",
+      "片栗粉をつけ、多めの油を熱したフライパンでこんがり焼き、取り出しておく。",
+      "※鶏むね肉を柔らかく仕上げるには、中火で手早く焼く。肉の回りが白く焼けたら素早く裏返す。",
+      "キャベツはざく切りにし、軽く塩を振り、炒める。",
+      "鶏肉を戻し、★の調味料を入れ、一煮立ちさせたら、仕上げのごま油、こしょうを入れる。盛付け後、ゴマを振るのもオススメ。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "作り置き",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_15f7b45e-d9df-400c-af22-95eb58eba044",
+    "nutrition": {
+      "fat": 27.0,
+      "protein": 38.0,
+      "calories": 430.0,
+      "carbs": 16.0,
+      "fiber": 1.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/recipe/1070342",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "ウチの黄金比*鶏の照り焼き～お弁当にも…",
+    "ingredients": [
+      {
+        "ingredientName": "鶏モモ肉",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "お肉"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "照り焼き",
+      "鶏肉料理",
+      "お弁当"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:14:50.129930",
+    "steps": [
+      "鶏モモ肉は気になる余分な脂や筋の処理をしておく。",
+      "材料A（醤油、みりん、砂糖）を合わせてボールに入れて混ぜておく。",
+      "フライパンにサラダ油をひいて、煙が出る位強火で熱しておく。",
+      "フライパンから煙が少し出てきたら、鶏モモ肉を皮の方を下にして置く。約1分強火で焼く。",
+      "約1分経過したら弱めの中火にして蓋をする。蒸し焼きにする。",
+      "鶏モモ肉にいい焼き色が付いたらひっくり返す。再び蓋をしてしっかり火を通す。（火は弱火にする）",
+      "3分～4分位蒸し焼きにしたらフライパンの蓋を開ける。混ぜておいたタレを一気にフライパンに入れる。",
+      "鶏肉を時々ひっくり返して両面に味をしみ込ませながら、タレが焦げないように注意して中火で2～3分位煮詰める。",
+      "煮詰めるほどタレがとろんと美味しくなります。焦げっぽい匂いがする寸前位がBESTです。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_18bda27e-8105-4167-826b-e68f665223a6",
+    "nutrition": {
+      "fat": 8.0,
+      "protein": 7.0,
+      "calories": 140.0,
+      "carbs": 12.0,
+      "fiber": 6.0,
+      "salt": 1.2
+    },
+    "url": "https://cookpad.com/jp/recipes/19415522",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "ひじきの煮物",
+    "ingredients": [
+      {
+        "ingredientName": "乾燥ひじき",
+        "quantity": 15.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 0.5,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "顆粒和風だし",
+        "quantity": 1.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:29:18.307531",
+    "steps": [
+      "乾燥ひじきは戻しておく♪にんじん、油揚げは食べやすい大きさ（細切り）に切っておく♪",
+      "フライパンにサラダ油を熱して、にんじんを炒めて♪",
+      "ひじき、油揚げも加えて炒める♪",
+      "●の調味料を加えて♪",
+      "落し蓋をして、弱火で煮汁がなくなるまで煮たら♪",
+      "出来上がり☆"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 15,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_1a09262c-2686-4cd3-b9ad-35b7fcf082e9",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 30.0,
+      "calories": 450.0,
+      "carbs": 15.0,
+      "fiber": 1.0,
+      "salt": 3.5
+    },
+    "url": "https://cookpad.com/recipe/102203",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "一番人気！本番のチキン南蛮！お弁当にも",
+    "ingredients": [
+      {
+        "ingredientName": "鶏もも肉",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "唐辛子 (小口切り)",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 0.625,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ゆで卵",
+        "quantity": 0.625,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.0625,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お弁当"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T00:08:18.944598",
+    "steps": [
+      "鶏肉は一枚のままでも一口大に切ってもいいです。肉に塩コショウし、小麦粉をまぶしてはたいておきます。",
+      "それを溶き卵にくぐらせて油で揚げます。ゆっくり少ない油で焼き揚げでもいいですよ。",
+      "南蛮酢は醤油と酢と砂糖を鍋に入れて温めるか、レンジでチンして温めましょう。",
+      "あがったお肉を南蛮酢につけて衣をしっとりさせます。あまり長く漬けこまなくていいです。さっとでOK！",
+      "ゆで玉子と玉ねぎのみじん切り、マヨネーズとケチャップ、塩コショウを混ぜてタルタルを作ります。",
+      "お肉にタルタルをかけてできあがり♪"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_1ab0b7ee-a026-4e41-904b-82262a6c18a9",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 20.0,
+      "calories": 400.0,
+      "carbs": 35.0,
+      "fiber": 6.0,
+      "salt": 2.5
+    },
+    "url": "https://bazurecipe.com/2020/10/08/%e8%87%b3%e9%ab%98%e3%81%ae%e7%84%a1%e6%b0%b4%e8%82%89%e3%81%98%e3%82%83%e3%81%8c/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の無水肉じゃが",
+    "ingredients": [
+      {
+        "ingredientName": "豚バラ肉",
+        "quantity": 62.5,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "じゃがいも",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 62.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しらたき",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 3.75,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "白だし",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "和食",
+      "煮込み料理"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:33:27.079485",
+    "steps": [
+      "豚バラ肉は食べやすい大きさに切る。じゃがいもは皮をむいて大きめの乱切りに、にんじんは乱切りに、玉ねぎはくし切りにする。生姜は薄切りにする。しらたきはアク抜きをして食べやすい長さに切る。",
+      "フライパンにごま油（レシピにはあるが除外）をひき、豚バラ肉を炒める。色が変わったら、じゃがいも、にんじん、玉ねぎ、生姜、しらたきを加えて全体に油が回るまで炒める。",
+      "しょうゆ、酒、白だし、砂糖（レシピにはあるが除外）を加え、蓋をして中弱火で蒸し煮にする。",
+      "じゃがいもが柔らかくなり、味が染み込むまで煮込む。途中、焦げ付かないように時々混ぜる。",
+      "器に盛り付けて完成。"
+    ],
+    "cookingTime": {
+      "total": 55,
+      "cook": 35,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_269e6255-c5da-4346-8855-5dda46eea36a",
+    "nutrition": {
+      "fat": 9.0,
+      "protein": 3.1,
+      "calories": 194.0,
+      "carbs": 26.1,
+      "fiber": 0.7,
+      "salt": 0.0
+    },
+    "url": "https://cookpad.com/jp/recipes/19101832",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単★サクッと♪基本の型抜きクッキー",
+    "ingredients": [
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 24.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.1,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "ココアパウダー",
+        "quantity": 1.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [
+      "子どもと作るお菓子",
+      "殿堂入り",
+      "ハロウィン",
+      "友チョコ",
+      "クリスマス"
+    ],
+    "category": [
+      "おやつ",
+      "イベント・特別な日"
+    ],
+    "createdAt": "2025-12-20T01:33:59.258606",
+    "steps": [
+      "薄力粉はふるいます。バターは室温に戻します。早めに冷蔵庫から出しておいてくださいね",
+      "バターはよく混ぜ、卵もしっかりとほぐします。上白糖の場合は、玉になっていれば手でほぐします。",
+      "バターに砂糖を入れ、よく混ぜます。その後、卵を3回ほどに分け少量ずつ混ぜていきます。しっかり混ぜるともったりしてきます。",
+      "３のバターに薄力粉を加え、ヘラで切るようにさっくりと混ぜ合わせます。",
+      "ココアなど混ぜる場合は、ここで生地を分けて、混ぜてください下さいね",
+      "最後は手でひとまとめにします。ある程度は練りますが、練り過ぎない様に注意。気温の高いときはヘラなどで混ぜきっても良いです",
+      "ラップをして３０分～１時間冷蔵庫で寝かせます。麺棒がかけやすい様に厚みはつけずにラップした方が、後の作業がしやすいです",
+      "５ｍｍの厚さに型抜きします。好きな形に抜いてくださいね。鉄板にオーブンシートを敷きます。",
+      "１７０度のオーブンで予熱し、15分~焼きます。周りにうっすら焼き色がつく感じです。（ココアはわかりにくいです(>_<)",
+      "オーブンによって焼き具合が異なりますので調節してください♪色が周りにつかない場合は時間を足してください♪粉っぽさ防ぎます",
+      "薄め、小さめのクッキーの場合は時間を短くして下さいね。逆に大きい場合は少し時間を増やしてください。"
+    ],
+    "cookingTime": {
+      "total": 55,
+      "cook": 15,
+      "prep": 40
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "おつまみ",
+      "ヘルシー",
+      "ダイエット向き",
+      "作り置き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_2733204f-63c8-4352-b7a0-7e8835dd5028",
+    "nutrition": {
+      "fat": 0.5,
+      "protein": 4.0,
+      "calories": 80.0,
+      "carbs": 16.0,
+      "fiber": 7.0,
+      "salt": 1.1
+    },
+    "url": "https://cookpad.com/jp/recipes/17390283",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "ピリ辛ころころ大根とこんにゃく",
+    "ingredients": [
+      {
+        "ingredientName": "大根",
+        "quantity": 200.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "こんにゃく",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "だしの素",
+        "quantity": 1.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "おかか",
+        "quantity": 1.6,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "一味唐辛子",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "煮物"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:29:01.158655",
+    "steps": [
+      "こんにゃくは両面、網目に切れ目を入れます（包丁で軽く叩くと味が浸みやすいです）。",
+      "大根もこんにゃくもダイスに切ってごま油で炒めます。大根が透き通ってきたら、砂糖大さじ1.5、醤油大さじ1、だしの素少しを入れ、馴染ませてから、水をひたひたになるまで加えます。",
+      "蓋をして中火で10分くらい煮ます。蓋を開けて強火で水分を飛ばし、最後に、おかかと一味唐辛子を絡めたら完成です。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_2da3f04b-2f1f-4ee0-b051-af0efe621a94",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 35.0,
+      "calories": 500.0,
+      "carbs": 35.0,
+      "fiber": 2.0,
+      "salt": 3.0
+    },
+    "url": "https://cookpad.com/recipe/2050905",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "お弁当☆子供に◎揚げずに簡単♪チキン南蛮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏もも肉",
+        "quantity": 0.5,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.25,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.75,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "乾燥パセリ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "レモン汁",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T00:12:58.512921",
+    "steps": [
+      "△卵は室温に５分以上おき、小鍋に入れ、たっぷりの水を注ぎ入れる。お酢少々（分量外）を加えて強火にかける。",
+      "沸騰するまで、卵を箸等で、コロコロ転がす。沸騰したら弱火にし、約１２分茹で、固ゆで卵を作る。",
+      "△卵をゆでている間に、△玉ねぎをみじん切りにし、水にさらしておく。",
+      "卵がゆで上がったら、冷水にとり、冷ます。",
+      "鶏肉をお好みの大きさに切り分け、塩こしょうで下味をつける。",
+      "小麦粉をまぶす。",
+      "卵を、よく溶きほぐし、⑥の鶏肉をくぐらせる。",
+      "フライパンに、少し多めの油を熱し、⑦の鶏肉を並べ入れる。",
+      "こんがりと焼けたら、裏返して、同様にこんがりと焼く。",
+      "鶏肉の、両面が焼けたら、蓋をし、弱火にして、蒸し焼きにする。",
+      "耐熱容器に、◎を入れて、混ぜ合わせる。※ふんわりとラップをかけ、レンジ５００Wで約１分弱加熱する。（※省略可）",
+      "肉に、完全に火が通ったら、蓋を外し、余分な油を、キッチンペーパー等で吸い取る。",
+      "火を強め、⑪の南蛮酢を加える。鶏肉に、しっかりと煮絡めて、火をとめる。",
+      "③の玉ねぎの水気をしっかりと絞る。④の卵の殻をむき、みじん切りにする。（※あれば、ピクルスのみじん切りを加えても◎）",
+      "⑭の玉ねぎと卵と、□を、しっかりと混ぜ合わせる。",
+      "⑬の鶏肉に、⑮のタルタルソースを添えて…完成♡"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 15,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_2e3e3326-d45d-437c-acc9-921cecb3428b",
+    "nutrition": {
+      "fat": 8.0,
+      "protein": 25.0,
+      "calories": 230.0,
+      "carbs": 12.0,
+      "fiber": 2.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/recipe/2848152",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単！トロッと柔らか鶏胸肉と白菜の中華煮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏胸肉",
+        "quantity": 0.5,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "白菜",
+        "quantity": 250.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "しょうがチューブ",
+        "quantity": 0.4,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ニンニクチューブ",
+        "quantity": 0.4,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 1.1,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "鶏ガラスープの素",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "中華",
+      "煮物"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:14:23.675674",
+    "steps": [
+      "鶏胸肉は火が通りやすい様に斜めにそぎ切りしてから大きめの一口大位に切ります。",
+      "ナイロン袋に切った鶏胸肉を入れ、しょうがチューブ、ニンニクチューブなどの下味調味料を加えてよく揉み込みます。",
+      "片栗粉を加えて鶏胸肉にまんべんなくつく様にふります。",
+      "フライパンに油をひき、鶏胸肉を両面キレイな焼き色がつく様にカラッと揚げ焼きします。",
+      "白菜は縦に4等分してからそぎ切りでざく切りします。（根元の芯は筋に沿って縦に切ると食べやすいです。）",
+      "鶏胸肉が焼けたら白菜を入れ、鶏ガラスープを加えて蓋をして5分蒸し煮します。（スープの濃さは100ccから150ccで調整してください。）",
+      "5分経ったら蓋を開けて、塩以外の合わせ調味料を入れて混ぜます。（白菜の量などで味の濃さが変わるため、塩は味見をしてから調整して加えてください。）",
+      "白菜がお好みの固さになったらお皿に盛って召し上がれ。",
+      "お好みの野菜や具材を入れて楽しんだり、白菜の量で水分が多くなる場合は味を調整したり片栗粉でとろみをつけてください。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_30932229-9013-4619-9b94-3423d454d5eb",
+    "nutrition": {
+      "fat": 6.0,
+      "protein": 17.0,
+      "calories": 180.0,
+      "carbs": 12.0,
+      "fiber": 3.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/recipe/2210351",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "なす＆ピーマン＆鶏むね肉で簡単中華！",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 62.5,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "なす",
+        "quantity": 0.75,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ピーマン",
+        "quantity": 0.75,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "オイスターソース",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:09:53.979403",
+    "steps": [
+      "なす、ピーマンは一口大の乱切り。",
+      "鶏肉は一口大のそぎ切りにし、酒（大さじ1）・醤油（子さじ1）に浸す。",
+      "鶏肉に片栗粉（大さじ2）をまぶす。",
+      "多めの油を熱したフライパン（中火）で、コンガリ焼き、取り出す。※炒めすぎ厳禁、周りが白く焼けたらすぐひっくり返す。",
+      "先になすを炒める。※油は多め。※軽く火が通るまで。",
+      "フライパンにピーマンを追加し、軽く塩味をつけ更に炒める。",
+      "＜炒めポイント＞※食感をよくする為ピーマンは炒めすぎない。※肉に比べタレが絡みにくいので野菜には軽く塩味をつける。",
+      "鶏肉をフライパンに戻し、★を入れ一煮立ちさせたら、仕上げのごま油を入れる。※お好みでコショウやごまを振ります。"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "時短料理",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_3351099a-9707-4510-9096-579a6a2a6b8e",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 25.0,
+      "calories": 350.0,
+      "carbs": 15.0,
+      "fiber": 3.0,
+      "salt": 2.5
+    },
+    "url": "https://bazurecipe.com/2020/05/19/4897/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の豚キムチ",
+    "ingredients": [
+      {
+        "ingredientName": "豚こま肉",
+        "quantity": 80.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "キムチ",
+        "quantity": 80.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:31:53.278050",
+    "steps": [
+      "豚こま肉に軽く塩を振り、薄力粉をまぶす。",
+      "フライパンにごま油をひき、豚こま肉と玉ねぎを入れ炒める。",
+      "キムチ、砂糖、醤油、酒、おろしニンニクを加えてさらに炒め合わせたら完成。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "韓国料理"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_3956dd15-bcd4-4004-ba4e-4f855010993d",
+    "nutrition": {
+      "fat": 8.0,
+      "protein": 25.0,
+      "calories": 240.0,
+      "carbs": 15.0,
+      "fiber": 1.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/recipe/263782",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "秘密のやわらかチキン☆.｡.:*･ﾟ",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 0.5,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "たまねぎ",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.5,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "はちみつ",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "パセリ",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:12:33.779981",
+    "steps": [
+      "鶏肉を観音開きにします。（肉の厚みを均一にするためと、火が通りやすくするため）",
+      "ボールにお肉と☆の調味料をいれます。たまねぎのすりおろし、にんにくのすりおろしも加えて、よくもみこみます。そのまま1時間おいておきます。",
+      "お肉だけを取り出しキッチンペーパーで汁気をふきとります。※焼く時焦げないようにしっかりと。残りのつけ汁はとっておきます。",
+      "全体に片栗粉をまぶします。余分な粉は、はたいて落とします。",
+      "フライパンに油をひき、ふたをしてお肉を両面焼きます。こんがりやけたら、余計な油をキッチンペーパーでふきとります。（焦げやすいので弱めの火加減で焼いてください♪）",
+      "ここに、残しておいたつけ汁をまわしかけ、水気をとばすように照り焼きにします。",
+      "食べやすく切ってお皿に盛り付け、パセリのみじん切りをちらして出来上がりです。"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_40a5bdc5-fa05-4983-a90f-0eadb5ba429c",
+    "nutrition": {
+      "fat": 28.0,
+      "protein": 25.0,
+      "calories": 650.0,
+      "carbs": 75.0,
+      "fiber": 4.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/19816909",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "美味しい☆タコライス",
+    "ingredients": [
+      {
+        "ingredientName": "合挽き肉",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "レタス",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ミニトマト",
+        "quantity": 3.0,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 2.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ウスターソース",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "カレー粉",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ご飯",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:32:08.570846",
+    "steps": [
+      "玉ねぎはみじん切りにする．レタスは千切りにする．トマトは４等分に切っておく．",
+      "★の調味料を混ぜておく．",
+      "タコミートを作ります．フライパンにサラダ油大さじ１入れ合挽き肉を炒めて空いた所で玉ねぎも一緒に炒める．",
+      "火が通ったら塩，コショウ★の調味料を入れて少し煮詰める．ご飯を盛ってレタス，トマト，タコミートを盛りつけたら出来上がり．"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "エスニック"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_46bd854c-1b1a-4930-8a32-e0358e1ea23f",
+    "nutrition": {
+      "fat": 40.0,
+      "protein": 35.0,
+      "calories": 550.0,
+      "carbs": 15.0,
+      "fiber": 2.0,
+      "salt": 2.5
+    },
+    "url": "https://bazurecipe.com/2020/05/04/%e9%9c%9c%e9%99%8d%e3%82%8a%e3%82%bc%e3%83%a9%e3%83%81%e3%83%b3%e3%83%8f%e3%83%b3%e3%83%90%e3%83%bc%e3%82%b0/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高のハンバーグ",
+    "ingredients": [
+      {
+        "ingredientName": "牛豚合挽き肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 0.33,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "パン粉",
+        "quantity": 2.0,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "粉ゼラチン",
+        "quantity": 1.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "牛脂",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "味の素",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.5,
+        "unit": "片",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉料理",
+      "フライパンレシピ",
+      "動画レシピ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:29:51.231229",
+    "steps": [
+      "玉ねぎ1/4個をみじん切りにし、バター5gで焦げ目がつくまでよく炒めます。",
+      "ボウルに合いびき肉150g、炒めた玉ねぎ、溶き卵1/2個分、細かくした牛脂1個、パン粉大さじ2、粉ゼラチン小さじ1、コンソメ小さじ1/3、水大さじ1.5、塩ふたつまみ、こしょう少々を入れ、粘りが出るまでよくこねます。",
+      "生地をまとめ、真ん中をくぼませてハンバーグを成形します。",
+      "少量のサラダ油をなじませたフライパンを中火にかけ、ハンバーグの両面に焼き色をつけます。",
+      "水60mlを加え、蓋をして弱中火で中に火が通るまで蒸し焼きにします。",
+      "最後に、フライパンに醤油・酒・みりん各大さじ1、砂糖1つまみ、おろしニンニク少量、味の素1振りを入れ、煮詰めてソースをからめて完成です。"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 15,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "時短料理",
+      "お弁当向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_4928f921-e399-4bb2-8c0c-b9eb6f383dbc",
+    "nutrition": {
+      "fat": 12.0,
+      "protein": 5.0,
+      "calories": 150.0,
+      "carbs": 4.0,
+      "fiber": 3.0,
+      "salt": 0.5
+    },
+    "url": "https://cookpad.com/jp/recipes/18716514",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "ごま油が美味しい☺もやしのナムル☺",
+    "ingredients": [
+      {
+        "ingredientName": "もやし",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "鶏ガラスープの素",
+        "quantity": 0.33,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "白いりごま",
+        "quantity": 1.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "お弁当"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん",
+      "朝ごはん"
+    ],
+    "createdAt": "2025-12-20T01:27:37.188902",
+    "steps": [
+      "もやしをゆでるか、電子レンジでチンします。水分を絞ります。",
+      "ゆでたもやしに、ごま油、塩、鶏ガラスープの素、水を加えてよく混ぜます。仕上げに白いりごまを加えます。ごまはすった方が美味しいです。"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "韓国料理"
+    ]
+  },
+  {
+    "features": [
+      "お弁当向き",
+      "筋トレ向き",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_4b9d640f-74bd-4760-95a3-3efe234178dd",
+    "nutrition": {
+      "fat": 2.0,
+      "protein": 30.0,
+      "calories": 200.0,
+      "carbs": 15.0,
+      "fiber": 1.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/recipe/2551637",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単！！節約！！鶏胸肉のトリチリ☆",
+    "ingredients": [
+      {
+        "ingredientName": "鶏胸肉",
+        "quantity": 125.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 1.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "鶏ガラスープの素",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "鶏肉",
+      "中華風"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:11:48.668869",
+    "steps": [
+      "むね肉を一口大の削ぎ切りにして小麦粉を付ける。玉ねぎはみじん切りにする。",
+      "フライパンを熱して、油を入れてむね肉を焼く。焼いてる間に合わせダレを作る。",
+      "肉に火が通ったらタレと玉ねぎを入れて絡める。",
+      "甘めの味付けなので、甘いのが苦手な方は砂糖を減らして下さいね♪お好みで生姜、にんにくを足しても⭐"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "時短料理"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_4ba1181f-76c0-45e1-8440-efcc0588a513",
+    "nutrition": {
+      "fat": 27.0,
+      "protein": 6.0,
+      "calories": 390.0,
+      "carbs": 30.0,
+      "fiber": 2.0,
+      "salt": 1.0
+    },
+    "url": "https://bazurecipe.com/2020/07/21/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%9d%e3%83%86%e3%83%88%e3%82%b5%e3%83%a9%e3%83%80/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高のポテトサラダ",
+    "ingredients": [
+      {
+        "ingredientName": "じゃがいも",
+        "quantity": 280.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 2.0,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ベーコン",
+        "quantity": 60.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 3.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "味の素",
+        "quantity": 0.15,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "サラダ",
+      "ポテトサラダ",
+      "つまみ"
+    ],
+    "category": [
+      "夜ごはん",
+      "イベント・特別な日",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:30:40.469494",
+    "steps": [
+      "じゃがいもは皮を剥き、玉ねぎ、にんにくは切る。",
+      "容器にじゃがいも、玉ねぎ、にんにく、水（大さじ3）を入れ、ラップをして600Wのレンジで6分半加熱する。",
+      "フライパンにオリーブオイル（小さじ1）を熱し、ベーコンを炒める。",
+      "レンジ加熱したじゃがいもなどが人肌に冷めたら、炒めたベーコン、マヨネーズ（大さじ3と1/2）、黒コショウ（小さじ1）、塩（小さじ1/3）、砂糖（小さじ1）、味の素（6振り）を加えて混ぜ合わせる。",
+      "お好みで仕上げに追い黒コショウやタバスコをかける。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_4eb97c63-ea0b-421d-8407-420542eee8be",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 35.0,
+      "calories": 350.0,
+      "carbs": 20.0,
+      "fiber": 0.5,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/recipe/1587773",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単チキンナゲット♪～鶏胸肉で～",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.5,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ",
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:07:50.830456",
+    "steps": [
+      "鶏胸肉は皮と余分な脂を取り除き、包丁でたたく",
+      "ボールに卵を溶き、たたいた鶏肉と全ての材料を入れ良く混ぜ合わせる",
+      "フライパンに５ミリ～１センチ程度の油を温める",
+      "スプーンですくって平らにならしながら両面きつね色に揚げれば出来上がり♪"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_545d02ae-82cd-49b9-a30d-94b7de12c842",
+    "nutrition": {
+      "fat": 11.0,
+      "protein": 4.0,
+      "calories": 360.0,
+      "carbs": 61.0,
+      "fiber": 6.0,
+      "salt": 0.1
+    },
+    "url": "https://cookpad.com/jp/recipes/19167284",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "＊簡単＊スイートポテト♡",
+    "ingredients": [
+      {
+        "ingredientName": "さつまいも",
+        "quantity": 200.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 20.0,
+        "unit": "g",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "卵黄",
+        "quantity": 0.33,
+        "unit": "個",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ"
+    ],
+    "createdAt": "2025-12-20T01:29:39.355006",
+    "steps": [
+      "さつまいもは輪切りにし、皮をむき、水に3分程さらす。耐熱皿に入れラップをかけてレンジで柔らかくなるまでチンする。",
+      "柔らかくなったさつまいもをマッシャーでよく潰す。",
+      "さつまいもが熱いうちにバター・砂糖・塩を加えよく潰し、牛乳は成形できる位のなめらかさになるまで少しずつ加える。",
+      "成形しアルミカップにのせ、表面につや出し用の卵黄を塗る。",
+      "トースターで焼き色をつけたら出来上がりです♡＊1000wで5~10分位です。様子を見ながら焦げに注意して下さいね♪",
+      "一口サイズに丸めても可愛いです♡お弁当にもぜひ!!"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_56d51029-5cd4-4d74-851b-e24efa93f94c",
+    "nutrition": {
+      "fat": 40.0,
+      "protein": 20.0,
+      "calories": 750.0,
+      "carbs": 78.0,
+      "fiber": 5.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/18083740",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "門外不出のトマトパスタ1万レポ感謝！",
+    "ingredients": [
+      {
+        "ingredientName": "パスタ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "ホールトマト",
+        "quantity": 200.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 1.0,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ベーコン",
+        "quantity": 3.5,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "鷹の爪",
+        "quantity": 0.5,
+        "unit": "本",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "パスタ",
+      "トマト"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:27:54.700170",
+    "steps": [
+      "フライパンにみじん切りのにんにく、オリーブ油、細切りのベーコンをいれ中強火で炒めます。",
+      "ベーコンから油が出てカリカリになってきたら↑ワインをいれ少ししたら鷹の爪そのままとホールトマトを握り潰しながら入れます。",
+      "ベーコンの塩加減にもよりますがお塩は小さじ1/3、こしょう少々します。ここではかなり薄めの塩加減です。",
+      "5分位中火で煮た時点で弱火にしパスタを茹でます。パスタを茹でている間に煮詰めます。↑これくらいになるまで。",
+      "パスタを茹でる時、塩はこれくらい入れます。我が家では9分茹で用パスタを7分茹でます。少し芯が残る位。",
+      "茹で上がったパスタをしっかり水を切ってフライパンに入れざっざっとソースとからめて盛り付けます。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 15,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_589e76c7-d132-4782-9600-68c69623210b",
+    "nutrition": {
+      "fat": 80.0,
+      "protein": 30.0,
+      "calories": 850.0,
+      "carbs": 10.0,
+      "fiber": 2.5,
+      "salt": 2.0
+    },
+    "url": "https://bazurecipe.com/2020/05/07/%e7%84%a1%e6%b0%b4%e6%b2%b9%e9%8d%8b/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "無水油鍋",
+    "ingredients": [
+      {
+        "ingredientName": "白菜",
+        "quantity": 250.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "豚バラ肉",
+        "quantity": 200.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "ニンニク",
+        "quantity": 2.0,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "白だし",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉",
+      "鍋料理"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:30:08.959569",
+    "steps": [
+      "ニンニクを炒める。",
+      "白菜、豚バラ肉、白だしを加え、蓋をしてクタッとするまで弱火で煮る。"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 20,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_5df06ff4-68b5-45bb-ae95-1dcda9256d6b",
+    "nutrition": {
+      "fat": 10.0,
+      "protein": 15.0,
+      "calories": 250.0,
+      "carbs": 15.0,
+      "fiber": 3.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/recipe/2423819",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "こってり旨い(^ω^)鶏ごぼう",
+    "ingredients": [
+      {
+        "ingredientName": "鶏肉",
+        "quantity": 76.67,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "ごぼう",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.33,
+        "unit": "小さじ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 0.67,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "常備菜",
+      "お弁当"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:15:05.490561",
+    "steps": [
+      "鶏肉は皮と余分な脂を取り除いて 一口大にカットし 袋に入れ下味を付ける。ゴボウはピーラーで剥き 乱切りにし水にさらす。",
+      "ゴボウを濡れたままスチーマーかラップで  600w 4分チン",
+      "袋に粉を入れ 肉にまぶす。中華鍋かフライパンに多めの油を温め 中火で しばらく動かさないで焼く。",
+      "鶏肉に焼き色を付けたら 余分な油を拭き取り",
+      "ゴボウと○を加え混ぜたら 強火で 鍋を揺すって 炒り煮します。時間にして 1～2分",
+      "湯気でよく見えませんが トロッと煮汁が少なくなったら 火を止め 出来上がり(^ω^)"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 5,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_61c7a346-9be4-4bb8-838d-ee736d99ab33",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 35.0,
+      "calories": 450.0,
+      "carbs": 25.0,
+      "fiber": 3.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/recipe/1553920",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "むね肉やわらか！揚げないチキン南蛮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 0.57,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.29,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.43,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "白胡麻",
+        "quantity": 0.29,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "茹で卵",
+        "quantity": 0.29,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "玉葱",
+        "quantity": 0.07,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ピクルス",
+        "quantity": 0.0,
+        "unit": "適量",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "パセリ",
+        "quantity": 0.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "鶏肉料理",
+      "揚げない料理"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T00:13:58.209276",
+    "steps": [
+      "鶏肉は脂を取り除き、均一の厚さになるよう食べ易い大きさに削ぎ切りする。筋や厚い部分を包丁で叩く。",
+      "下味のにんにくは摺りおろし[1]の鶏肉と○の材料をビニール袋に入れ、よく揉み込み10分程置く。★を合わせておく。",
+      "茹で卵、玉葱、ピクルス、パセリは微塵切り。☆を全て合わせてタルタルソースを作る。",
+      "[2]の鶏肉に片栗粉を全体に薄くまぶし、フライパンに多めの油を熱して両面をカリッと焼く。余分な油は拭き取っておく。",
+      "中まで火が通ったら、合わせておいた南蛮酢を回しかけ全体に絡める。",
+      "お皿に盛り付け、[3]のタルタルソースをたっぷりのせて出来上がり♪お弁当には冷めるまで待ってね！"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 15,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_64c24bd7-18aa-4bb9-9cd4-ea2f9e03d204",
+    "nutrition": {
+      "fat": 15.0,
+      "protein": 22.0,
+      "calories": 535.0,
+      "carbs": 76.0,
+      "fiber": 6.0,
+      "salt": 4.0
+    },
+    "url": "https://bazurecipe.com/2022/05/27/%e8%87%b3%e9%ab%98%e3%81%ae%e7%b4%8d%e8%b1%86%e3%83%91%e3%82%b9%e3%82%bf/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の納豆パスタ",
+    "ingredients": [
+      {
+        "ingredientName": "パスタ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "納豆",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "小ネギ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "刻み海苔",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "フライパン",
+      "アレンジレシピ",
+      "レシピ動画"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:28:58.628169",
+    "steps": [
+      "水320ccを沸かし、醤油小さじ2、味の素4振り、塩1つまみを加える。",
+      "1.4mmのパスタ100gを入れ、中火で5分煮て煮汁を飛ばす。",
+      "バター10gを絡める。",
+      "納豆1パックに付属のタレとからしを混ぜ、パスタの上にのせる。",
+      "小ネギと刻み海苔を添える。"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食",
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_74830373-4ace-47f0-8e58-8410b4516ba7",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 28.0,
+      "calories": 450.0,
+      "carbs": 18.0,
+      "fiber": 3.0,
+      "salt": 3.5
+    },
+    "url": "https://bazurecipe.com/2020/10/22/%e8%87%b3%e9%ab%98%e3%81%ae%e9%ba%bb%e5%a9%86%e8%b1%86%e8%85%90/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の麻婆豆腐",
+    "ingredients": [
+      {
+        "ingredientName": "豚ひき肉",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "ニンニク",
+        "quantity": 1.0,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "絹豆腐",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "長ネギ",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "豆板醤",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "甜麵醬",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "創味シャンタン",
+        "quantity": 0.4,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "山椒",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉",
+      "フライパン",
+      "レシピ動画"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:34:49.718910",
+    "steps": [
+      "絹豆腐は軽く水切りをして、食べやすい大きさに切る。",
+      "長ネギ、ニンニクはみじん切りにする。",
+      "フライパンに油をひき（レシピより除外）、豚ひき肉とみじん切りにしたニンニクを炒める。ひき肉の色が変わったら、豆板醤、甜麵醬、ラー油を加えて香りが立つまで炒める。",
+      "酒（レシピより除外）、しょうゆ（レシピより除外）、水（レシピより除外）、創味シャンタン、塩（レシピより除外）、コショウ（レシピより除外）を加え、ひと煮立ちさせる。",
+      "切った豆腐と長ネギを加えて軽く煮込み、水溶き片栗粉（片栗粉大さじ0.5、水大さじ1で）を加えてとろみをつける。",
+      "器に盛り付け、山椒を振る。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "筋トレ向き",
+      "お弁当向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_76f71fc8-3cb3-478f-b27f-574b22fa7076",
+    "nutrition": {
+      "fat": 3.0,
+      "protein": 38.0,
+      "calories": 280.0,
+      "carbs": 28.0,
+      "fiber": 1.5,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17622159",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "鶏むねの甘酢煮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "にんにくすりおろし",
+        "quantity": 2.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "生姜すりおろし",
+        "quantity": 2.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "小ねぎ",
+        "quantity": 1.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ごま",
+        "quantity": 1.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "キャベツ",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "新玉ねぎ",
+        "quantity": 30.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お弁当"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:33:13.711285",
+    "steps": [
+      "タレを合わせる。",
+      "むね肉は縦に3等分に切って、削ぎ切りする。※肉を（包丁背や瓶で叩くとさらに柔らかに。",
+      "下味をもみ込む。",
+      "小麦粉をまぶす。※下味とビニールを変えてまぶすと◎。",
+      "フライパンに油を熱し、両面こんがり焼く。※中まで火は通らなくてもOK",
+      "タレを入れ、中火強で煮からめる。※途中鍋をゆすったり、ヘラで返したり。",
+      "ツヤっと、煮汁が少し残る感じで完成。お好みでお野菜とマヨは必須。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_7a24cee2-f6ad-4c0c-8409-6174badb4636",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 28.0,
+      "calories": 650.0,
+      "carbs": 80.0,
+      "fiber": 3.0,
+      "salt": 3.5
+    },
+    "url": "https://bazurecipe.com/2020/07/04/%e5%86%b7%e3%82%84%e3%81%97%e8%b1%86%e4%b9%b3%e5%9d%a6%e3%80%85%e3%81%9d%e3%81%86%e3%82%81%e3%82%93/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "冷やし豆乳坦々そうめん",
+    "ingredients": [
+      {
+        "ingredientName": "豆乳",
+        "quantity": 150.0,
+        "unit": "ml",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "味噌",
+        "quantity": 1.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "白だし",
+        "quantity": 2.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "すりごま",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "そうめん",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "豚ひき肉",
+        "quantity": 60.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "小ネギ",
+        "quantity": 0.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "そうめん",
+      "冷やし麺",
+      "坦々麺風"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:34:13.545441",
+    "steps": [
+      "豆乳、味噌、白だし、すりごまをよく混ぜてスープを作る。",
+      "そうめんと豚ひき肉を一緒に茹でる。",
+      "茹で上がったそうめんと豚ひき肉を冷水で冷やし、水気をしっかり絞る。",
+      "器に盛ったそうめんと豚ひき肉に1のスープをかけ、小ネギ、ラー油を添えて完成。"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_7de33be7-beac-4972-bce0-3e923fea4f13",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 40.0,
+      "calories": 400.0,
+      "carbs": 12.0,
+      "fiber": 1.0,
+      "salt": 1.2
+    },
+    "url": "https://cookpad.com/jp/recipes/17763235",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単チキンナゲット♪～鶏胸肉で～",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.5,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:27:10.568878",
+    "steps": [
+      "鶏胸肉は皮と余分な脂を取り除き、包丁でたたく",
+      "ボールに卵を溶き、たたいた鶏肉と全ての材料を入れ良く混ぜ合わせる",
+      "フライパンに５ミリ～センチ程度の油を温める",
+      "スプーンですくって平らにならしながら両面きつね色に揚げれば出来上がり♪"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "お弁当向き",
+      "筋トレ向き",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_80186a80-d71d-47a4-9689-86b0a5cd9aa0",
+    "nutrition": {
+      "fat": 10.0,
+      "protein": 25.0,
+      "calories": 300.0,
+      "carbs": 20.0,
+      "fiber": 2.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/17622159",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "鶏むねの甘酢煮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "にんにくすりおろし",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "生姜すりおろし",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "だし汁",
+        "quantity": 1.1,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "小ねぎ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ごま",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "キャベツ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "新玉ねぎ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "煮物"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:09:06.265298",
+    "steps": [
+      "タレを合わせる。（※レシピ記載の「●砂糖・しょう油、●酒・みりん、●米酢、●だし汁」を混ぜる）",
+      "むね肉は縦に3等分に切って、削ぎ切りする。※肉を（包丁背や瓶で叩くとさらに柔らかに。",
+      "下味をもみ込む。（※レシピ記載の「◆酒、塩、◆にんにく・生姜すりおろし」をもみ込む）",
+      "小麦粉をまぶす。※下味とビニールを変えてまぶすと◎。",
+      "フライパンに油を熱し、両面こんがり焼く。※中まで火は通さなくてもOK",
+      "タレを入れて、中火強で煮からめる。※途中鍋をゆすったり、ヘラで返したり。",
+      "ツヤっと、煮汁が少し残る感じで完成。お好みでお野菜とマヨは必須。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_850c01f9-f8c3-400b-b90c-a7ede52689c5",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 40.0,
+      "calories": 550.0,
+      "carbs": 15.0,
+      "fiber": 1.0,
+      "salt": 3.0
+    },
+    "url": "https://cookpad.com/recipe/874917",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "揚げないチキン南蛮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 150.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ゆで卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "たまねぎ",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "パセリ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お弁当",
+      "揚げない",
+      "ヘルシー",
+      "簡単"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T00:10:17.930584",
+    "steps": [
+      "タルタルを作ります。玉ねぎをみじん切りにしてフォークで潰したゆで卵・牛乳・マヨネーズと和えます。",
+      "玉ねぎは水にさらすと辛さが抜けます。苦手な方は数回水を替え長めにさらしてね☆市販のタルタルソースを使う方はポイント参照。",
+      "私は薄い塩水に玉葱とキュウリ一緒にさらしてます。マヨと和える前にしっかり水分を絞って入れる事でゆる過ぎになるのを防げます",
+      "☆の材料はすべて合わせておきます。本場では甘めの甘酢ですがお好みで調整して下さい♪",
+      "肉の分厚い部分を開いて全体の厚さを合わせます。食べやすい大きさに切っても、一枚のままでもOK!私は先に切ります",
+      "鶏肉に小麦粉→卵→小麦粉　の順番で衣付け。ビニール袋に肉と小麦粉を入れ全体をフリフリ♪まんべんなく混ざったら卵投入→",
+      "袋のまま卵をつぶしながら全体が混ざるように揉み、バットに広げた小麦粉をつけていくと簡単です♪衣は薄めでＯＫです☆",
+      "油を少し多めにひいたフライパンで弱めの中火でじっくり狐色になるまで揚げ焼きにします。皮つきの方は皮目から焼きますが→",
+      "皮付き肉の場合は油が出てくるので初めにひく油は多すぎないように。裏返したら弱火にしてふたをしてじっくり蒸し焼きに。",
+      "火が通ったら余計な油は拭き取り火を強めの中火にして合わせた☆をフライパンに一気に入れて絡める。煮詰め過ぎ注意",
+      "食べやすい大きさに切ってお皿に盛り、タレをかけたらその上からタルタルをたっぷりかけてね！"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 15,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_8c7fdfd0-4fe3-429f-9636-408b0636f2aa",
+    "nutrition": {
+      "fat": 23.0,
+      "protein": 22.0,
+      "calories": 450.0,
+      "carbs": 35.0,
+      "fiber": 4.0,
+      "salt": 1.8
+    },
+    "url": "https://cookpad.com/recipe/340598",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "シチューの素はもういらない!!これでＯＫ",
+    "ingredients": [
+      {
+        "ingredientName": "ジャガイモ",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "たまねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "かぼちゃ",
+        "quantity": 0.0625,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "鶏肉",
+        "quantity": 60.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "パセリ",
+        "quantity": 0.0,
+        "unit": "少々",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 0.6,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 75.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "クリームシチュー"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:08:35.943803",
+    "steps": [
+      "野菜をすべて角切りにします。鶏肉を食べやすい大きさにきります。",
+      "油をひいた鍋に、鶏肉と野菜、塩・こしょうをしてよく炒めます。玉ねぎが透明になるまで炒めたら、火を止めます。",
+      "火を止めた鍋に、小麦粉を振りいれて、火にかけずに野菜と混ぜ合わせます。",
+      "全体に小麦粉がなじんだら、牛乳・水を入れて軽くかきまぜる。(野菜の余熱で小麦粉もとけてきます。）コンソメを入れて、ふたたび火にかけます。",
+      "とろみがつくまで、混ぜる。混ぜる。煮立ってきて、とろみがついたら、弱火にして煮込みます。この時に、それぞれお好きなとろみ加減を水で調整してください。",
+      "しばらく煮込んだら、塩・こしょうで味をととのえて出来上がり!!…簡単に本格シチューになりました★"
+    ],
+    "cookingTime": {
+      "total": 45,
+      "cook": 30,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_8ecdad7c-35c4-4698-960a-d107a7682c2a",
+    "nutrition": {
+      "fat": 40.0,
+      "protein": 7.0,
+      "calories": 500.0,
+      "carbs": 50.0,
+      "fiber": 3.0,
+      "salt": 0.1
+    },
+    "url": "https://cookpad.com/jp/recipes/17400578",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "定番＊ガトーショコラ",
+    "ingredients": [
+      {
+        "ingredientName": "チョコレート",
+        "quantity": 16.67,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "生クリーム",
+        "quantity": 6.67,
+        "unit": "g",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "薄力粉",
+        "quantity": 3.33,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "純ココア",
+        "quantity": 8.33,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マーガリン",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "加工食品"
+      }
+    ],
+    "group": "デザート",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "おやつ",
+      "イベント・特別な日"
+    ],
+    "createdAt": "2025-12-20T01:32:50.852205",
+    "steps": [
+      "型の底に紙（私はコピー用紙）を敷いて、周りにマーガリンを塗って粉をはたいて置く。オーブンは180度にセット。",
+      "チョコレートを刻んで約60度の湯煎で溶かす。溶けたらバターを加えさらに溶かす。粉類は合わせてふるっておく。",
+      "ボールに卵白を加え、塩極少々加えハンドミキサーで泡立てる。泡立って来たら、砂糖（分量の半量）を2～3回に分けて加え、角が立つ位しっかりしたメレンゲを作る。",
+      "別のボールに卵黄と砂糖（残りの半量）を加え、ハンドミキサーで白っぽくマヨネーズ状になるまで良くすり混ぜ、②と生クリームを加える。",
+      "⑤に◆のふるった粉類を練らないようにさっくり加える。",
+      "メレンゲを再度混ぜ滑らかにし⑥に1/3を加えしっかり混ぜ生地を柔らかくする。残りのメレンゲを2回に分けさっくり混ぜ込む。",
+      "型に流し、180度で10分後160度に下げ、30～35分焼く（電気オーブンの方は10度位高めがいいかも・・・）。竹くしを挿して何もつかなければＯＫ。周りをナイフで剥がして冷まします。",
+      "仕上げにトッピング用の粉砂糖を振って完成！"
+    ],
+    "cookingTime": {
+      "total": 75,
+      "cook": 45,
+      "prep": 30
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "おつまみ"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_9716de68-d346-4625-993b-7f63ee09c771",
+    "nutrition": {
+      "fat": 27.0,
+      "protein": 15.0,
+      "calories": 370.0,
+      "carbs": 20.0,
+      "fiber": 5.0,
+      "salt": 4.7
+    },
+    "url": "https://bazurecipe.com/2020/06/29/5428/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の豚汁",
+    "ingredients": [
+      {
+        "ingredientName": "豚バラ",
+        "quantity": 70.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "ゴボウ",
+        "quantity": 37.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "大根",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "こんにゃく",
+        "quantity": 62.5,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 2.5,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.5,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "長ネギ",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "白だし",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "味噌",
+        "quantity": 1.0,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "スープ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:27:53.552163",
+    "steps": [
+      "ごま油でゴボウを炒めます。",
+      "塩コショウした豚バラを加えて炒めます。",
+      "大根、こんにゃく、にんじんを加えてさらに炒めます。",
+      "水、白だし、味噌を加えて煮立たせ、みりん、酒を加え、20分煮込みます。",
+      "おろしニンニク、おろしショウガ、長ネギを加えて煮込んで完成です。"
+    ],
+    "cookingTime": {
+      "total": 40,
+      "cook": 25,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "時短料理",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_9a8b131d-4445-445d-96c3-ec4e960bf82c",
+    "nutrition": {
+      "fat": 6.0,
+      "protein": 9.0,
+      "calories": 120.0,
+      "carbs": 7.0,
+      "fiber": 2.0,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/jp/recipes/20127799",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "やみつき無限ピーマンつくれぽ10000",
+    "ingredients": [
+      {
+        "ingredientName": "ピーマン",
+        "quantity": 2.5,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "シーチキン",
+        "quantity": 0.5,
+        "unit": "缶",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "味覇又は鶏がらスープの素",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "白ごま",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "鰹節",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "常備菜",
+      "つくりおき",
+      "お弁当",
+      "おつまみ",
+      "夏野菜"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:30:47.691922",
+    "steps": [
+      "ピーマンは厚さ5mmの輪切りにする シーチキンは油をきっておく",
+      "耐熱ボウルにピーマン、シーチキン、ごま油、味覇又はガラスープ、調味料を入れてまぜ、電子レンジで2分加熱する",
+      "白ごまをふり、鰹節をのせて出来上り 簡単、ヘルシーです"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 2,
+      "prep": 8
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_a519cbb8-a7d8-4b20-b44c-924cc1a19906",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 18.0,
+      "calories": 400.0,
+      "carbs": 35.0,
+      "fiber": 2.5,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/recipe/1286866",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "鶏肉とさつま芋炒め",
+    "ingredients": [
+      {
+        "ingredientName": "鶏肉",
+        "quantity": 0.25,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "さつま芋",
+        "quantity": 0.25,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "だしの素（顆粒）",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "青ねぎ（または大葉）",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "鶏肉料理",
+      "さつまいも",
+      "炒め物"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:10:34.486650",
+    "steps": [
+      "さつま芋は皮ごとよく洗い１口大に切り水にさらして置く",
+      "鶏肉も１口大に切りビニール袋に入れその中にだしの素を加えよくもみ込む",
+      "次に片栗粉を入れてもみ込む",
+      "１の水気をきり耐熱皿に並べてラップをかるくしてレンジで柔らかくする（６００Wで４分～８分ぐらい）",
+      "●の調味料を全て混ぜて用意しておく フライパンを熱し油を加えて３の鶏肉を両面しっかりと焼いていく（中火）",
+      "鶏肉が焼けたら４で柔らかくしておいたさつまいもを加えてかるく混ぜ合わせ●の調味料を加え蓋をして炒め煮にする（弱火）",
+      "５分～１５分ぐらいしたら全体をもう一度混ぜてお皿に盛りつけお好みで青ネギＯＲ大葉をのせ出来上がり❤"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "作り置き",
+      "時短料理",
+      "ヘルシー",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_a529d4dd-178f-4df4-bacb-6968c4d2e046",
+    "nutrition": {
+      "fat": 2.0,
+      "protein": 18.0,
+      "calories": 200.0,
+      "carbs": 15.0,
+      "fiber": 0.5,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/recipe/3706416",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "５分で簡単！胸肉やわらか鶏チャーシュー✿",
+    "ingredients": [
+      {
+        "ingredientName": "鶏胸肉",
+        "quantity": 80.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 4.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "葱の青い部分",
+        "quantity": 10.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:12:08.841715",
+    "steps": [
+      "胸肉が大きい場合は、同じ薄さになるよう、斜めにそぎ切りにして2枚に分ける。",
+      "しっかりと浸かるよう、鶏肉が入る小鍋を用意し、調味料と葱、生姜、胸肉を入れて火にかける。",
+      "煮立ったら、胸肉を入れて火を弱め、弱火で２分火にかける。",
+      "ひっくり返してさらに２分火にかける。(計４分)",
+      "蓋をして、冷めるまでこのまま常温でほったらかし～。",
+      "半熟卵を漬ける場合は、粗熱が取れてから♪",
+      "お好みの薄さに切り分け、タレをかけて完成♪濃い目にする場合は、切って暫くタレに漬けます。"
+    ],
+    "cookingTime": {
+      "total": 9,
+      "cook": 4,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_a5934964-a13e-4672-8fec-d678635b24e1",
+    "nutrition": {
+      "fat": 22.0,
+      "protein": 28.0,
+      "calories": 450.0,
+      "carbs": 25.0,
+      "fiber": 4.0,
+      "salt": 2.5
+    },
+    "url": "https://bazurecipe.com/2021/02/09/8526/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高のチキントマト煮",
+    "ingredients": [
+      {
+        "ingredientName": "鶏モモ肉",
+        "quantity": 140.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "ニンニク",
+        "quantity": 1.2,
+        "unit": "かけ",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ナス",
+        "quantity": 1.2,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "タマネギ",
+        "quantity": 48.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "トマト缶",
+        "quantity": 160.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 0.4,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "オレガノ",
+        "quantity": 0.4,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "タバスコ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉",
+      "フライパン"
+    ],
+    "category": [],
+    "createdAt": "2025-12-21T23:32:45.202940",
+    "steps": [
+      "鶏モモ肉は一口大に切り、塩、黒コショウを振って下味をつけます。",
+      "フライパンにオリーブオイル大さじ1と1/2を熱し、鶏肉を皮目から焼き色がつくまで焼きます。",
+      "鶏肉を一度取り出し、同じフライパンに薄切りにしたニンニク、ナス、タマネギを加えて炒めます。",
+      "全体に油が回ったら鶏肉をフライパンに戻し、トマト缶、コンソメ、砂糖、日本酒、オレガノを加えてよく混ぜます。",
+      "蓋をして弱めの中火で15〜20分煮込みます。",
+      "塩（仕上げ用）で味を調え、器に盛り付け、好みで黒コショウ、オリーブオイル、タバスコをかけて完成です。"
+    ],
+    "cookingTime": {
+      "total": 40,
+      "cook": 25,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "おつまみ",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_aaa321b6-247c-4774-a697-57578b715746",
+    "nutrition": {
+      "fat": 22.0,
+      "protein": 32.0,
+      "calories": 380.0,
+      "carbs": 28.0,
+      "fiber": 4.0,
+      "salt": 3.2
+    },
+    "url": "https://cookpad.com/jp/recipes/18177859",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "ぶり大根",
+    "ingredients": [
+      {
+        "ingredientName": "ぶり",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "海産物"
+      },
+      {
+        "ingredientName": "大根",
+        "quantity": 250.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "顆粒だし",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "おろしショウガ",
+        "quantity": 0.25,
+        "unit": "大さじ",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:31:29.623456",
+    "steps": [
+      "ぶりは半分に切り沸騰したお湯にサッとくぐらせた後、軽く洗って生臭さをとっておきます",
+      "大根は乱切りにし、米のとぎ汁で串が通るくらい(10分程)茹でた後、軽く洗います",
+      "鍋に水・調味料を入れ煮立ったら、ぶりと大根を加え､落とし蓋をして中火で20分程､煮汁が1/3になるまで煮詰め完成です"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 20,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_b2274788-4e38-418e-9302-1649f4198efd",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 28.0,
+      "calories": 400.0,
+      "carbs": 18.0,
+      "fiber": 0.5,
+      "salt": 2.0
+    },
+    "url": "https://bazurecipe.com/2020/05/02/%e8%87%b3%e9%ab%98%e3%81%ae%e5%94%90%e6%8f%9a%e3%81%92/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の唐揚げ",
+    "ingredients": [
+      {
+        "ingredientName": "鶏もも肉",
+        "quantity": 160.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "味の素",
+        "quantity": 0.17,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 0.5,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ナツメグ",
+        "quantity": 0.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.0,
+        "unit": "適量",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "揚げ物",
+      "鶏肉料理",
+      "定番料理"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:28:12.187218",
+    "steps": [
+      "鶏もも肉を一口大に切ります。",
+      "切り分けた鶏もも肉に味の素小さじ1/6、おろしにんにく0.5かけ分、ナツメグ少々を加えて20～30分常温で漬け込みます。",
+      "漬け込んだ鶏肉に片栗粉をつけ、中温の油でカラッと揚げます。",
+      "お好みでレモンを添えて盛り付けます。"
+    ],
+    "cookingTime": {
+      "total": 40,
+      "cook": 10,
+      "prep": 30
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_b544c1d2-a5c1-4f54-9308-4514f0e90451",
+    "nutrition": {
+      "fat": 30.0,
+      "protein": 25.0,
+      "calories": 450.0,
+      "carbs": 25.0,
+      "fiber": 2.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17854594",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "玉ねぎも一緒に✿豚の生姜焼✿",
+    "ingredients": [
+      {
+        "ingredientName": "豚肉(切り落とし)",
+        "quantity": 132.5,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "生姜汁",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "生姜すりおろし",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:28:14.217909",
+    "steps": [
+      "豚肉をボウルに入れ下味を揉み込む。玉ねぎは5～６mmほどにスライスする。＜合わせ調味料＞の材料を混ぜ合わせておく。",
+      "ボウルに小麦粉を加えて豚肉にまぶし、サラダ油を熱したフライパンで焼く。焼き色が付いてきたら玉ねぎを加えてさらに炒める。",
+      "肉に火が通って玉ねぎが少し透き通ってきたら、＜合わせ調味料＞を加えてトロミが出るまで煮詰め、タレを絡める。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "おつまみ",
+      "時短料理",
+      "作り置き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_bb581f71-2bf8-4c28-99d5-071b8a72e9c6",
+    "nutrition": {
+      "fat": 9.0,
+      "protein": 5.0,
+      "calories": 140.0,
+      "carbs": 11.0,
+      "fiber": 4.0,
+      "salt": 4.1
+    },
+    "url": "https://bazurecipe.com/2020/05/09/%e6%82%aa%e9%ad%94%e3%81%ae%e5%a3%ba%e3%83%8b%e3%83%a9/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "悪魔の壺ニラ",
+    "ingredients": [
+      {
+        "ingredientName": "ニラ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "味噌",
+        "quantity": 2.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "うま味調味料",
+        "quantity": 0.33,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "一味唐辛子",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "おろしにんにく",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:33:50.942237",
+    "steps": [
+      "ニラ1袋100gに味噌小さじ2、うま味調味料小さじ1/3、一味唐辛子小さじ1/2、おろしにんにく少々を入れ、良く混ぜる。"
+    ],
+    "cookingTime": {
+      "total": 4,
+      "cook": 0,
+      "prep": 4
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食",
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_c180b982-5d6b-4f0c-b6d6-257c21abc9c2",
+    "nutrition": {
+      "fat": 35.0,
+      "protein": 25.0,
+      "calories": 600.0,
+      "carbs": 45.0,
+      "fiber": 3.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/18749908",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "お鍋一つで♪　簡単マカロニグラタン",
+    "ingredients": [
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "鶏もも肉",
+        "quantity": 55.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 200.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "マギーブイヨン",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "マカロニ",
+        "quantity": 20.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "ピザ用チーズ",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "パルメザンチーズ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "乳製品・卵"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "グラタン",
+      "マカロニ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:33:34.375333",
+    "steps": [
+      "材料です、鶏肉、海老置いてますがどちらでもお好みで♡工程写真が暗かったので海老で作った時の写真に変えましたご了承下さい",
+      "鶏肉（又は海老）玉ねぎを適当な大きさに切り鍋（又はフライパン）に分量のバターを溶かし鶏肉と玉ねぎを炒めます。",
+      "玉葱がしんなりしたら一旦火を止め（鶏や海老に火が通っていなくても大丈夫）小麦粉を入れます",
+      "小麦粉の粉っぽさが無くなるまで軽く混ぜます",
+      "４に牛乳、固形スープの素、マカロニを入れ木べらでよく馴染ませ火を点け弱火でゆっくりかき混ぜながらトロミが付くまで煮込ます",
+      "マカロニを茹でずに入れる場合水分を吸いますので出来上がりのイメージまで煮込まず、少し緩めがトロトロで美味しいです♡",
+      "トロミが付いたらグラタン皿に移しピザ用チーズ＆粉チーズを乗せオーブン又はオーブントースターで焼きます（写真はパセリON）",
+      "焼き時間は機器の指示に従って下さい。基本的に中身は全部火が通っていますので７に焦げ目が付いたらOKです"
+    ],
+    "cookingTime": {
+      "total": 30,
+      "cook": 20,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_c370e911-0b40-4fa3-9a3b-9c06d891a3de",
+    "nutrition": {
+      "fat": 20.0,
+      "protein": 22.0,
+      "calories": 350.0,
+      "carbs": 12.0,
+      "fiber": 0.5,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17408484",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単☆おいしい☆ぶりの照り焼き♪",
+    "ingredients": [
+      {
+        "ingredientName": "ぶりの切り身",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "海産物"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "魚料理",
+      "和食"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:31:05.435538",
+    "steps": [
+      "たれの材料を合わせて，よく混ぜておく。",
+      "フライパンにサラダ油を入れて熱する。ぶりを皮のほうを下にして入れ焼き，焼き色がついたら裏返す。",
+      "両面に焼き色がついたら，蓋をし，2,3分ほど蒸し焼きにする。",
+      "たれを全体にかける。ときどきスプーンでたれをぶりにかけながら弱火で7,8分焼く。汁気が少なくなってきて照りが出てきたら，できあがり!!!"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 15,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_c573e2b1-85fd-46ff-be7c-5a9301d93310",
+    "nutrition": {
+      "fat": 4.0,
+      "protein": 43.0,
+      "calories": 220.0,
+      "carbs": 0.0,
+      "fiber": 0.0,
+      "salt": 0.5
+    },
+    "url": "https://cookpad.com/recipe/338709",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "ほっとけばできる鶏ハム",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "お肉"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "作り置き",
+      "ヘルシー"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:13:21.975051",
+    "steps": [
+      "鶏肉の皮をとり砂糖→塩の順でまぶしビニール袋で密封して半日から一日おく。（極端に砂糖塩を減らすとハムっぽくなりません）",
+      "砂糖、塩を流水で洗い流して、ラップでキャンディーのように形を整える。後日注記：ここは洗い流すというより塩抜きです。ボウルに水を張り鶏肉を入れ、水を細くだし（もしくは取替）３０分以上置いてください。しょぱくなってしまった皆さん、すみません。",
+      "後日注記：長時間塩抜きしても完全には抜ききれませんので心配でしたら数回水をかえながら塩抜きしてください。",
+      "お湯をたくさん沸騰させ②を投入。もう一度沸騰したら火を止め冷めるまで放置。注：お湯が少ないと早く温度が下がります。",
+      "お好みの厚さに切って召し上がれ♪",
+      "後日注記：肉の大きさ、漬け時間、塩抜き等でしょっぱくなってしまうみたいです。最初にまぶす砂糖塩を各同量減らしてください。",
+      "後日注記：冬場部屋の温度が低いと早くお湯が冷めて火が通らないことがあるようです。お湯を増やす、蓋をする等してください。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "お弁当向き",
+      "筋トレ向き",
+      "作り置き",
+      "時短料理",
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_dbdd0f70-5ac9-413f-9b5f-e15b6c1f5b3c",
+    "nutrition": {
+      "fat": 5.0,
+      "protein": 28.0,
+      "calories": 280.0,
+      "carbs": 22.0,
+      "fiber": 0.5,
+      "salt": 2.8
+    },
+    "url": "https://cookpad.com/recipe/2399725",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単過ぎる♡♥鶏胸肉の照り焼きチキン",
+    "ingredients": [
+      {
+        "ingredientName": "鶏胸肉",
+        "quantity": 125.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.5,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お弁当",
+      "丼"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2025-12-21T00:10:53.680572",
+    "steps": [
+      "鶏胸肉は繊維に逆らって、そぎ切りにする。○を全体に絡める。",
+      "フライパンにごま油を熱し、①を並べて両面焼く。",
+      "肉の両面に焼き色が付いたら、●を加える。蓋をして蒸し焼きにする。",
+      "調味料が少なくなってきたら蓋をあける。フライパンをゆすって調味料を絡めるように仕上げて完成！"
+    ],
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_e06e6482-bbbe-4813-b1af-601f58eeb9c2",
+    "nutrition": {
+      "fat": 28.0,
+      "protein": 15.0,
+      "calories": 580.0,
+      "carbs": 65.0,
+      "fiber": 2.0,
+      "salt": 2.8
+    },
+    "url": "https://bazurecipe.com/2020/05/19/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%9a%e3%83%9a%e3%83%ad%e3%83%b3%e3%83%81%e3%83%bc%e3%83%8e/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高のペペロンチーノ",
+    "ingredients": [
+      {
+        "ingredientName": "パスタ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "ニンニク",
+        "quantity": 2.0,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "赤唐辛子",
+        "quantity": 1.0,
+        "unit": "本",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 1.0,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "フライパン",
+      "ごはん・麺・もち",
+      "レシピ動画",
+      "5万いいね以上",
+      "至高のレシピ",
+      "至高",
+      "500万再生以上"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:28:34.921793",
+    "steps": [
+      "ニンニクは薄切りに、赤唐辛子は種を除いて輪切りにします。",
+      "フライパンにオリーブオイル（大さじ1）、ニンニク、赤唐辛子を入れ、弱火で香りが立つまで炒めます。",
+      "水、コンソメを加えて沸騰させ、パスタを投入します。",
+      "パッケージの表示時間通りに茹でながら、水分が少なくなり乳化するまで混ぜます。",
+      "火を止め、仕上げのオリーブオイル（大さじ1）を回し入れ、好みで醤油を少量加えて混ぜ合わせたら完成です。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 15,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "時短料理"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_e2a14243-74ad-4028-a5eb-87ce73aa9c8f",
+    "nutrition": {
+      "fat": 12.0,
+      "protein": 8.0,
+      "calories": 180.0,
+      "carbs": 10.0,
+      "fiber": 3.0,
+      "salt": 1.0
+    },
+    "url": "https://cookpad.com/jp/recipes/18463362",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単！キャベツと卵だけでも美味しい中華",
+    "ingredients": [
+      {
+        "ingredientName": "キャベツ",
+        "quantity": 133.33,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "中華だし",
+        "quantity": 0.11,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.17,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "中華炒め",
+      "キャベツ",
+      "卵"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:31:48.782552",
+    "steps": [
+      "キャベツは4cm角のざく切り。",
+      "溶き卵に軽く塩味をつけ、フライパンで半熟の炒り卵を作り、取り出す。",
+      "【ふんわりのコツ】中火で大さじ1の油を熱する。一気に卵液を入れ周りが固まってきたら一気にザクザクまぜ直ぐ取り出す。",
+      "キャベツは中～強火で炒め、まだ固いかな、という状態で★を入れ水溶き片栗粉でトロミ付け。※キャベツくたくた派はじっくり炒め",
+      "火を止め、炒り卵を戻しざっくりまぜたら、仕上げのごま油を回し入れる。"
+    ],
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_e473fa03-b09b-404e-8539-9fd7420efc89",
+    "nutrition": {
+      "fat": 24.0,
+      "protein": 16.0,
+      "calories": 340.0,
+      "carbs": 12.0,
+      "fiber": 1.0,
+      "salt": 2.5
+    },
+    "url": "https://bazurecipe.com/2020/05/04/2270/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高のカレー",
+    "ingredients": [
+      {
+        "ingredientName": "豚小間切れ肉",
+        "quantity": 75.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "玉ねぎ（中サイズ）",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ニンニク",
+        "quantity": 0.25,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "カレールー",
+        "quantity": 23.125,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "乾燥パセリ",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉",
+      "フライパン",
+      "野菜・くだもの",
+      "ごはん・麺・もち",
+      "レシピ動画"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:31:07.707711",
+    "steps": [
+      "玉ねぎ（中サイズ）1個を飴色になるまで炒めます。",
+      "豚小間切れ肉300gを塩コショウして炒めます。",
+      "おろしニンニク1片、水600cc、カレールー半箱分を加えて溶かします。",
+      "バター10g、ウスターソース小さじ2、砂糖小さじ1を加えて完成です。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 15,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [],
+    "favoriteCount": 0,
+    "id": "ai_e5098798-43a1-473d-92c3-24e4353df735",
+    "nutrition": {
+      "fat": 18.0,
+      "protein": 15.0,
+      "calories": 550.0,
+      "carbs": 80.0,
+      "fiber": 3.0,
+      "salt": 3.0
+    },
+    "url": "https://bazurecipe.com/2023/02/11/%e6%9a%97%e6%ae%ba%e8%80%85%e3%81%ae%e3%83%91%e3%82%b9%e3%82%bf/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "暗殺者のパスタ",
+    "ingredients": [
+      {
+        "ingredientName": "にんにく",
+        "quantity": 2.0,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "唐辛子",
+        "quantity": 2.0,
+        "unit": "本",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 60.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "トマト缶",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "パスタ",
+        "quantity": 100.0,
+        "unit": "g",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 1.33,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "パスタ"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:32:21.336922",
+    "steps": [
+      "オリーブオイル大さじ1をひいたフライパンでにんにく2片、唐辛子2本を炒める。",
+      "玉ねぎ1/4個(60g)を加えて炒める。",
+      "トマト缶100gを加えて炒める。",
+      "パスタ100gとオリーブオイル大さじ1/2を加え、パスタを焼く。",
+      "水420cc、コンソメ小さじ1と1/3、塩2つまみを入れ、沸騰したら5分煮る。",
+      "水分が飛ぶまで煮詰めて完成。"
+    ],
+    "cookingTime": {
+      "total": 25,
+      "cook": 20,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "ヘルシー"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_e8525124-176e-4967-97a4-11c85e5f1cfc",
+    "nutrition": {
+      "fat": 32.0,
+      "protein": 28.0,
+      "calories": 550.0,
+      "carbs": 45.0,
+      "fiber": 5.0,
+      "salt": 2.2
+    },
+    "url": "https://cookpad.com/jp/recipes/17490540",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "シチューの素はもういらない!!これでＯＫ",
+    "ingredients": [
+      {
+        "ingredientName": "ジャガイモ",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "たまねぎ",
+        "quantity": 0.25,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "にんじん",
+        "quantity": 0.125,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "かぼちゃ",
+        "quantity": 0.0625,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "鶏肉",
+        "quantity": 0.25,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "パセリ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 0.625,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "牛乳",
+        "quantity": 75.0,
+        "unit": "ml",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 0.5,
+        "unit": "個",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "シチュー"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:32:28.134274",
+    "steps": [
+      "野菜をすべて角切りにします。鶏肉を食べやすい大きさにきります。",
+      "油をひいた鍋に、鶏肉と野菜、塩・こしょうをしてよく炒めます。玉ねぎが透明になるまで炒めたら、火を止めます。",
+      "火を止めた鍋に、小麦粉を振りいれて、火にかけずに野菜と混ぜ合わせます。",
+      "全体に小麦粉がなじんだら、牛乳・水を入れて軽くかきまぜる。(野菜の余熱で小麦粉もとけてきます。）コンソメを入れて、ふたたび火にかけます。",
+      "とろみがつくまで、混ぜる。混ぜる。煮立ってきて、とろみがついたら、弱火にして煮込みます。この時に、それぞれお好きなとろみ加減を水で調整してください。",
+      "しばらく煮込んだら、塩・こしょうで味をととのえて出来上がり!!…簡単に本格シチューになりました★"
+    ],
+    "cookingTime": {
+      "total": 40,
+      "cook": 25,
+      "prep": 15
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_e95717d5-9986-464b-801f-480bc03f8173",
+    "nutrition": {
+      "fat": 2.0,
+      "protein": 27.0,
+      "calories": 126.0,
+      "carbs": 0.0,
+      "fiber": 0.0,
+      "salt": 0.1
+    },
+    "url": "https://bazurecipe.com/2023/04/13/%e8%87%b3%e9%ab%98%e3%81%ae%e9%b6%8f%e3%83%8f%e3%83%a0/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の鶏ハム",
+    "ingredients": [
+      {
+        "ingredientName": "鶏むね肉",
+        "quantity": 116.7,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "味の素",
+        "quantity": 0.5,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:35:12.788285",
+    "steps": [
+      "常温にした鶏むね肉(またはもも肉)に味の素5振り、水大さじ2を揉み込み、沸騰したお湯1500ccに入れたら蓋をして1時間ほど放置する。"
+    ],
+    "cookingTime": {
+      "total": 70,
+      "cook": 60,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き",
+      "お弁当向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_f4d812f5-5340-4fef-9542-dea243367f7c",
+    "nutrition": {
+      "fat": 40.0,
+      "protein": 30.0,
+      "calories": 600.0,
+      "carbs": 25.0,
+      "fiber": 2.0,
+      "salt": 2.5
+    },
+    "url": "https://cookpad.com/jp/recipes/17359242",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "一番人気！本番のチキン南蛮！お弁当にも",
+    "ingredients": [
+      {
+        "ingredientName": "鶏もも肉",
+        "quantity": 1.0,
+        "unit": "枚",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.375,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "小麦粉",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "小口切りの唐辛子",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 0.25,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ゆで卵",
+        "quantity": 0.625,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "玉ねぎ",
+        "quantity": 0.0625,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "マヨネーズ",
+        "quantity": 1.25,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "ケチャップ",
+        "quantity": 0.375,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "チキン南蛮",
+      "鶏肉料理",
+      "揚げ物"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:30:00.170628",
+    "steps": [
+      "鶏肉は一枚のままでも一口大に切ってもいいです。肉に塩コショウし、小麦粉をまぶしてはたいておきます。",
+      "それを溶き卵にくぐらせて油で揚げます。ゆっくり少ない油で焼き揚げでもいいですよ。",
+      "南蛮酢は醤油と酢と砂糖を鍋に入れて温めるか、レンジでチンして温めましょう。",
+      "＊お試しあれ①南蛮酢を温める際にあればニンジンや玉ねぎ、生姜のきれはしなどをいれて煮たてると本格的になります。",
+      "＊お試しあれ②南蛮酢を温めるときに大人用にはピリッと唐辛子を入れ、子供用には少しケチャップを入れるのもいいですよ♪",
+      "あがったお肉を南蛮酢につけて衣をしっとりさせます。あまり長く漬けこまなくていいです。さっとでOK！",
+      "ゆで玉子と玉ねぎのみじん切り、マヨネーズとケチャップ、塩コショウを混ぜてタルタルを作ります。",
+      "＊お試しあれ③タルタルソースの中にはあればキュウリやピクルスのみじん切りや粒マスタードを入れてもおいしいです。",
+      "お肉にタルタルをかけてできあがり♪",
+      "タルタルの分量はお好みでどうぞ♪タルタルの上にあまった甘酢をかけちゃってくださぁい つゆだくでね♪",
+      "お弁当に入れる時はタルタルはマヨネーズ少なめで硬めがいいよ♡"
+    ],
+    "cookingTime": {
+      "total": 35,
+      "cook": 15,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "和食"
+    ]
+  },
+  {
+    "features": [
+      "ダイエット向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_f5d6ef39-015d-4435-9a3d-1a882800fa2f",
+    "nutrition": {
+      "fat": 14.0,
+      "protein": 7.0,
+      "calories": 250.0,
+      "carbs": 25.0,
+      "fiber": 3.0,
+      "salt": 1.4
+    },
+    "url": "https://bazurecipe.com/2020/07/14/%e8%87%b3%e9%ab%98%e3%81%ae%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高のジャーマンポテト",
+    "ingredients": [
+      {
+        "ingredientName": "ジャガイモ",
+        "quantity": 125.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "ベーコン",
+        "quantity": 25.0,
+        "unit": "g",
+        "category": "加工食品"
+      },
+      {
+        "ingredientName": "タマネギ",
+        "quantity": 30.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "コンソメ",
+        "quantity": 0.75,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "にんにく",
+        "quantity": 1.0,
+        "unit": "片",
+        "category": "野菜・果物"
+      }
+    ],
+    "group": "副菜",
+    "isPublic": true,
+    "subCategory": [
+      "お肉",
+      "フライパン",
+      "つまみ",
+      "野菜・くだもの",
+      "レシピ動画"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:34:30.262131",
+    "steps": [
+      "じゃがいもは皮を剥き、一口大に切る。耐熱容器に入れ、ラップをして電子レンジで柔らかくなるまで加熱する。（600Wで5～7分程度）",
+      "ベーコンは1cm幅に切り、タマネギは薄切りにする。にんにくはみじん切りにする。",
+      "フライパンにみじん切りにしたにんにくを入れて弱火で熱し、香りが立ったらベーコン、タマネギを加えて炒める。",
+      "タマネギがしんなりしたら、レンジで加熱したじゃがいも、コンソメを加えて全体を混ぜながら炒め合わせる。",
+      "バターを加えてバターが溶けるまで炒め、味を調える。",
+      "お好みで粒マスタードやタバスコを添える。"
+    ],
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
+    ]
+  },
+  {
+    "features": [
+      "時短料理",
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_fbb933a5-3da8-4796-bf2f-938f0093af00",
+    "nutrition": {
+      "fat": 35.0,
+      "protein": 25.0,
+      "calories": 700.0,
+      "carbs": 90.0,
+      "fiber": 2.0,
+      "salt": 2.5
+    },
+    "url": "https://bazurecipe.com/2020/05/17/%e8%87%b3%e9%ab%98%e3%81%ae%e7%82%92%e9%a3%af/",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "至高の炒飯",
+    "ingredients": [
+      {
+        "ingredientName": "サトウのご飯",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "豚バラ肉",
+        "quantity": 50.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "生姜",
+        "quantity": 3.0,
+        "unit": "g",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 2.0,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "長ネギ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "味の素",
+        "quantity": 0.5,
+        "unit": "小さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "紅ショウガ",
+        "quantity": 1.0,
+        "unit": "適量",
+        "category": "加工食品"
+      }
+    ],
+    "group": "主食",
+    "isPublic": true,
+    "subCategory": [
+      "炒飯"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-21T23:29:20.325104",
+    "steps": [
+      "豚バラ肉、生姜、長ネギを刻みます。",
+      "卵を溶きほぐします。",
+      "フライパンを熱し、サラダ油をひいて豚バラ肉を炒めます。",
+      "豚バラ肉に火が通ったら、生姜と長ネギを加えて炒めます。",
+      "溶き卵を加えて手早く炒めます。",
+      "ご飯を加えてほぐしながら炒め合わせます。",
+      "塩、味の素、黒コショウ、日本酒で味を調えます。",
+      "全体がパラパラになるまで炒めたら器に盛り、紅ショウガを添えて完成です。"
+    ],
+    "cookingTime": {
+      "total": 12,
+      "cook": 7,
+      "prep": 5
+    },
+    "isDeleted": false,
+    "genres": [
+      "中華"
+    ]
+  },
+  {
+    "features": [
+      "筋トレ向き"
+    ],
+    "favoriteCount": 0,
+    "id": "ai_ff3ab3d4-19a4-434a-a6c4-33da65790a54",
+    "nutrition": {
+      "fat": 25.0,
+      "protein": 25.0,
+      "calories": 380.0,
+      "carbs": 20.0,
+      "fiber": 4.0,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/jp/recipes/18887844",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "name": "簡単美味しい♡ピーマンの肉詰め",
+    "ingredients": [
+      {
+        "ingredientName": "ピーマン",
+        "quantity": 1.0,
+        "unit": "個",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "あいびき肉",
+        "quantity": 60.0,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "卵",
+        "quantity": 0.2,
+        "unit": "個",
+        "category": "乳製品・卵"
+      },
+      {
+        "ingredientName": "生姜（すりおろし）",
+        "quantity": 0.2,
+        "unit": "片",
+        "category": "野菜・果物"
+      },
+      {
+        "ingredientName": "パン粉",
+        "quantity": 0.6,
+        "unit": "大さじ",
+        "category": "米・パン・その他"
+      },
+      {
+        "ingredientName": "ナツメグ",
+        "quantity": 1.0,
+        "unit": "少々",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 0.3,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "group": "主菜",
+    "isPublic": true,
+    "subCategory": [
+      "肉詰め",
+      "ピーマン料理"
+    ],
+    "category": [
+      "夜ごはん",
+      "昼ごはん"
+    ],
+    "createdAt": "2025-12-20T01:28:38.835349",
+    "steps": [
+      "ボールに●を全て合わせ",
+      "良く混ぜておく",
+      "ピーマンはヘタとシッポを落とし、３等分位に切る",
+      "ビニール袋に片栗粉とピーマンを入れシャカシャカする",
+      "４のピーマンに２をつめる",
+      "油をひいたフライパンで上になるほうから焼いてゆく",
+      "焦げ目がついたらひっくり返し、水１００ｃｃと酒を入れ",
+      "蓋をして中火程度で蒸し焼きにする",
+      "火が通ったら肉詰めだけ皿に取りだし、そのままのフライパンに残りの水１００ｃｃと〇を足し火にかけてゆく",
+      "良い具合に煮詰まったら盛り付けた肉詰めにかけて完成。"
+    ],
+    "cookingTime": {
+      "total": 40,
+      "cook": 20,
+      "prep": 20
+    },
+    "isDeleted": false,
+    "genres": [
+      "洋食"
     ]
   }
 ]
