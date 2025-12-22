@@ -695,7 +695,7 @@
     "id": "24",
     "url": "https://cookpad.com/recipe/2374817?view=classic#share_line",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-22T05:11:34.974000+00:00",
     "name": "オムライスホワイト",
     "group": "主菜",
     "ingredients": [
@@ -3159,7 +3159,7 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707197/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-22T05:11:34.974000+00:00",
     "name": "白菜と豆腐のコンソメスープ",
     "group": "副菜",
     "ingredients": [
@@ -3239,7 +3239,7 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707198/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-22T05:11:34.974000+00:00",
     "name": "お鍋の野菜が朝食に！きのこ白菜のトマトコンソメスープ",
     "group": "副菜",
     "ingredients": [
@@ -3385,7 +3385,7 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707198/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-22T05:11:34.974000+00:00",
     "name": "お鍋の野菜が朝食に！きのこ白菜のトマトコンソメスープ",
     "group": "副菜",
     "ingredients": [
@@ -3454,7 +3454,7 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707199/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-22T05:11:34.974000+00:00",
     "name": "朝から満足！鶏だんごと野菜のミルクコンソメスープ",
     "group": "主菜",
     "ingredients": [
@@ -9535,7 +9535,7 @@
     },
     "url": "https://cookpad.com/jp/recipes/17622159",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-22T04:57:56.133000+00:00",
     "name": "鶏むねの甘酢煮",
     "group": "主菜",
     "ingredients": [
@@ -9611,7 +9611,7 @@
       "cook": 10,
       "prep": 10
     },
-    "isDeleted": false,
+    "isDeleted": true,
     "genres": [
       "和食"
     ]
