@@ -690,51 +690,51 @@
     "id": "23"
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "洋食"
-    ],
-    "url": "https://cookpad.com/recipe/2374817?view=classic#share_line",
-    "group": "主菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "24",
+    "url": "https://cookpad.com/recipe/2374817?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "オムライスホワイト",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "主菜",
     "ingredients": [
       {
+        "ingredientName": "牛乳",
         "quantity": 87.5,
         "unit": "ml",
-        "ingredientName": "牛乳",
         "category": "乳製品・卵"
       },
       {
+        "ingredientName": "バター",
         "quantity": 10.0,
         "unit": "g",
-        "ingredientName": "バター",
         "category": "乳製品・卵"
       },
       {
+        "ingredientName": "玉ねぎ",
         "quantity": 0.75,
         "unit": "個",
-        "ingredientName": "玉ねぎ",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "しめじ",
         "quantity": 25.0,
         "unit": "g",
-        "ingredientName": "しめじ",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "24"
+    "genres": [
+      "洋食"
+    ]
   },
   {
     "updatedAt": "2025-12-04T15:00:00+00:00",
@@ -2454,39 +2454,39 @@
     "id": "61"
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://cookpad.com/recipe/398799?view=classic#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "62",
+    "url": "https://cookpad.com/recipe/398799?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ブロッコリーのおかか和え",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "ブロッコリー",
         "quantity": 0.5,
         "unit": "個",
-        "ingredientName": "ブロッコリー",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "かつおぶし",
         "quantity": 1.0,
         "unit": "袋",
-        "ingredientName": "鰹節",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "62"
+    "genres": [
+      "和食"
+    ]
   },
   {
     "updatedAt": "2025-12-04T15:00:00+00:00",
@@ -2642,8 +2642,12 @@
   },
   {
     "features": [],
-    "group": "主菜",
     "favoriteCount": 0,
+    "id": "67",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "name": "鍋",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鍋の素",
@@ -2652,13 +2656,13 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "はくさい",
+        "ingredientName": "白菜",
         "quantity": 0.125,
         "unit": "玉",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "キノコ",
+        "ingredientName": "きのこ",
         "quantity": 0.5,
         "unit": "個",
         "category": "野菜・果物"
@@ -2695,12 +2699,8 @@
       "夜ごはん"
     ],
     "createdAt": "2025-09-21T15:00:00+00:00",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
     "isDeleted": false,
-    "genres": [],
-    "updatedAt": "2025-12-18T15:00:00.490000+00:00",
-    "name": "鍋",
-    "id": "67"
+    "genres": []
   },
   {
     "updatedAt": "2025-12-04T15:00:00+00:00",
@@ -2835,8 +2835,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/702548/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "卵おじや",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "ご飯",
@@ -2851,7 +2852,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 15.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -2863,7 +2864,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ねぎ",
+        "ingredientName": "ネギ",
         "quantity": 0.125,
         "unit": "本",
         "category": "野菜・果物"
@@ -2887,7 +2888,6 @@
         "category": "乳製品・卵"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -2926,8 +2926,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/706892/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "朝チーズケーキ",
+    "group": "デザート",
     "ingredients": [
       {
         "ingredientName": "クリームチーズ",
@@ -2936,7 +2937,7 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "プレーンヨーグルト",
+        "ingredientName": "ヨーグルト",
         "quantity": 50.0,
         "unit": "g",
         "category": "乳製品・卵"
@@ -2960,7 +2961,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "デザート",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -3003,11 +3003,12 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/803777/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "カップスープコーンクリームでつくるコーン鍋",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "ウインナーソーセージ",
+        "ingredientName": "ソーセージ",
         "quantity": 2.0,
         "unit": "本",
         "category": "お肉"
@@ -3031,7 +3032,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 0.25,
         "unit": "本",
         "category": "野菜・果物"
@@ -3055,7 +3056,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "鍋",
@@ -3159,8 +3159,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707197/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "白菜と豆腐のコンソメスープ",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "白菜",
@@ -3175,7 +3176,7 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 10.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -3187,7 +3188,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ウィンナーソーセージ",
+        "ingredientName": "ソーセージ",
         "quantity": 0.5,
         "unit": "本",
         "category": "お肉"
@@ -3199,7 +3200,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "スープ"
@@ -3239,8 +3239,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707198/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "お鍋の野菜が朝食に！きのこ白菜のトマトコンソメスープ",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "しめじ",
@@ -3261,7 +3262,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ウインナーソーセージ",
+        "ingredientName": "ソーセージ",
         "quantity": 0.5,
         "unit": "本",
         "category": "加工食品"
@@ -3273,7 +3274,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "スープ"
@@ -3314,11 +3314,12 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/805098/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "焼きもちの大根おろし汁",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "餅",
+        "ingredientName": "おもち",
         "quantity": 1.0,
         "unit": "個",
         "category": "加工食品"
@@ -3342,7 +3343,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "汁物",
@@ -3385,8 +3385,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707198/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T13:26:40.170000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "お鍋の野菜が朝食に！きのこ白菜のトマトコンソメスープ",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "しめじ",
@@ -3407,13 +3408,12 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ウインナーソーセージ",
+        "ingredientName": "ソーセージ",
         "quantity": 0.5,
         "unit": "本",
         "category": "加工食品"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "スープ",
@@ -3454,11 +3454,12 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707199/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "朝から満足！鶏だんごと野菜のミルクコンソメスープ",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏つくね",
+        "ingredientName": "つくね",
         "quantity": 2.0,
         "unit": "個",
         "category": "お肉"
@@ -3476,7 +3477,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 20.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -3500,7 +3501,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "汁物",
@@ -3544,8 +3544,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/703413/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "豆腐とわかめの基本のみそ汁",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "絹ごし豆腐",
@@ -3554,13 +3555,13 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "カットわかめ（乾）",
+        "ingredientName": "カットわかめ",
         "quantity": 0.5,
         "unit": "小さじ",
         "category": "海産物"
       },
       {
-        "ingredientName": "長ねぎ",
+        "ingredientName": "長ネギ",
         "quantity": 0.125,
         "unit": "本",
         "category": "野菜・果物"
@@ -3578,7 +3579,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "みそ汁",
@@ -3758,8 +3758,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/707196/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "朝からほっこり。かぼちゃとじゃがいものミルクコンソメスープ",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "かぼちゃ",
@@ -3780,7 +3781,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 12.5,
         "unit": "g",
         "category": "野菜・果物"
@@ -3798,7 +3799,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -3931,17 +3931,18 @@
     },
     "url": "https://cookpad.com/jp/recipes/17876718",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "しっとり・ふわふわ＊ミルクスポンジ",
+    "group": "デザート",
     "ingredients": [
       {
-        "ingredientName": "卵白",
+        "ingredientName": "卵",
         "quantity": 0.375,
         "unit": "個",
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "卵黄",
+        "ingredientName": "卵",
         "quantity": 0.375,
         "unit": "個",
         "category": "乳製品・卵"
@@ -3959,7 +3960,6 @@
         "category": "乳製品・卵"
       }
     ],
-    "group": "デザート",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -4018,8 +4018,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/22621855",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "おいし～い☆うちの回鍋肉（ホイコーロー）",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "キャベツ",
@@ -4034,7 +4035,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "豚バラ切り落とし",
+        "ingredientName": "豚バラ肉",
         "quantity": 83.33,
         "unit": "g",
         "category": "お肉"
@@ -4046,7 +4047,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "しょうが",
+        "ingredientName": "生姜",
         "quantity": 0.33,
         "unit": "片",
         "category": "野菜・果物"
@@ -4070,13 +4071,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "味噌",
+        "ingredientName": "みそ",
         "quantity": 0.33,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -4114,8 +4114,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17401568",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "定番おいしい麻婆豆腐",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "木綿豆腐",
@@ -4136,7 +4137,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 0.5,
         "unit": "片",
         "category": "野菜・果物"
@@ -4160,13 +4161,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "味噌",
+        "ingredientName": "みそ",
         "quantity": 0.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "豆腐料理"
@@ -4212,8 +4212,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17616085",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "簡単もやしの卵♪中華あんかけ",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "もやし",
@@ -4228,7 +4229,7 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "味ぽん",
+        "ingredientName": "ポン酢",
         "quantity": 3.0,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
@@ -4246,7 +4247,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -4501,11 +4501,12 @@
     },
     "url": "https://cookpad.com/jp/recipes/17715016",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "秘密の豆腐ハンバーグ",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "合挽き肉",
+        "ingredientName": "合い挽き肉",
         "quantity": 75.0,
         "unit": "g",
         "category": "お肉"
@@ -4559,7 +4560,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "ハンバーグ",
@@ -4662,11 +4662,12 @@
     },
     "url": "https://cookpad.com/jp/recipes/17526500",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "★びっくりのハンバーグ★",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "合いびき肉",
+        "ingredientName": "合い挽き肉",
         "quantity": 105.0,
         "unit": "g",
         "category": "お肉"
@@ -4726,7 +4727,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -4819,8 +4819,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/18584308",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "フライパンで簡単～☆きんぴらごぼう☆～",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "ごぼう",
@@ -4829,19 +4830,18 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 0.17,
         "unit": "本",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ごま",
+        "ingredientName": "ゴマ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "作り置き",
@@ -4892,11 +4892,12 @@
     },
     "url": "https://cookpad.com/jp/recipes/18362980",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ヨーグルトとＨＭで超簡単濃厚チーズケーキ",
+    "group": "デザート",
     "ingredients": [
       {
-        "ingredientName": "プレーンヨーグルト",
+        "ingredientName": "ヨーグルト",
         "quantity": 50.0,
         "unit": "g",
         "category": "乳製品・卵"
@@ -4914,7 +4915,6 @@
         "category": "乳製品・卵"
       }
     ],
-    "group": "デザート",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -4951,8 +4951,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/20064156",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "肉マニア考案若鶏もも肉のうまいうまい焼き",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏もも肉",
@@ -4961,7 +4962,7 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "白すりごま",
+        "ingredientName": "白ゴマ",
         "quantity": 1.0,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
@@ -4973,13 +4974,12 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "しょうが",
+        "ingredientName": "生姜",
         "quantity": 0.5,
         "unit": "かけ",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -5024,8 +5024,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17426721",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T13:32:25.982000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "白菜",
@@ -5034,13 +5035,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "かつお節",
+        "ingredientName": "かつおぶし",
         "quantity": 1.0,
         "unit": "袋",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "和風だしの素",
+        "ingredientName": "だしの素",
         "quantity": 0.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
@@ -5052,13 +5053,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "すり胡麻",
+        "ingredientName": "すりゴマ",
         "quantity": 0.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "白菜",
@@ -5268,8 +5268,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17424363",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "牛丼～吉野家風～☆",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "牛バラ肉",
@@ -5290,13 +5291,12 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "本だし",
+        "ingredientName": "ほんだし",
         "quantity": 0.57,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -5336,23 +5336,23 @@
     },
     "url": "https://cookpad.com/jp/recipes/17449348",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "魔法の大学芋",
+    "group": "デザート",
     "ingredients": [
       {
-        "ingredientName": "薩摩芋",
+        "ingredientName": "さつまいも",
         "quantity": 150.0,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "炒りゴマ",
+        "ingredientName": "ゴマ",
         "quantity": 0.25,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "デザート",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -5392,8 +5392,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17631433",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "居酒屋風☆やみつききゅうり",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "きゅうり",
@@ -5408,13 +5409,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "すりごま",
+        "ingredientName": "すりゴマ",
         "quantity": 1.0,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "和え物",
@@ -5457,8 +5457,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/18833006",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "みんな大絶賛のポテトサラダ",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "じゃがいも",
@@ -5479,7 +5480,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 3.75,
         "unit": "g",
         "category": "野菜・果物"
@@ -5497,7 +5498,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "サラダ"
@@ -5542,8 +5542,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17426721",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T13:33:36.604000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "白菜",
@@ -5552,13 +5553,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "かつお節",
+        "ingredientName": "かつおぶし",
         "quantity": 1.0,
         "unit": "袋",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "和風だしの素",
+        "ingredientName": "だしの素",
         "quantity": 0.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
@@ -5570,13 +5571,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "すり胡麻",
+        "ingredientName": "すりゴマ",
         "quantity": 0.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "サラダ"
@@ -5619,8 +5619,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17771866",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "極ウマ♡ナスとひき肉のボロネーゼ風パスタ",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "パスタ",
@@ -5659,7 +5660,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "顆粒コンソメ",
+        "ingredientName": "コンソメ",
         "quantity": 0.5,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
@@ -5671,7 +5672,6 @@
         "category": "乳製品・卵"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "パスタ"
@@ -5781,8 +5781,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/19174499",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "マジ旨！薩摩芋とレンコンのデパ地下風",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "さつまいも",
@@ -5797,7 +5798,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ごま",
+        "ingredientName": "ゴマ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
@@ -5809,7 +5810,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "根菜",
@@ -5955,17 +5955,17 @@
     },
     "url": "https://cookpad.com/jp/recipes/19196492",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "鶏手羽元の甘辛さっぱり煮",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏の手羽元",
+        "ingredientName": "手羽先",
         "quantity": 125.0,
         "unit": "g",
         "category": "お肉"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "さっぱり煮",
@@ -6009,8 +6009,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/22640981",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "めっちゃジューシー♪鶏の唐揚げ",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏もも肉",
@@ -6025,7 +6026,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "おろししょうが",
+        "ingredientName": "おろし生姜",
         "quantity": 0.5,
         "unit": "片",
         "category": "野菜・果物"
@@ -6049,7 +6050,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -6297,8 +6297,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/18003519",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "こってり甘旨っ！◆豚丼◆",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚コマ切れ肉",
@@ -6313,13 +6314,12 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "玉葱",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.14,
         "unit": "個",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "豚丼",
@@ -6364,17 +6364,18 @@
     },
     "url": "https://cookpad.com/jp/recipes/18558350",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "子供も大好き！豚なすピーマンみそ炒め",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚バラ薄切り",
+        "ingredientName": "豚バラ肉",
         "quantity": 50.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "なす",
+        "ingredientName": "ナス",
         "quantity": 75.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -6392,19 +6393,18 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "しょうが",
+        "ingredientName": "生姜",
         "quantity": 0.25,
         "unit": "かけ",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "長ねぎ",
+        "ingredientName": "長ネギ",
         "quantity": 25.0,
         "unit": "g",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "肉野菜炒め",
@@ -6446,17 +6446,18 @@
     },
     "url": "https://cookpad.com/jp/recipes/17546743",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "◆りぴ・りぴ㊙チョコレートケーキ◆",
+    "group": "デザート",
     "ingredients": [
       {
-        "ingredientName": "卵白",
+        "ingredientName": "卵",
         "quantity": 0.375,
         "unit": "個",
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "卵黄",
+        "ingredientName": "卵",
         "quantity": 0.375,
         "unit": "個",
         "category": "乳製品・卵"
@@ -6498,7 +6499,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "デザート",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -6569,8 +6569,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17426721",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "白菜が丸ごと食べたくなる♪簡単サラダ♪",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "白菜",
@@ -6579,13 +6580,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "かつお節",
+        "ingredientName": "かつおぶし",
         "quantity": 1.0,
         "unit": "袋",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "和風だしの素",
+        "ingredientName": "だしの素",
         "quantity": 0.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
@@ -6597,13 +6598,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "すり胡麻",
+        "ingredientName": "すりゴマ",
         "quantity": 0.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "サラダ"
@@ -6849,8 +6849,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17868688",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "サバの味噌煮",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "サバ",
@@ -6859,19 +6860,18 @@
         "category": "海産物"
       },
       {
-        "ingredientName": "しょうが",
+        "ingredientName": "生姜",
         "quantity": 0.25,
         "unit": "かけ",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "味噌",
+        "ingredientName": "みそ",
         "quantity": 0.75,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -6911,11 +6911,12 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/801674/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ほうれん草 de チーズリゾット",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "ごはん",
+        "ingredientName": "ご飯",
         "quantity": 60.0,
         "unit": "g",
         "category": "加工食品"
@@ -6933,7 +6934,6 @@
         "category": "乳製品・卵"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "リゾット",
@@ -6976,8 +6976,9 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/003998/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "大根の葉とじゃこ炒め",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "大根の葉",
@@ -6986,13 +6987,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "本だし",
+        "ingredientName": "ほんだし",
         "quantity": 1.0,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "白ごま",
+        "ingredientName": "白ゴマ",
         "quantity": 0.25,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
@@ -7004,7 +7005,6 @@
         "category": "海産物"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "20分以内",
@@ -7101,11 +7101,12 @@
     },
     "url": "https://park.ajinomoto.co.jp/recipe/card/705346/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-19T05:48:51.220000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "見た目も美味しい！ だし香る 豚バラと白菜の重ね鍋",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚バラ薄切り肉",
+        "ingredientName": "豚バラ肉",
         "quantity": 75.0,
         "unit": "g",
         "category": "お肉"
@@ -7123,25 +7124,24 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "白髪ねぎ",
+        "ingredientName": "ネギ",
         "quantity": 0.25,
         "unit": "本",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "小ねぎ",
+        "ingredientName": "小ネギ",
         "quantity": 0.75,
         "unit": "本",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "しょうが",
+        "ingredientName": "生姜",
         "quantity": 0.0625,
         "unit": "かけ",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "ミルフィーユ鍋",
@@ -7187,11 +7187,12 @@
     },
     "url": "https://bazurecipe.com/2020/05/17/%e7%a9%b6%e6%a5%b5%e3%81%ae%e8%b1%9a%e3%82%b3%e3%83%9e%e7%94%9f%e5%a7%9c%e7%84%bc%e3%81%8d/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "究極の豚コマ生姜焼き",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚コマ肉",
+        "ingredientName": "豚コマ切れ肉",
         "quantity": 110.0,
         "unit": "g",
         "category": "お肉"
@@ -7221,7 +7222,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -7263,8 +7263,9 @@
     },
     "url": "https://bazurecipe.com/2020/04/28/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%8a%e3%83%9d%e3%83%aa%e3%82%bf%e3%83%b3/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高のナポリタン",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "パスタ",
@@ -7279,13 +7280,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ウインナソーセージ",
+        "ingredientName": "ソーセージ",
         "quantity": 50.0,
         "unit": "g",
         "category": "加工食品"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 50.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -7303,7 +7304,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "パスタ"
@@ -7347,8 +7347,9 @@
     },
     "url": "https://cookpad.com/recipe/450372",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "食べ過ぎ注意☆鶏肉のねぎマヨポン炒め",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏肉",
@@ -7369,13 +7370,12 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "青ねぎ",
+        "ingredientName": "小ネギ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -7415,8 +7415,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17679730",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "喫茶店の味♡懐かしまろやかナポリタン",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "パスタ",
@@ -7443,7 +7444,7 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "椎茸",
+        "ingredientName": "しいたけ",
         "quantity": 1.0,
         "unit": "個",
         "category": "野菜・果物"
@@ -7467,7 +7468,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "パスタ",
@@ -7518,8 +7518,9 @@
     },
     "url": "https://cookpad.com/recipe/2446661",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "キャベツと鶏むね肉のオイスター炒め",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "キャベツ",
@@ -7528,7 +7529,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 83.3,
         "unit": "g",
         "category": "お肉"
@@ -7546,7 +7547,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -7588,17 +7588,17 @@
     },
     "url": "https://cookpad.com/recipe/1070342",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ウチの黄金比*鶏の照り焼き～お弁当にも…",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏モモ肉",
+        "ingredientName": "鶏もも肉",
         "quantity": 1.0,
         "unit": "枚",
         "category": "お肉"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "照り焼き",
@@ -7648,8 +7648,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/19415522",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ひじきの煮物",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "乾燥ひじき",
@@ -7658,19 +7659,18 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 0.5,
         "unit": "本",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "顆粒和風だし",
+        "ingredientName": "だしの素",
         "quantity": 1.0,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -7712,8 +7712,9 @@
     },
     "url": "https://cookpad.com/recipe/102203",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "一番人気！本番のチキン南蛮！お弁当にも",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏もも肉",
@@ -7734,7 +7735,7 @@
         "category": "米・パン・その他"
       },
       {
-        "ingredientName": "唐辛子 (小口切り)",
+        "ingredientName": "唐辛子",
         "quantity": 1.0,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
@@ -7746,7 +7747,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "ゆで卵",
+        "ingredientName": "卵",
         "quantity": 0.625,
         "unit": "個",
         "category": "乳製品・卵"
@@ -7764,7 +7765,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お弁当"
@@ -7808,8 +7808,9 @@
     },
     "url": "https://bazurecipe.com/2020/10/08/%e8%87%b3%e9%ab%98%e3%81%ae%e7%84%a1%e6%b0%b4%e8%82%89%e3%81%98%e3%82%83%e3%81%8c/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高の無水肉じゃが",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚バラ肉",
@@ -7824,7 +7825,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 75.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -7854,7 +7855,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "和食",
@@ -8051,8 +8051,9 @@
     },
     "url": "https://cookpad.com/recipe/2050905",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "お弁当☆子供に◎揚げずに簡単♪チキン南蛮",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏もも肉",
@@ -8079,7 +8080,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "乾燥パセリ",
+        "ingredientName": "パセリ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
@@ -8103,7 +8104,6 @@
         "category": "乳製品・卵"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -8156,8 +8156,9 @@
     },
     "url": "https://cookpad.com/recipe/2848152",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "簡単！トロッと柔らか鶏胸肉と白菜の中華煮",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏胸肉",
@@ -8172,13 +8173,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "しょうがチューブ",
+        "ingredientName": "生姜チューブ",
         "quantity": 0.4,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "ニンニクチューブ",
+        "ingredientName": "おろしにんにく",
         "quantity": 0.4,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
@@ -8196,7 +8197,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "中華",
@@ -8244,17 +8244,18 @@
     },
     "url": "https://cookpad.com/recipe/2210351",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "なす＆ピーマン＆鶏むね肉で簡単中華！",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 62.5,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "なす",
+        "ingredientName": "ナス",
         "quantity": 0.75,
         "unit": "本",
         "category": "野菜・果物"
@@ -8278,7 +8279,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -8324,11 +8324,12 @@
     },
     "url": "https://bazurecipe.com/2020/05/19/4897/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高の豚キムチ",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚こま肉",
+        "ingredientName": "豚コマ切れ肉",
         "quantity": 80.0,
         "unit": "g",
         "category": "お肉"
@@ -8346,7 +8347,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -8386,17 +8386,18 @@
     },
     "url": "https://cookpad.com/recipe/263782",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "秘密のやわらかチキン☆.｡.:*･ﾟ",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 0.5,
         "unit": "枚",
         "category": "お肉"
       },
       {
-        "ingredientName": "たまねぎ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.125,
         "unit": "個",
         "category": "野菜・果物"
@@ -8426,7 +8427,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -8469,11 +8469,12 @@
     },
     "url": "https://cookpad.com/jp/recipes/19816909",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "美味しい☆タコライス",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "合挽き肉",
+        "ingredientName": "合い挽き肉",
         "quantity": 100.0,
         "unit": "g",
         "category": "お肉"
@@ -8521,7 +8522,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -8561,11 +8561,12 @@
     },
     "url": "https://bazurecipe.com/2020/05/04/%e9%9c%9c%e9%99%8d%e3%82%8a%e3%82%bc%e3%83%a9%e3%83%81%e3%83%b3%e3%83%8f%e3%83%b3%e3%83%90%e3%83%bc%e3%82%b0/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高のハンバーグ",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "牛豚合挽き肉",
+        "ingredientName": "牛豚合い挽き肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
@@ -8619,7 +8620,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉料理",
@@ -8667,8 +8667,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/18716514",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ごま油が美味しい☺もやしのナムル☺",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "もやし",
@@ -8683,13 +8684,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "白いりごま",
+        "ingredientName": "白ゴマ",
         "quantity": 1.5,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "お弁当"
@@ -8896,11 +8896,12 @@
     },
     "url": "https://cookpad.com/recipe/1587773",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "簡単チキンナゲット♪～鶏胸肉で～",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
@@ -8924,7 +8925,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -8966,8 +8966,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/19167284",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "＊簡単＊スイートポテト♡",
+    "group": "デザート",
     "ingredients": [
       {
         "ingredientName": "さつまいも",
@@ -8982,13 +8983,12 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "卵黄",
+        "ingredientName": "卵",
         "quantity": 0.33,
         "unit": "個",
         "category": "乳製品・卵"
       }
     ],
-    "group": "デザート",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -9108,8 +9108,9 @@
     },
     "url": "https://bazurecipe.com/2020/05/07/%e7%84%a1%e6%b0%b4%e6%b2%b9%e9%8d%8b/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "無水油鍋",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "白菜",
@@ -9124,7 +9125,7 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 2.0,
         "unit": "片",
         "category": "野菜・果物"
@@ -9136,7 +9137,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -9252,11 +9252,12 @@
     },
     "url": "https://cookpad.com/recipe/1553920",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "むね肉やわらか！揚げないチキン南蛮",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 0.57,
         "unit": "枚",
         "category": "お肉"
@@ -9280,19 +9281,19 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "白胡麻",
+        "ingredientName": "白ゴマ",
         "quantity": 0.29,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "茹で卵",
+        "ingredientName": "卵",
         "quantity": 0.29,
         "unit": "個",
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "玉葱",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.07,
         "unit": "個",
         "category": "野菜・果物"
@@ -9310,7 +9311,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "鶏肉料理",
@@ -9429,8 +9429,9 @@
     },
     "url": "https://bazurecipe.com/2020/10/22/%e8%87%b3%e9%ab%98%e3%81%ae%e9%ba%bb%e5%a9%86%e8%b1%86%e8%85%90/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高の麻婆豆腐",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚ひき肉",
@@ -9439,13 +9440,13 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 1.0,
         "unit": "かけ",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "絹豆腐",
+        "ingredientName": "コチュジャン",
         "quantity": 150.0,
         "unit": "g",
         "category": "加工食品"
@@ -9487,7 +9488,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -9535,23 +9535,24 @@
     },
     "url": "https://cookpad.com/jp/recipes/17622159",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "鶏むねの甘酢煮",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "にんにくすりおろし",
+        "ingredientName": "おろしにんにく",
         "quantity": 2.5,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "生姜すりおろし",
+        "ingredientName": "おろし生姜",
         "quantity": 2.5,
         "unit": "g",
         "category": "野菜・果物"
@@ -9563,13 +9564,13 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "小ねぎ",
+        "ingredientName": "小ネギ",
         "quantity": 1.0,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ごま",
+        "ingredientName": "ゴマ",
         "quantity": 1.0,
         "unit": "g",
         "category": "調味料・乾物・缶詰"
@@ -9581,13 +9582,12 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "新玉ねぎ",
+        "ingredientName": "玉ねぎ",
         "quantity": 30.0,
         "unit": "g",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お弁当"
@@ -9633,8 +9633,9 @@
     },
     "url": "https://bazurecipe.com/2020/07/04/%e5%86%b7%e3%82%84%e3%81%97%e8%b1%86%e4%b9%b3%e5%9d%a6%e3%80%85%e3%81%9d%e3%81%86%e3%82%81%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "冷やし豆乳坦々そうめん",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "豆乳",
@@ -9643,7 +9644,7 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "味噌",
+        "ingredientName": "みそ",
         "quantity": 1.0,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
@@ -9655,7 +9656,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "すりごま",
+        "ingredientName": "すりゴマ",
         "quantity": 1.0,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
@@ -9679,7 +9680,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "そうめん",
@@ -9724,11 +9724,12 @@
     },
     "url": "https://cookpad.com/jp/recipes/17763235",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "簡単チキンナゲット♪～鶏胸肉で～",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
@@ -9752,7 +9753,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -9794,23 +9794,24 @@
     },
     "url": "https://cookpad.com/jp/recipes/17622159",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "鶏むねの甘酢煮",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "にんにくすりおろし",
+        "ingredientName": "おろしにんにく",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "生姜すりおろし",
+        "ingredientName": "おろし生姜",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
@@ -9834,13 +9835,13 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "小ねぎ",
+        "ingredientName": "小ネギ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ごま",
+        "ingredientName": "ゴマ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
@@ -9852,13 +9853,12 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "新玉ねぎ",
+        "ingredientName": "玉ねぎ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "煮物"
@@ -9904,11 +9904,12 @@
     },
     "url": "https://cookpad.com/recipe/874917",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "揚げないチキン南蛮",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
@@ -9932,13 +9933,13 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "ゆで卵",
+        "ingredientName": "卵",
         "quantity": 0.5,
         "unit": "個",
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "たまねぎ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.125,
         "unit": "個",
         "category": "野菜・果物"
@@ -9956,7 +9957,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お弁当",
@@ -10006,23 +10006,24 @@
     },
     "url": "https://cookpad.com/recipe/340598",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "シチューの素はもういらない!!これでＯＫ",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "ジャガイモ",
+        "ingredientName": "じゃがいも",
         "quantity": 0.5,
         "unit": "個",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "たまねぎ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.25,
         "unit": "個",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 0.125,
         "unit": "個",
         "category": "野菜・果物"
@@ -10064,7 +10065,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "クリームシチュー"
@@ -10190,17 +10190,18 @@
     },
     "url": "https://bazurecipe.com/2020/06/29/5428/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高の豚汁",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚バラ",
+        "ingredientName": "豚バラ肉",
         "quantity": 70.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "ゴボウ",
+        "ingredientName": "ごぼう",
         "quantity": 37.5,
         "unit": "g",
         "category": "野菜・果物"
@@ -10218,7 +10219,7 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 25.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -10248,13 +10249,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "味噌",
+        "ingredientName": "みそ",
         "quantity": 1.0,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "スープ"
@@ -10299,8 +10299,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/20127799",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "やみつき無限ピーマンつくれぽ10000",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "ピーマン",
@@ -10321,19 +10322,18 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "白ごま",
+        "ingredientName": "白ゴマ",
         "quantity": 1.0,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "鰹節",
+        "ingredientName": "かつおぶし",
         "quantity": 1.0,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "常備菜",
@@ -10376,8 +10376,9 @@
     },
     "url": "https://cookpad.com/recipe/1286866",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "鶏肉とさつま芋炒め",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏肉",
@@ -10386,13 +10387,13 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "さつま芋",
+        "ingredientName": "さつまいも",
         "quantity": 0.25,
         "unit": "本",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "だしの素（顆粒）",
+        "ingredientName": "だしの素",
         "quantity": 0.25,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
@@ -10416,7 +10417,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "鶏肉料理",
@@ -10466,8 +10466,9 @@
     },
     "url": "https://cookpad.com/recipe/3706416",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "５分で簡単！胸肉やわらか鶏チャーシュー✿",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏胸肉",
@@ -10482,13 +10483,12 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "葱の青い部分",
+        "ingredientName": "ネギ",
         "quantity": 10.0,
         "unit": "g",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -10531,17 +10531,18 @@
     },
     "url": "https://bazurecipe.com/2021/02/09/8526/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高のチキントマト煮",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏モモ肉",
+        "ingredientName": "鶏もも肉",
         "quantity": 140.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 1.2,
         "unit": "かけ",
         "category": "野菜・果物"
@@ -10553,13 +10554,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 48.0,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "トマト缶",
+        "ingredientName": "ホールトマト",
         "quantity": 160.0,
         "unit": "g",
         "category": "加工食品"
@@ -10583,7 +10584,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -10626,11 +10626,12 @@
     },
     "url": "https://cookpad.com/jp/recipes/18177859",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ぶり大根",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "ぶり",
+        "ingredientName": "ブリ",
         "quantity": 1.0,
         "unit": "個",
         "category": "海産物"
@@ -10642,19 +10643,18 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "顆粒だし",
+        "ingredientName": "だしの素",
         "quantity": 0.5,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "おろしショウガ",
+        "ingredientName": "おろし生姜",
         "quantity": 0.25,
         "unit": "大さじ",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -10771,17 +10771,18 @@
     },
     "url": "https://cookpad.com/jp/recipes/17854594",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "玉ねぎも一緒に✿豚の生姜焼✿",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚肉(切り落とし)",
+        "ingredientName": "豚コマ切れ肉",
         "quantity": 132.5,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "生姜汁",
+        "ingredientName": "生姜",
         "quantity": 0.5,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
@@ -10799,13 +10800,12 @@
         "category": "米・パン・その他"
       },
       {
-        "ingredientName": "生姜すりおろし",
+        "ingredientName": "おろし生姜",
         "quantity": 0.5,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -10846,8 +10846,9 @@
     },
     "url": "https://bazurecipe.com/2020/05/09/%e6%82%aa%e9%ad%94%e3%81%ae%e5%a3%ba%e3%83%8b%e3%83%a9/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "悪魔の壺ニラ",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "ニラ",
@@ -10856,13 +10857,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "味噌",
+        "ingredientName": "みそ",
         "quantity": 2.0,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "うま味調味料",
+        "ingredientName": "味の素",
         "quantity": 0.33,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
@@ -10880,7 +10881,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -10918,8 +10918,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/18749908",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "お鍋一つで♪　簡単マカロニグラタン",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "玉ねぎ",
@@ -10946,7 +10947,7 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "マギーブイヨン",
+        "ingredientName": "ブリ",
         "quantity": 0.375,
         "unit": "個",
         "category": "調味料・乾物・缶詰"
@@ -10970,7 +10971,6 @@
         "category": "乳製品・卵"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "グラタン",
@@ -11017,17 +11017,17 @@
     },
     "url": "https://cookpad.com/jp/recipes/17408484",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "簡単☆おいしい☆ぶりの照り焼き♪",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "ぶりの切り身",
+        "ingredientName": "ブリ",
         "quantity": 1.0,
         "unit": "個",
         "category": "海産物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "魚料理",
@@ -11071,17 +11071,17 @@
     },
     "url": "https://cookpad.com/recipe/338709",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "ほっとけばできる鶏ハム",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 1.0,
         "unit": "枚",
         "category": "お肉"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "作り置き",
@@ -11188,8 +11188,9 @@
     },
     "url": "https://bazurecipe.com/2020/05/19/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%9a%e3%83%9a%e3%83%ad%e3%83%b3%e3%83%81%e3%83%bc%e3%83%8e/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高のペペロンチーノ",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "パスタ",
@@ -11198,13 +11199,13 @@
         "category": "米・パン・その他"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 2.0,
         "unit": "片",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "赤唐辛子",
+        "ingredientName": "唐辛子",
         "quantity": 1.0,
         "unit": "本",
         "category": "野菜・果物"
@@ -11216,7 +11217,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "フライパン",
@@ -11337,41 +11337,41 @@
     },
     "url": "https://bazurecipe.com/2020/05/04/2270/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高のカレー",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚小間切れ肉",
+        "ingredientName": "豚コマ切れ肉",
         "quantity": 75.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "玉ねぎ（中サイズ）",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.25,
         "unit": "個",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 0.25,
         "unit": "片",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "カレールー",
+        "ingredientName": "カレーのルー",
         "quantity": 23.125,
         "unit": "g",
         "category": "加工食品"
       },
       {
-        "ingredientName": "乾燥パセリ",
+        "ingredientName": "パセリ",
         "quantity": 1.0,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -11415,8 +11415,9 @@
     },
     "url": "https://bazurecipe.com/2023/02/11/%e6%9a%97%e6%ae%ba%e8%80%85%e3%81%ae%e3%83%91%e3%82%b9%e3%82%bf/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "暗殺者のパスタ",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "にんにく",
@@ -11437,7 +11438,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "トマト缶",
+        "ingredientName": "ホールトマト",
         "quantity": 100.0,
         "unit": "g",
         "category": "調味料・乾物・缶詰"
@@ -11455,7 +11456,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "パスタ"
@@ -11500,23 +11500,24 @@
     },
     "url": "https://cookpad.com/jp/recipes/17490540",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "シチューの素はもういらない!!これでＯＫ",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "ジャガイモ",
+        "ingredientName": "じゃがいも",
         "quantity": 0.5,
         "unit": "個",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "たまねぎ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.25,
         "unit": "個",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "にんじん",
+        "ingredientName": "人参",
         "quantity": 0.125,
         "unit": "個",
         "category": "野菜・果物"
@@ -11558,7 +11559,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "シチュー"
@@ -11603,11 +11603,12 @@
     },
     "url": "https://bazurecipe.com/2023/04/13/%e8%87%b3%e9%ab%98%e3%81%ae%e9%b6%8f%e3%83%8f%e3%83%a0/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高の鶏ハム",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 116.7,
         "unit": "g",
         "category": "お肉"
@@ -11619,7 +11620,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉"
@@ -11659,8 +11659,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/17359242",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "一番人気！本番のチキン南蛮！お弁当にも",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "鶏もも肉",
@@ -11681,7 +11682,7 @@
         "category": "米・パン・その他"
       },
       {
-        "ingredientName": "小口切りの唐辛子",
+        "ingredientName": "唐辛子",
         "quantity": 1.0,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
@@ -11693,7 +11694,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "ゆで卵",
+        "ingredientName": "卵",
         "quantity": 0.625,
         "unit": "個",
         "category": "乳製品・卵"
@@ -11717,7 +11718,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "チキン南蛮",
@@ -11768,11 +11768,12 @@
     },
     "url": "https://bazurecipe.com/2020/07/14/%e8%87%b3%e9%ab%98%e3%81%ae%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%9e%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高のジャーマンポテト",
+    "group": "副菜",
     "ingredients": [
       {
-        "ingredientName": "ジャガイモ",
+        "ingredientName": "じゃがいも",
         "quantity": 125.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -11784,7 +11785,7 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 30.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -11802,7 +11803,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -11851,11 +11851,12 @@
     },
     "url": "https://bazurecipe.com/2020/05/17/%e8%87%b3%e9%ab%98%e3%81%ae%e7%82%92%e9%a3%af/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "至高の炒飯",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "サトウのご飯",
+        "ingredientName": "白米",
         "quantity": 1.0,
         "unit": "個",
         "category": "米・パン・その他"
@@ -11891,13 +11892,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "紅ショウガ",
+        "ingredientName": "紅生姜",
         "quantity": 1.0,
         "unit": "適量",
         "category": "加工食品"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "炒飯"
@@ -11943,8 +11943,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/18887844",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
     "name": "簡単美味しい♡ピーマンの肉詰め",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "ピーマン",
@@ -11953,7 +11954,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "あいびき肉",
+        "ingredientName": "合い挽き肉",
         "quantity": 60.0,
         "unit": "g",
         "category": "お肉"
@@ -11965,7 +11966,7 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "生姜（すりおろし）",
+        "ingredientName": "おろし生姜",
         "quantity": 0.2,
         "unit": "片",
         "category": "野菜・果物"
@@ -11989,7 +11990,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "肉詰め",
