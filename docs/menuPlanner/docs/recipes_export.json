@@ -12038,8 +12038,9 @@
     },
     "url": "https://bazurecipe.com/2021/05/11/%e8%87%b3%e9%ab%98%e3%81%ae%e9%a4%83%e5%ad%90/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の餃子",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "白菜",
@@ -12078,13 +12079,13 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "ショウガ",
+        "ingredientName": "生姜",
         "quantity": 2.5,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "黒コショウ",
+        "ingredientName": "黒胡椒",
         "quantity": 0.0,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
@@ -12096,7 +12097,7 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "餃子の皮（大判）",
+        "ingredientName": "餃子の皮",
         "quantity": 5.0,
         "unit": "枚",
         "category": "加工食品"
@@ -12108,7 +12109,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -12301,8 +12301,9 @@
     },
     "url": "https://bazurecipe.com/2020/10/18/%e8%87%b3%e9%ab%98%e3%81%ae%e3%82%ab%e3%83%ab%e3%83%9c%e3%83%8a%e3%83%bc%e3%83%a9/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のカルボナーラ",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "卵",
@@ -12317,7 +12318,7 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 1.0,
         "unit": "片",
         "category": "野菜・果物"
@@ -12341,7 +12342,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "パスタ",
@@ -12385,8 +12385,9 @@
     },
     "url": "https://bazurecipe.com/2021/01/18/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b7%e3%83%a5%e3%83%bc/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のチャーシュー",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚バラブロック肉",
@@ -12401,7 +12402,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "おろしニンニク",
+        "ingredientName": "おろしにんにく",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
@@ -12413,13 +12414,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "万能ネギ",
+        "ingredientName": "小ネギ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -12463,17 +12463,18 @@
     },
     "url": "https://bazurecipe.com/2021/02/06/%e8%87%b3%e9%ab%98%e3%81%ae%e6%b2%b9%e6%b7%8b%e9%b6%8f/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の油淋鶏",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏モモ肉",
+        "ingredientName": "鶏もも肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "おろしショウガ",
+        "ingredientName": "おろし生姜",
         "quantity": 2.5,
         "unit": "g",
         "category": "野菜・果物"
@@ -12491,7 +12492,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ショウガ",
+        "ingredientName": "生姜",
         "quantity": 5.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -12515,7 +12516,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "中華",
@@ -12559,8 +12559,9 @@
     },
     "url": "https://bazurecipe.com/2020/04/25/%e3%81%8a%e3%81%a7%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のおでん",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "大根",
@@ -12569,13 +12570,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ゆで卵",
+        "ingredientName": "卵",
         "quantity": 1.0,
         "unit": "個",
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "ゆでタコ",
+        "ingredientName": "タコ",
         "quantity": 1.0,
         "unit": "本",
         "category": "海産物"
@@ -12611,7 +12612,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "魚介",
@@ -12737,8 +12737,9 @@
     },
     "url": "https://bazurecipe.com/2020/05/21/%e8%87%b3%e9%ab%98%e3%81%ae%e7%89%9b%e4%b8%bc/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の牛丼",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "牛肉",
@@ -12747,7 +12748,7 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 50.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -12795,7 +12796,7 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "紅ショウガ",
+        "ingredientName": "紅生姜",
         "quantity": 1.0,
         "unit": "適量",
         "category": "加工食品"
@@ -12819,7 +12820,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "至高のレシピ"
@@ -12860,17 +12860,18 @@
     },
     "url": "https://bazurecipe.com/2020/05/19/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%81%e3%83%b3%e3%82%b8%e3%83%a3%e3%82%aa%e3%83%ad%e3%83%bc%e3%82%b9/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のチンジャオロース",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "豚こま肉",
+        "ingredientName": "豚コマ切れ肉",
         "quantity": 250.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "タケノコ",
+        "ingredientName": "たけのこ",
         "quantity": 120.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -12924,7 +12925,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -12968,8 +12968,9 @@
     },
     "url": "https://bazurecipe.com/2020/11/08/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%9d%e3%83%88%e3%83%95/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のポトフ",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "キャベツ",
@@ -12978,7 +12979,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ジャガイモ",
+        "ingredientName": "じゃがいも",
         "quantity": 75.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -13002,13 +13003,12 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 1.0,
         "unit": "片",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お鍋",
@@ -13052,17 +13052,18 @@
     },
     "url": "https://bazurecipe.com/2020/09/01/%e8%87%b3%e9%ab%98%e3%81%ae%e3%82%aa%e3%83%a0%e3%83%a9%e3%82%a4%e3%82%b9/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のオムライス",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "鶏モモ肉",
+        "ingredientName": "鶏もも肉",
         "quantity": 80.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.25,
         "unit": "個",
         "category": "野菜・果物"
@@ -13110,7 +13111,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -13151,8 +13151,9 @@
     },
     "url": "https://bazurecipe.com/2021/04/19/%e8%87%b3%e9%ab%98%e3%81%ae%e7%84%bc%e3%81%8d%e3%81%86%e3%81%a9%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の焼きうどん",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "冷凍うどん",
@@ -13161,7 +13162,7 @@
         "category": "米・パン・その他"
       },
       {
-        "ingredientName": "豚こま切れ肉",
+        "ingredientName": "豚コマ切れ肉",
         "quantity": 80.0,
         "unit": "g",
         "category": "お肉"
@@ -13173,7 +13174,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ニンジン",
+        "ingredientName": "人参",
         "quantity": 30.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -13197,7 +13198,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "鰹節",
+        "ingredientName": "かつおぶし",
         "quantity": 0.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
@@ -13209,7 +13210,6 @@
         "category": "加工食品"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "ごはん・麺・もち",
@@ -13351,8 +13351,9 @@
     },
     "url": "https://bazurecipe.com/2020/05/16/%e8%87%b3%e9%ab%98%e3%81%ae%e7%94%9f%e5%a7%9c%e7%84%bc%e3%81%8d/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の生姜焼き",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚ロース肉",
@@ -13361,7 +13362,7 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "ショウガ",
+        "ingredientName": "生姜",
         "quantity": 7.5,
         "unit": "g",
         "category": "野菜・果物"
@@ -13385,7 +13386,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -13510,11 +13510,12 @@
     },
     "url": "https://bazurecipe.com/2020/04/21/%e8%8f%85%e6%be%a4%e7%89%b9%e8%a3%bd%e7%84%bc%e3%81%8d%e3%81%9d%e3%81%b0/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の焼きそば",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "焼きそば麺",
+        "ingredientName": "焼きそばの麺",
         "quantity": 150.0,
         "unit": "g",
         "category": "米・パン・その他"
@@ -13556,13 +13557,13 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "鰹節",
+        "ingredientName": "かつおぶし",
         "quantity": 1.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "紅ショウガ",
+        "ingredientName": "紅生姜",
         "quantity": 1.0,
         "unit": "適量",
         "category": "加工食品"
@@ -13574,7 +13575,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "フライパン",
@@ -13625,11 +13625,12 @@
     },
     "url": "https://bazurecipe.com/2022/04/12/%e8%87%b3%e9%ab%98%e3%81%ae%e3%82%ad%e3%83%a0%e3%83%81%e7%82%92%e9%a3%af/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のキムチ炒飯",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "豚バラ薄切り肉",
+        "ingredientName": "豚バラ肉",
         "quantity": 70.0,
         "unit": "g",
         "category": "お肉"
@@ -13647,19 +13648,18 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 50.0,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "おろしニンニク",
+        "ingredientName": "おろしにんにく",
         "quantity": 0.5,
         "unit": "かけ",
         "category": "野菜・果物"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -13698,8 +13698,9 @@
     },
     "url": "https://bazurecipe.com/2021/08/26/%e8%87%b3%e9%ab%98%e3%81%ae%e3%81%ba%e3%81%ba%e3%81%9f%e3%81%be/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のぺぺたま",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "パスタ",
@@ -13708,7 +13709,7 @@
         "category": "米・パン・その他"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 2.0,
         "unit": "かけ",
         "category": "野菜・果物"
@@ -13738,7 +13739,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "パスタ"
@@ -13778,8 +13778,9 @@
     },
     "url": "https://bazurecipe.com/2020/12/03/%e8%87%b3%e9%ab%98%e3%81%ae%e8%82%89%e8%b1%86%e8%85%90/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の肉豆腐",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "木綿豆腐",
@@ -13788,13 +13789,13 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "豚バラ薄切り肉",
+        "ingredientName": "豚バラ肉",
         "quantity": 73.3,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 16.7,
         "unit": "g",
         "category": "野菜・果物"
@@ -13812,7 +13813,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "万能ネギ",
+        "ingredientName": "小ネギ",
         "quantity": 0.0,
         "unit": "適量",
         "category": "野菜・果物"
@@ -13824,7 +13825,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -13870,11 +13870,12 @@
     },
     "url": "https://bazurecipe.com/2021/08/04/%e7%84%a1%e9%99%90%e9%b6%8f%e3%82%80%e3%81%ad%e8%82%89/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "無限鶏むね肉",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 350.0,
         "unit": "g",
         "category": "お肉"
@@ -13898,7 +13899,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -13941,8 +13941,9 @@
     },
     "url": "https://bazurecipe.com/2020/11/12/%e8%87%b3%e9%ab%98%e3%81%ae%e5%9b%9e%e9%8d%8b%e8%82%89/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の回鍋肉",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚肩ロース肉",
@@ -13975,7 +13976,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 0.5,
         "unit": "片",
         "category": "野菜・果物"
@@ -13999,7 +14000,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉"
@@ -14043,11 +14043,12 @@
     },
     "url": "https://bazurecipe.com/2020/09/03/%e8%87%b3%e9%ab%98%e3%81%ae%e7%85%a7%e3%82%8a%e7%84%bc%e3%81%8d/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の照り焼き",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "鶏モモ肉",
+        "ingredientName": "鶏もも肉",
         "quantity": 300.0,
         "unit": "g",
         "category": "お肉"
@@ -14065,7 +14066,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "鶏肉料理"
@@ -14184,11 +14184,12 @@
     },
     "url": "https://bazurecipe.com/2020/07/19/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%81%e3%82%ad%e3%83%b3%e5%8d%97%e8%9b%ae/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高のチキン南蛮",
+    "group": "主菜",
     "ingredients": [
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.0625,
         "unit": "個",
         "category": "野菜・果物"
@@ -14200,7 +14201,7 @@
         "category": "加工食品"
       },
       {
-        "ingredientName": "ゆで卵",
+        "ingredientName": "卵",
         "quantity": 0.5,
         "unit": "個",
         "category": "乳製品・卵"
@@ -14212,7 +14213,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "鶏モモ肉",
+        "ingredientName": "鶏もも肉",
         "quantity": 155.0,
         "unit": "g",
         "category": "お肉"
@@ -14230,13 +14231,12 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "乾燥パセリ",
+        "ingredientName": "パセリ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "揚げ物",
@@ -14415,8 +14415,9 @@
     },
     "url": "https://bazurecipe.com/2023/03/10/%e8%b6%85%e7%97%a9%e3%81%9b%e3%82%ad%e3%83%a3%e3%83%99%e3%83%84%e9%8d%8b/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "超痩せキャベツ鍋",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "キャベツ",
@@ -14431,13 +14432,13 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "鰹節",
+        "ingredientName": "かつおぶし",
         "quantity": 1.0,
         "unit": "g",
         "category": "海産物"
       },
       {
-        "ingredientName": "鶏むね肉",
+        "ingredientName": "鶏胸肉",
         "quantity": 182.5,
         "unit": "g",
         "category": "お肉"
@@ -14449,7 +14450,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -14488,8 +14488,9 @@
     },
     "url": "https://bazurecipe.com/2021/05/30/%e8%87%b3%e9%ab%98%e3%81%ae%e8%82%89%e9%87%8e%e8%8f%9c%e7%82%92%e3%82%81/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の肉野菜炒め",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚バラ肉",
@@ -14498,7 +14499,7 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "ニンジン",
+        "ingredientName": "人参",
         "quantity": 80.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -14516,13 +14517,13 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ニンニク",
+        "ingredientName": "にんにく",
         "quantity": 5.0,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ショウガ",
+        "ingredientName": "生姜",
         "quantity": 5.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -14534,13 +14535,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "モヤシ",
+        "ingredientName": "もやし",
         "quantity": 100.0,
         "unit": "g",
         "category": "野菜・果物"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "レシピ動画",
@@ -14880,11 +14880,12 @@
     },
     "url": "https://bazurecipe.com/2021/08/29/%e7%84%a1%e9%99%90%e8%9b%87%e8%85%b9%e3%82%ad%e3%83%a5%e3%82%a6%e3%83%aa/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "無限蛇腹キュウリ",
+    "group": "副菜",
     "ingredients": [
       {
-        "ingredientName": "キュウリ",
+        "ingredientName": "きゅうり",
         "quantity": 100.0,
         "unit": "g",
         "category": "野菜・果物"
@@ -14902,7 +14903,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "いりゴマ",
+        "ingredientName": "ゴマ",
         "quantity": 0.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
@@ -14914,7 +14915,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "おつまみ",
@@ -14954,8 +14954,9 @@
     },
     "url": "https://bazurecipe.com/2020/05/12/%e3%83%ac%e3%83%b3%e3%82%b8%e7%84%a1%e6%b0%b4%e3%82%ad%e3%83%bc%e3%83%9e%e3%82%ab%e3%83%ac%e3%83%bc/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "レンジ無水キーマカレー",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚ひき肉",
@@ -14964,19 +14965,19 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.25,
         "unit": "個",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "おろしニンニク",
+        "ingredientName": "おろしにんにく",
         "quantity": 0.5,
         "unit": "かけ",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "トマト缶（カット状）",
+        "ingredientName": "ホールトマト",
         "quantity": 0.25,
         "unit": "缶",
         "category": "加工食品"
@@ -14988,13 +14989,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "卵黄",
+        "ingredientName": "卵",
         "quantity": 1.0,
         "unit": "個",
         "category": "乳製品・卵"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
     "subCategory": [
       "お肉",
@@ -15049,8 +15049,9 @@
     },
     "url": "https://bazurecipe.com/2020/07/16/%e7%84%a1%e9%99%90%e3%82%a2%e3%83%9c%e3%82%ab%e3%83%89/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "無限アボカド",
+    "group": "副菜",
     "ingredients": [
       {
         "ingredientName": "アボカド",
@@ -15083,13 +15084,12 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "小ねぎ",
+        "ingredientName": "小ネギ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
       }
     ],
-    "group": "副菜",
     "isPublic": true,
     "subCategory": [
       "つまみ",
@@ -15130,8 +15130,9 @@
     },
     "url": "https://bazurecipe.com/2021/06/06/%e7%84%a1%e9%99%90%e6%b2%b9%e3%81%9d%e3%81%86%e3%82%81%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "無限油そうめん",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "そうめん",
@@ -15146,31 +15147,30 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "おろしニンニク",
+        "ingredientName": "おろしにんにく",
         "quantity": 0.5,
         "unit": "かけ",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "卵黄",
+        "ingredientName": "卵",
         "quantity": 1.0,
         "unit": "個",
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "万能ねぎ",
+        "ingredientName": "小ネギ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "いりゴマ",
+        "ingredientName": "ゴマ",
         "quantity": 1.0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -15209,17 +15209,18 @@
     },
     "url": "https://bazurecipe.com/2020/04/22/%e7%84%bc%e3%81%8d%e8%a6%aa%e5%ad%90%e4%b8%bc/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "至高の半熟親子丼",
+    "group": "主食",
     "ingredients": [
       {
-        "ingredientName": "鶏モモ肉",
+        "ingredientName": "鶏もも肉",
         "quantity": 150.0,
         "unit": "g",
         "category": "お肉"
       },
       {
-        "ingredientName": "タマネギ",
+        "ingredientName": "玉ねぎ",
         "quantity": 0.125,
         "unit": "個",
         "category": "野菜・果物"
@@ -15243,7 +15244,6 @@
         "category": "米・パン・その他"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "鶏肉料理",
@@ -15454,8 +15454,9 @@
     },
     "url": "https://bazurecipe.com/2022/06/17/%e7%84%a1%e9%99%90%e5%86%b7%e3%82%84%e3%81%97%e3%81%9d%e3%81%86%e3%82%81%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
     "name": "無限冷やしそうめん",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "そうめん",
@@ -15470,7 +15471,7 @@
         "category": "お肉"
       },
       {
-        "ingredientName": "鰹節",
+        "ingredientName": "かつおぶし",
         "quantity": 2.0,
         "unit": "g",
         "category": "調味料・乾物・缶詰"
@@ -15488,7 +15489,7 @@
         "category": "乳製品・卵"
       },
       {
-        "ingredientName": "鶏がらスープの素",
+        "ingredientName": "鶏ガラスープの素",
         "quantity": 2.5,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
@@ -15500,7 +15501,6 @@
         "category": "野菜・果物"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "お肉",
