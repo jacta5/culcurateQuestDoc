@@ -9359,8 +9359,9 @@
     },
     "url": "https://cookpad.com/jp/recipes/18083740",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:39:31.578000+00:00",
+    "updatedAt": "2025-12-27T14:43:21.811000+00:00",
     "name": "門外不出のトマトパスタ1万レポ感謝！",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "パスタ",
@@ -9369,7 +9370,7 @@
         "category": "米・パン・その他"
       },
       {
-        "ingredientName": "ホールトマト",
+        "ingredientName": "ホールトマト缶",
         "quantity": 200.0,
         "unit": "g",
         "category": "調味料・乾物・缶詰"
@@ -9393,7 +9394,6 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [
       "パスタ",
@@ -10859,7 +10859,7 @@
     },
     "url": "https://bazurecipe.com/2021/02/09/8526/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-27T14:43:21.811000+00:00",
     "name": "至高のチキントマト煮",
     "group": "主菜",
     "ingredients": [
@@ -10888,7 +10888,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ホールトマト",
+        "ingredientName": "ホールトマト缶",
         "quantity": 160.0,
         "unit": "g",
         "category": "加工食品"
@@ -11743,7 +11743,7 @@
     },
     "url": "https://bazurecipe.com/2023/02/11/%e6%9a%97%e6%ae%ba%e8%80%85%e3%81%ae%e3%83%91%e3%82%b9%e3%82%bf/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-27T14:43:21.811000+00:00",
     "name": "暗殺者のパスタ",
     "group": "主食",
     "ingredients": [
@@ -11766,7 +11766,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ホールトマト",
+        "ingredientName": "ホールトマト缶",
         "quantity": 100.0,
         "unit": "g",
         "category": "調味料・乾物・缶詰"
@@ -15282,7 +15282,7 @@
     },
     "url": "https://bazurecipe.com/2020/05/12/%e3%83%ac%e3%83%b3%e3%82%b8%e7%84%a1%e6%b0%b4%e3%82%ad%e3%83%bc%e3%83%9e%e3%82%ab%e3%83%ac%e3%83%bc/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
+    "updatedAt": "2025-12-27T14:43:21.811000+00:00",
     "name": "レンジ無水キーマカレー",
     "group": "主菜",
     "ingredients": [
@@ -15305,7 +15305,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ホールトマト",
+        "ingredientName": "ホールトマト缶",
         "quantity": 0.25,
         "unit": "缶",
         "category": "加工食品"
@@ -16412,7 +16412,7 @@
     },
     "url": "https://bazurecipe.com/2020/09/18/7529/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-27T14:32:56.881000+00:00",
+    "updatedAt": "2025-12-27T14:43:21.811000+00:00",
     "name": "至高のボロネーゼ",
     "group": "主食",
     "ingredients": [
@@ -16447,7 +16447,7 @@
         "category": "調味料・乾物・缶詰"
       },
       {
-        "ingredientName": "ホールトマト",
+        "ingredientName": "ホールトマト缶",
         "quantity": 0.25,
         "unit": "缶",
         "category": "調味料・乾物・缶詰"
@@ -16867,7 +16867,7 @@
     },
     "url": "https://bazurecipe.com/2021/06/17/%e8%87%b3%e9%ab%98%e3%81%ae%e3%83%9f%e3%83%8d%e3%82%b9%e3%83%88%e3%83%ad%e3%83%bc%e3%83%8d/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-27T14:32:56.881000+00:00",
+    "updatedAt": "2025-12-27T14:43:21.811000+00:00",
     "name": "至高のミネストローネ",
     "group": "副菜",
     "ingredients": [
@@ -16908,7 +16908,7 @@
         "category": "野菜・果物"
       },
       {
-        "ingredientName": "ホールトマト",
+        "ingredientName": "ホールトマト缶",
         "quantity": 100.0,
         "unit": "g",
         "category": "調味料・乾物・缶詰"
