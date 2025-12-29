@@ -1276,57 +1276,79 @@
     ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://cookpad.com/recipe/3474546?view=classic#share_line",
-    "group": "主菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "3",
+    "nutrition": {
+      "fat": 35,
+      "protein": 21,
+      "calories": 500,
+      "carbs": 22,
+      "fiber": 6,
+      "salt": 2.7
+    },
+    "url": "https://cookpad.com/recipe/3474546?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "野菜炒め",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "主菜",
     "ingredients": [
       {
+        "ingredientName": "豚肉",
         "quantity": 100.0,
         "unit": "g",
-        "ingredientName": "豚肉",
         "category": "お肉"
       },
       {
+        "ingredientName": "キャベツ",
         "quantity": 0.125,
         "unit": "玉",
-        "ingredientName": "キャベツ",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "人参",
         "quantity": 0.25,
         "unit": "本",
-        "ingredientName": "人参",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "玉ねぎ",
         "quantity": 0.25,
         "unit": "個",
-        "ingredientName": "玉ねぎ",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "もやし",
         "quantity": 100.0,
         "unit": "g",
-        "ingredientName": "もやし",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "3"
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "steps": [
+      "人参は薄め、玉ねぎとキャベツはザク切りにきります❀.(*´◡`*)❀.ピーマン等切ってもok☆冷蔵庫整理しましょ♩",
+      "ビニール袋やジップロックに入れた豚バラに小麦粉をまぶし少し揉みます！少し面倒ですがこの工程だけでかなりお肉が美味しく☆",
+      "豚バラをフライパンである程度色が変わるまで加熱し、別皿に取っておきます☆油類一切使わないのでお肉からでた油で最後まで♪",
+      "同じフライパンに火の通りにくい人参やピーマンをまずいれ炒め、次たまねぎ、次はキャベツやもやしと言う順番で炒めていきます☆",
+      "さあ味付けです！ご家庭必須アイテム登場☆合わせ調味料は最初は失敗するのパターンがあるので単体づつ入れましょう♪",
+      "最後に先程別皿に移しておいた豚バラを加えます。上の調味料も全てこの時点で加えてくださいね♬",
+      "味を見ながら水分が適度に飛ぶまで炒めたら出来上がりです！何度も通っちゃうご飯が進む定食屋さんの風野菜炒めの出来上がり☆"
+    ],
+    "genres": [
+      "和食"
+    ]
   },
   {
     "features": [],
@@ -2098,179 +2120,274 @@
     "id": "44"
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://mizuki-recipe.blog.jp/archives/21362733.html",
-    "group": "主菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "45",
+    "nutrition": {
+      "fat": 20,
+      "protein": 22,
+      "calories": 330,
+      "carbs": 10,
+      "fiber": 2,
+      "salt": 1.8
+    },
+    "url": "https://mizuki-recipe.blog.jp/archives/21362733.html",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "鶏肉と白菜のうま煮",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "主菜",
     "ingredients": [
       {
+        "ingredientName": "鶏もも肉",
         "quantity": 125.0,
         "unit": "g",
-        "ingredientName": "鶏もも肉",
         "category": "お肉"
       },
       {
+        "ingredientName": "白菜",
         "quantity": 0.0625,
         "unit": "玉",
-        "ingredientName": "白菜",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "45"
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "steps": [
+      "鶏肉は3cm大に切る。白菜はザク切りにする。にんにくは薄切りにする。",
+      "鍋にごま油を入れて中火で熱し、鶏肉を入れて両面焼き色が付くまで焼く。",
+      "●、白菜、にんにくを入れ、たまに混ぜながら8分煮る。器に盛り、粗挽き黒こしょうを振る。"
+    ],
+    "genres": [
+      "和食"
+    ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "韓国料理"
-    ],
-    "url": "https://cookpad.com/recipe/1882282?view=classic#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "46",
+    "nutrition": {
+      "fat": 12,
+      "protein": 3,
+      "calories": 130,
+      "carbs": 4,
+      "fiber": 2,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/recipe/1882282?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "もやしのナムル",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "もやし",
         "quantity": 50.0,
         "unit": "g",
-        "ingredientName": "もやし",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "46"
+    "cookingTime": {
+      "total": 11,
+      "cook": 1,
+      "prep": 10
+    },
+    "steps": [
+      "もやしは沸騰したお湯へ入れて1分間さっと茹でる♪",
+      "★の調味料を加えて♪",
+      "混ぜ合わせたら、冷蔵庫で1時間くらい味を馴染ませて♪"
+    ],
+    "genres": [
+      "韓国料理"
+    ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://cookpad.com/recipe/3361111?view=classic#share_url",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "47",
+    "nutrition": {
+      "fat": 3,
+      "protein": 2,
+      "calories": 90,
+      "carbs": 14,
+      "fiber": 2,
+      "salt": 2.0
+    },
+    "url": "https://cookpad.com/recipe/3361111?view=classic#share_url",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ナスの揚げ浸し",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "ナス",
         "quantity": 0.75,
         "unit": "本",
-        "ingredientName": "ナス",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "47"
-  },
-  {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "steps": [
+      "茄子のヘタを切り落として縦に半分切ったら斜めに細かく切り込みを入れる。食べやすい大きさに切り水に浸しアク抜きする。",
+      "フライパンに分量外の油を入れ茄子の皮を下にして焼き色がつくまで焼く。ひっくり返して両面焼く。",
+      "★（水、だし、醤油、みりん、生姜）を入れ蓋をして弱火で５～１０分煮れば完成です。皿に盛り上から万能ネギを散らして召し上がれ～♬"
+    ],
     "genres": [
       "和食"
-    ],
-    "url": "https://cookpad.com/recipe/3951787?view=classic#share_url",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    ]
+  },
+  {
+    "features": [],
     "favoriteCount": 0,
+    "id": "48",
+    "nutrition": {
+      "fat": 0.5,
+      "protein": 3,
+      "calories": 25,
+      "carbs": 4.5,
+      "fiber": 2,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/recipe/3951787?view=classic#share_url",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "オクラのおかか和え",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "かつおぶし",
         "quantity": 0.5,
         "unit": "袋",
-        "ingredientName": "かつおぶし",
         "category": "調味料・乾物・缶詰"
       },
       {
+        "ingredientName": "おくら",
         "quantity": 2.5,
         "unit": "本",
-        "ingredientName": "おくら",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "48"
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "steps": [
+      "オクラを水で洗い塩もみする。小さな鍋に水を入れ沸騰させる。",
+      "１の鍋に塩もみしたオクラを入れる。2分茹でる。茹で上がったらザルに入れる。",
+      "へたをとりオクラを刻む。",
+      "ボールに３のオクラを入れ、かつをぶしをかけ、醤油を混ぜ合わせる。"
+    ],
+    "genres": [
+      "和食"
+    ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "中華"
-    ],
-    "url": "https://cookpad.com/recipe/1431110?view=single#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "49",
+    "nutrition": {
+      "fat": 7.5,
+      "protein": 4.7,
+      "calories": 160,
+      "carbs": 18.0,
+      "fiber": 0.5,
+      "salt": 1.4
+    },
+    "url": "https://cookpad.com/recipe/1431110?view=single#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "春雨サラダ",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "ハム",
         "quantity": 2.0,
         "unit": "枚",
-        "ingredientName": "ハム",
         "category": "加工食品"
       },
       {
+        "ingredientName": "春雨",
         "quantity": 25.0,
         "unit": "g",
-        "ingredientName": "春雨",
         "category": "調味料・乾物・缶詰"
       },
       {
+        "ingredientName": "卵",
         "quantity": 0.5,
         "unit": "個",
-        "ingredientName": "卵",
         "category": "乳製品・卵"
       },
       {
+        "ingredientName": "きゅうり",
         "quantity": 0.25,
         "unit": "本",
-        "ingredientName": "きゅうり",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "49"
+    "cookingTime": {
+      "total": 52,
+      "cook": 2,
+      "prep": 20
+    },
+    "steps": [
+      "きゅうり、ハム、薄焼き卵は千切りに♪",
+      "春雨は表示通りにもどし、食べやすい長さにカットする♪",
+      "●の調味料を合わせておく♪",
+      "①②③をボウルに入れて♪",
+      "③の調味料を加えて♪",
+      "白ごまも適量加えてよく混ぜ合わせ、冷蔵庫で30分。味をなじませて♪",
+      "出来上がり＊"
+    ],
+    "genres": [
+      "中華"
+    ]
   },
   {
     "updatedAt": "2025-12-04T15:00:00+00:00",
@@ -2308,152 +2425,242 @@
     "id": "5"
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://cookpad.com/recipe/2850166?view=classic#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "50",
+    "nutrition": {
+      "fat": 0.4,
+      "protein": 3.7,
+      "calories": 62,
+      "carbs": 8.3,
+      "fiber": 2.6,
+      "salt": 1.2
+    },
+    "url": "https://cookpad.com/recipe/2850166?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ほうれん草のおひたし",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "かつおぶし",
         "quantity": 0.25,
         "unit": "袋",
-        "ingredientName": "かつおぶし",
         "category": "調味料・乾物・缶詰"
       },
       {
+        "ingredientName": "ほうれん草",
         "quantity": 0.25,
         "unit": "束",
-        "ingredientName": "ほうれん草",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "50"
+    "cookingTime": {
+      "total": 5,
+      "cook": 1,
+      "prep": 4
+    },
+    "steps": [
+      "ほうれん草を5cmの長さに切る。",
+      "沸騰したお湯にひとつまみの塩を入れて、ほうれん草をさっと（45秒程度）茹でる。",
+      "火が通ったらざるに上げて、冷水で締める。熱がとれたら、キッチンペーパーなどで絞って、しっかりと水を切る。",
+      "砂糖、酒、だし、しょうゆを入れたボウルに、ほうれん草を入れて混ぜる。※味見しながら砂糖、しょうゆ、酒を調整。",
+      "器に盛って、かつお節をかけて、完成♪"
+    ],
+    "genres": [
+      "和食"
+    ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "韓国料理"
-    ],
-    "url": "https://cookpad.com/recipe/5646339?view=classic#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "51",
+    "nutrition": {
+      "fat": 6,
+      "protein": 1,
+      "calories": 72,
+      "carbs": 3,
+      "fiber": 1,
+      "salt": 0.8
+    },
+    "url": "https://cookpad.com/recipe/5646339?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "チョレギサラダ",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "焼き海苔",
         "quantity": 0.25,
         "unit": "枚",
-        "ingredientName": "焼き海苔",
         "category": "海産物"
       },
       {
+        "ingredientName": "サニーレタス",
         "quantity": 0.125,
         "unit": "玉",
-        "ingredientName": "サニーレタス",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "きゅうり",
         "quantity": 0.125,
         "unit": "本",
-        "ingredientName": "きゅうり",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "51"
+    "cookingTime": {
+      "total": 8,
+      "cook": 3,
+      "prep": 5
+    },
+    "steps": [
+      "サニーレタスは適当な大きさにちぎります。きゅうりは細切りにします。",
+      "ボウルにサニーレタス、きゅうり、★をいれ、優しく混ぜます。",
+      "器に盛り付け、白ごま、ちぎった海苔を乗せて完成です。"
+    ],
+    "genres": [
+      "韓国料理"
+    ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://cookpad.com/recipe/1743175",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "52",
+    "nutrition": {
+      "fat": 6,
+      "protein": 3,
+      "calories": 208,
+      "carbs": 32,
+      "fiber": 4,
+      "salt": 1.7
+    },
+    "url": "https://cookpad.com/recipe/1743175",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "きんぴらごぼう",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "ごぼう",
         "quantity": 0.5,
         "unit": "本",
-        "ingredientName": "ごぼう",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "人参",
         "quantity": 0.1875,
         "unit": "本",
-        "ingredientName": "人参",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "52"
-  },
-  {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
+    "cookingTime": {
+      "total": 30,
+      "cook": 15,
+      "prep": 15
+    },
+    "steps": [
+      "ごぼうは洗って泥を軽く落とす。※アルミホイルを適当な大きさに切ってまるめると使い捨てタワシになります。",
+      "長さ5~6cm、幅3mmくらいの斜め切りにする。※ささがきでもOKです。",
+      "切れ目を上にして千切りにする。（できれば２、３枚重ねて千切りにすると早いです。）",
+      "ごぼうを数分間、水にさらして、ザルにあげる。",
+      "にんじんもごぼうと同様に千切りにする。",
+      "フライパンにごま油をひき、ごぼう・にんじんをしんなりするまで炒める。",
+      "しんなりしてきたら酒を入れて混ぜ全体にからめる。",
+      "7に★を入れて混ぜ、味見をして好みの味に調整する。",
+      "煮汁が少量残るくらいまで煮含める。",
+      "火を止めた後、しばらく広げておく。（冷める際により味がしみます）",
+      "器に盛り付けて、いりごま（お好みで）をかけて出来上がり♪"
+    ],
     "genres": [
       "和食"
-    ],
-    "url": "https://cookpad.com/recipe/1029233?view=classic#s",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    ]
+  },
+  {
+    "features": [],
     "favoriteCount": 0,
+    "id": "53",
+    "nutrition": {
+      "fat": 6,
+      "protein": 3,
+      "calories": 90,
+      "carbs": 7,
+      "fiber": 1,
+      "salt": 2.4
+    },
+    "url": "https://cookpad.com/recipe/1029233?view=classic#s",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "きゅうりの漬物",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "きゅうり",
         "quantity": 0.75,
         "unit": "本",
-        "ingredientName": "きゅうり",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "53"
+    "cookingTime": {
+      "total": 6,
+      "cook": 1,
+      "prep": 5
+    },
+    "steps": [
+      "きゅうりを麺棒でたたき、手で適当な大きさにちぎります。",
+      "塩揉み後、10分ほど置いておき、水分をよく絞っておく。",
+      "(A)を絡ませて、出来上がり。"
+    ],
+    "genres": [
+      "和食"
+    ]
   },
   {
     "features": [],
     "favoriteCount": 0,
     "id": "54",
+    "nutrition": {
+      "fat": 10.3,
+      "protein": 12.0,
+      "calories": 231,
+      "carbs": 20.0,
+      "fiber": 0.9,
+      "salt": 1.9
+    },
     "url": "https://cookpad.com/recipe/1267633?view=classic#share_line",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T05:40:27.772000+00:00",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ワンタンスープ",
     "group": "副菜",
     "ingredients": [
@@ -2484,309 +2691,484 @@
     ],
     "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
+    "cookingTime": {
+      "total": 15,
+      "cook": 10,
+      "prep": 5
+    },
+    "steps": [
+      "長ネギを荒めにみじん切りにし、ワンタンの皮（今回は餃子の皮）を三角の形になるように半分に切る。",
+      "鍋に水と酒、鶏ガラスープの元を入れ、沸騰させる。",
+      "沸騰したら長ネギを入れ、さらに挽肉をバラバラにして入れる。醤油も加える。灰汁が出たら取る。",
+      "ワンタンの皮を一枚づつ入れる（いっぺんに入れるとくっついちゃいます）。",
+      "ここで味をみて、薄ければ醤油を足してください。",
+      "香り付けにごま油を少々、彩りに万能ネギ（小口切り）を散らし、完成。"
+    ],
     "genres": [
       "中華"
     ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://cookpad.com/recipe/1489000?view=single#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "55",
+    "nutrition": {
+      "fat": 6,
+      "protein": 3,
+      "calories": 120,
+      "carbs": 13,
+      "fiber": 3,
+      "salt": 1.3
+    },
+    "url": "https://cookpad.com/recipe/1489000?view=single#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ひじきの煮物",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "油揚げ",
         "quantity": 0.5,
         "unit": "枚",
-        "ingredientName": "油揚げ",
         "category": "加工食品"
       },
       {
+        "ingredientName": "乾燥ひじき",
         "quantity": 7.5,
         "unit": "g",
-        "ingredientName": "乾燥ひじき",
         "category": "調味料・乾物・缶詰"
       },
       {
+        "ingredientName": "人参",
         "quantity": 0.25,
         "unit": "本",
-        "ingredientName": "人参",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "55"
-  },
-  {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
+    "cookingTime": {
+      "total": 40,
+      "cook": 30,
+      "prep": 10
+    },
+    "steps": [
+      "乾燥ひじきは戻しておく♪ にんじん、油揚げは食べやすい大きさ（細切り）に切っておく♪",
+      "フライパンにサラダ油を熱して、にんじんを炒めて♪",
+      "ひじき、油揚げも加えて炒める♪",
+      "●の調味料を加えて♪",
+      "落し蓋をして、弱火で煮汁がなくなるまで煮たら♪",
+      "出来上がり☆ ご飯に混ぜて、ひじきご飯にしても美味しい。お弁当用に小分けで冷凍しておくのも便利。"
+    ],
     "genres": [
       "和食"
-    ],
-    "url": "https://cookpad.com/recipe/468391?view=single#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    ]
+  },
+  {
+    "features": [],
     "favoriteCount": 0,
+    "id": "56",
+    "nutrition": {
+      "fat": 3,
+      "protein": 2,
+      "calories": 50,
+      "carbs": 5,
+      "fiber": 2,
+      "salt": 0.4
+    },
+    "url": "https://cookpad.com/recipe/468391?view=single#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ほうれん草の胡麻和え",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "ほうれん草",
         "quantity": 0.5,
         "unit": "束",
-        "ingredientName": "ほうれん草",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "56"
-  },
-  {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
+    "cookingTime": {
+      "total": 10,
+      "cook": 5,
+      "prep": 5
+    },
+    "steps": [
+      "お湯を沸かしている間に★（すりごま、しょうゆ、砂糖）を混ぜる。",
+      "ほうれん草をさっと茹で、すぐに冷水にとり適当な大きさに切る。",
+      "ホウレン草の水気を絞り、食べる直前に和える。"
+    ],
     "genres": [
       "和食"
-    ],
-    "url": "https://cookpad.com/recipe/1059693?view=classic#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    ]
+  },
+  {
+    "features": [],
     "favoriteCount": 0,
+    "id": "57",
+    "nutrition": {
+      "fat": 0.1,
+      "protein": 0.6,
+      "calories": 14,
+      "carbs": 3.2,
+      "fiber": 1.0,
+      "salt": 1.8
+    },
+    "url": "https://cookpad.com/recipe/1059693?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "白菜の付け合わせ",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "白菜",
         "quantity": 0.125,
         "unit": "玉",
-        "ingredientName": "白菜",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "57"
-  },
-  {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
+    "cookingTime": {
+      "total": 155,
+      "cook": 150,
+      "prep": 5
+    },
+    "steps": [
+      "白菜は２～３センチのざく切りにする。",
+      "ビニール袋に白菜と◆を入れ、全体に味が行き渡る様によく振る。",
+      "平らに広げて空気をしっかり抜き、冷蔵庫で２～３時間冷やす。出す前にもう一度揉んで味が馴染んだら完成♪"
+    ],
     "genres": [
       "和食"
-    ],
-    "url": "https://cookpad.com/recipe/1866508?view=classic#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    ]
+  },
+  {
+    "features": [],
     "favoriteCount": 0,
+    "id": "58",
+    "nutrition": {
+      "fat": 8.7,
+      "protein": 7.3,
+      "calories": 116,
+      "carbs": 3.0,
+      "fiber": 1.2,
+      "salt": 0.8
+    },
+    "url": "https://cookpad.com/recipe/1866508?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ツナピー",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "ツナ",
         "quantity": 0.25,
         "unit": "缶",
-        "ingredientName": "ツナ",
         "category": "加工食品"
       },
       {
+        "ingredientName": "ピーマン",
         "quantity": 1.0,
         "unit": "個",
-        "ingredientName": "ピーマン",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "58"
-  },
-  {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
+    "cookingTime": {
+      "total": 8,
+      "cook": 3,
+      "prep": 5
+    },
+    "steps": [
+      "ピーマンを縦半分に切ってから幅5mmくらいの小口切りに。ヘタは取るけど、タネはつきっぱなしでいいよ。",
+      "鍋かフライパンに、ツナ缶を缶汁ごと入れてね。ゆっくり落ち着いて。入れた後で火をつけたらいいから。",
+      "ツナがあったまったら、ピーマンをどばっと入れて、2～3分炒めます。お好きな硬さでどーぞ。",
+      "最後におしょうゆを入れてかきまぜたら出来上がり。カンタ～ン！"
+    ],
     "genres": [
       "和食"
-    ],
-    "url": "https://cookpad.com/recipe/2214551?view=classic#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    ]
+  },
+  {
+    "features": [],
     "favoriteCount": 0,
+    "id": "59",
+    "nutrition": {
+      "fat": 15,
+      "protein": 14,
+      "calories": 200,
+      "carbs": 6,
+      "fiber": 1,
+      "salt": 1.5
+    },
+    "url": "https://cookpad.com/recipe/2214551?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "豆腐サラダ",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "豆腐",
         "quantity": 0.25,
         "unit": "丁",
-        "ingredientName": "豆腐",
         "category": "加工食品"
       },
       {
+        "ingredientName": "焼き海苔",
         "quantity": 0.25,
         "unit": "枚",
-        "ingredientName": "焼き海苔",
         "category": "海産物"
       },
       {
+        "ingredientName": "かつおぶし",
         "quantity": 0.25,
         "unit": "袋",
-        "ingredientName": "かつおぶし",
         "category": "調味料・乾物・缶詰"
       },
       {
+        "ingredientName": "レタス",
         "quantity": 0.125,
         "unit": "玉",
-        "ingredientName": "レタス",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "59"
+    "cookingTime": {
+      "total": 5,
+      "cook": 0,
+      "prep": 5
+    },
+    "steps": [
+      "レタスを洗って一口大にちぎる（ものぐさな私はカットレタスをつかいます）",
+      "大きめなお皿にレタスを敷き詰め水を切った豆腐を一丁ドンと乗せる ※寒くなってきたらレンジでかるくチ～ん♪",
+      "上に鰹節と刻み海苔をまんべんなくかける（量はお好みで調整してください）",
+      "ごま油、しょう油を上からまわしかけて完成♪"
+    ],
+    "genres": [
+      "和食"
+    ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "エスニック"
-    ],
-    "url": "https://cookpad.com/recipe/4117243?view=classic#share_line",
-    "group": "主菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "6",
+    "nutrition": {
+      "fat": 30,
+      "protein": 38,
+      "calories": 760,
+      "carbs": 82,
+      "fiber": 2.2,
+      "salt": 2.1
+    },
+    "url": "https://cookpad.com/recipe/4117243?view=classic#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ガパオライス",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "主菜",
     "ingredients": [
       {
+        "ingredientName": "豚ひき肉",
         "quantity": 150.0,
         "unit": "g",
-        "ingredientName": "豚ひき肉",
         "category": "お肉"
       },
       {
+        "ingredientName": "卵",
         "quantity": 1.0,
         "unit": "個",
-        "ingredientName": "卵",
         "category": "乳製品・卵"
       },
       {
+        "ingredientName": "ピーマン",
         "quantity": 0.5,
         "unit": "個",
-        "ingredientName": "ピーマン",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "パプリカ赤",
         "quantity": 0.25,
         "unit": "個",
-        "ingredientName": "パプリカ赤",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "6"
+    "cookingTime": {
+      "total": 25,
+      "cook": 15,
+      "prep": 10
+    },
+    "steps": [
+      "フライパンに少し多めの油をひき、まわりがカリカリになるよう目玉焼きを作っておく。",
+      "別のフライパンで挽肉を炒める。色が変わったら細かく切ったピーマン・パプリカ、みじん切りのにんにくを入れて更に炒める。",
+      "★を全部入れて、少し煮詰めるような感じで炒めたら出来上がり♪"
+    ],
+    "genres": [
+      "エスニック"
+    ]
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "和食"
-    ],
-    "url": "https://cookpad.com/recipe/981850?view=single#share_line",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "features": [],
     "favoriteCount": 0,
+    "id": "60",
+    "nutrition": {
+      "fat": 16,
+      "protein": 2.5,
+      "calories": 220,
+      "carbs": 20,
+      "fiber": 2,
+      "salt": 1.0
+    },
+    "url": "https://cookpad.com/recipe/981850?view=single#share_line",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "れんこん炒め",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "れんこん",
         "quantity": 0.25,
         "unit": "節",
-        "ingredientName": "れんこん",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "60"
-  },
-  {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
+    "cookingTime": {
+      "total": 20,
+      "cook": 10,
+      "prep": 10
+    },
+    "steps": [
+      "レンコンは1cm幅に切り、片栗粉をまぶします。（大きい場合は半月切りにしてください。）",
+      "ポリ袋にレンコンと片栗粉大さじ2を入れ、水にさらさずにシャカシャカ振ると薄付きになります。",
+      "多めの油を熱したフライパンで、レンコンをこんがりと焼き色が付くまで焼きます。",
+      "一度火を止め、★の調味料（しょうゆ、砂糖、酢、ゴマ）を加えて全体を絡めます。",
+      "※焦げ防止のため、タレを入れる前に火を止めて温度を下げてください。照り不足であれば水を足します。",
+      "※レンコンの皮はむかなくても大丈夫です。水にさらす工程も省略可能です。",
+      "※タレが焦げつきそうな場合は、水を少量加えて調整してください。"
+    ],
     "genres": [
       "和食"
-    ],
-    "url": "https://cookpad.com/recipe/1681113?view=classic#share_url",
-    "group": "副菜",
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    ]
+  },
+  {
+    "features": [],
     "favoriteCount": 0,
+    "id": "61",
+    "nutrition": {
+      "fat": 10.5,
+      "protein": 2.4,
+      "calories": 140,
+      "carbs": 11,
+      "fiber": 3.5,
+      "salt": 0.3
+    },
+    "url": "https://cookpad.com/recipe/1681113?view=classic#share_url",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ごぼうサラダ",
-    "createdAt": "2025-09-21T15:00:00+00:00",
-    "isPublic": true,
+    "group": "副菜",
     "ingredients": [
       {
+        "ingredientName": "ごぼう",
         "quantity": 0.5,
         "unit": "本",
-        "ingredientName": "ごぼう",
         "category": "野菜・果物"
       },
       {
+        "ingredientName": "人参",
         "quantity": 0.25,
         "unit": "本",
-        "ingredientName": "人参",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": true,
+    "subCategory": [],
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
-    "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
-    "id": "61"
+    "cookingTime": {
+      "total": 25,
+      "cook": 10,
+      "prep": 15
+    },
+    "steps": [
+      "ごぼう、にんじんは細切りにする。",
+      "●のマヨネーズ、すりごま、砂糖、酢、醤油を合わせてごまだれを作っておく。",
+      "さっと茹でたごぼうとにんじんに、合わせたごまだれを加える。",
+      "全体によく混ぜ合わせたら出来上がり。"
+    ],
+    "genres": [
+      "和食"
+    ]
   },
   {
     "features": [],
     "favoriteCount": 0,
     "id": "62",
+    "nutrition": {
+      "fat": 11.9,
+      "protein": 7.6,
+      "calories": 154,
+      "carbs": 9.4,
+      "fiber": 5.9,
+      "salt": 0.7
+    },
     "url": "https://cookpad.com/recipe/398799?view=classic#share_line",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2025-12-29T04:10:53.465000+00:00",
     "name": "ブロッコリーのおかか和え",
     "group": "副菜",
     "ingredients": [
@@ -2811,6 +3193,15 @@
     ],
     "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
+    "cookingTime": {
+      "total": 12,
+      "cook": 7,
+      "prep": 5
+    },
+    "steps": [
+      "ブロッコリーは食べやすい大きさに切り、柔らかくなるまで茹でる。※レンジ加熱でもOK",
+      "ボウルに1と鰹節、マヨネーズ、醤油を入れてよく混ぜ合わせ、仕上げに白ゴマをまぶす。"
+    ],
     "genres": [
       "和食"
     ]
