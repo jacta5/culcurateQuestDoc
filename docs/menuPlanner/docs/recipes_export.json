@@ -35,49 +35,52 @@
     "id": "1"
   },
   {
-    "updatedAt": "2025-12-04T15:00:00+00:00",
-    "genres": [
-      "洋食"
-    ],
-    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "group": "主菜",
+    "features": [],
     "favoriteCount": 0,
-    "createdAt": "2025-09-21T15:00:00+00:00",
+    "nutrition": null,
+    "url": "",
+    "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
+    "updatedAt": "2026-05-05T04:29:52.697000+00:00",
     "name": "カレー",
-    "isPublic": false,
+    "group": "主菜",
     "ingredients": [
       {
-        "quantity": 75.0,
-        "unit": "g",
         "ingredientName": "豚肉",
+        "quantity": 75,
+        "unit": "g",
         "category": "お肉"
       },
       {
-        "quantity": 0.25,
-        "unit": "皿分",
         "ingredientName": "カレーのルー",
+        "quantity": 1,
+        "unit": "かけ",
         "category": "調味料・乾物・缶詰"
       },
       {
+        "ingredientName": "人参",
         "quantity": 0.5,
         "unit": "本",
-        "ingredientName": "人参",
         "category": "野菜・果物"
       },
       {
-        "quantity": 1.0,
-        "unit": "個",
         "ingredientName": "じゃがいも",
+        "quantity": 1,
+        "unit": "個",
         "category": "野菜・果物"
       }
     ],
-    "features": [],
+    "isPublic": false,
     "category": [
       "昼ごはん",
       "夜ごはん"
     ],
     "subCategory": [],
+    "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
+    "cookingTime": null,
+    "genres": [
+      "洋食"
+    ],
     "id": "10"
   },
   {
@@ -486,13 +489,13 @@
     },
     "url": "https://cookpad.com/recipe/1691135?view=classic#share_line",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-27T14:28:41.622000+00:00",
+    "updatedAt": "2026-05-05T07:22:57.805000+00:00",
     "name": "卵とじうどん",
     "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "卵",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "個",
         "category": "乳製品・卵"
       },
@@ -504,9 +507,9 @@
       },
       {
         "ingredientName": "うどん",
-        "quantity": 1.0,
-        "unit": "玉",
-        "category": "冷凍食品"
+        "quantity": 1,
+        "unit": "袋",
+        "category": "米・パン・その他"
       }
     ],
     "isPublic": true,
@@ -518,9 +521,9 @@
     "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
     "cookingTime": {
+      "cook": 8,
       "total": 8,
-      "cook": 5,
-      "prep": 3
+      "prep": 0
     },
     "steps": [
       "長ネギは5ミリ斜め切り。レンジでラップなしでしんなりするまで加熱する（歯ごたえがあったほうが良ければ省略して直接鍋に）",
@@ -705,13 +708,13 @@
     },
     "url": "https://cookpad.com/recipe/2651011?view=classic#share_line",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-27T14:28:41.622000+00:00",
+    "updatedAt": "2026-05-05T07:20:22.688000+00:00",
     "name": "焼うどん",
     "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚肉",
-        "quantity": 75.0,
+        "quantity": 75,
         "unit": "g",
         "category": "お肉"
       },
@@ -735,8 +738,8 @@
       },
       {
         "ingredientName": "うどん",
-        "quantity": 1.0,
-        "unit": "玉",
+        "quantity": 1,
+        "unit": "袋",
         "category": "冷凍食品"
       }
     ],
@@ -749,9 +752,9 @@
     "createdAt": "2025-09-21T15:00:00+00:00",
     "isDeleted": false,
     "cookingTime": {
+      "cook": 25,
       "total": 25,
-      "cook": 15,
-      "prep": 10
+      "prep": 0
     },
     "steps": [
       "●の調味料を合わせておく♪",
@@ -12192,22 +12195,22 @@
     "favoriteCount": 0,
     "id": "ai_e473fa03-b09b-404e-8539-9fd7420efc89",
     "nutrition": {
-      "fat": 24.0,
-      "protein": 16.0,
-      "calories": 340.0,
-      "carbs": 12.0,
-      "fiber": 1.0,
-      "salt": 2.5
+      "salt": 2.5,
+      "protein": 16,
+      "calories": 340,
+      "carbs": 12,
+      "fiber": 1,
+      "fat": 24
     },
     "url": "https://bazurecipe.com/2020/05/04/2270/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-22T04:43:10.571000+00:00",
+    "updatedAt": "2026-05-05T07:18:29.515000+00:00",
     "name": "至高のカレー",
     "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "豚コマ切れ肉",
-        "quantity": 75.0,
+        "quantity": 75,
         "unit": "g",
         "category": "お肉"
       },
@@ -12225,28 +12228,24 @@
       },
       {
         "ingredientName": "カレーのルー",
-        "quantity": 23.125,
-        "unit": "g",
+        "quantity": 1.5,
+        "unit": "かけ",
         "category": "加工食品"
       },
       {
         "ingredientName": "パセリ",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "少々",
         "category": "調味料・乾物・缶詰"
       }
     ],
     "isPublic": true,
-    "subCategory": [
-      "お肉",
-      "フライパン",
-      "野菜・くだもの",
-      "ごはん・麺・もち",
-      "レシピ動画"
-    ],
     "category": [
       "夜ごはん",
       "昼ごはん"
+    ],
+    "subCategory": [
+      "お肉"
     ],
     "createdAt": "2025-12-21T23:31:07.707711",
     "steps": [
@@ -12256,9 +12255,9 @@
       "バター10g、ウスターソース小さじ2、砂糖小さじ1を加えて完成です。"
     ],
     "cookingTime": {
+      "cook": 20,
       "total": 20,
-      "cook": 15,
-      "prep": 5
+      "prep": 0
     },
     "isDeleted": false,
     "genres": [
@@ -14006,83 +14005,81 @@
     "favoriteCount": 0,
     "id": "ai_437f0f17-4007-4e6f-9feb-8a177ea5ff2a",
     "nutrition": {
-      "fat": 20.0,
-      "protein": 25.0,
-      "calories": 500.0,
-      "carbs": 55.0,
-      "fiber": 5.0,
-      "salt": 3.0
+      "salt": 3,
+      "protein": 25,
+      "calories": 500,
+      "carbs": 55,
+      "fiber": 5,
+      "fat": 20
     },
     "url": "https://bazurecipe.com/2021/04/19/%e8%87%b3%e9%ab%98%e3%81%ae%e7%84%bc%e3%81%8d%e3%81%86%e3%81%a9%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:29:15.414000+00:00",
+    "updatedAt": "2026-05-05T07:21:45.929000+00:00",
     "name": "至高の焼きうどん",
     "group": "主食",
     "ingredients": [
       {
         "ingredientName": "冷凍うどん",
-        "quantity": 1.0,
-        "unit": "個",
+        "quantity": 1,
+        "unit": "袋",
         "category": "米・パン・その他"
       },
       {
         "ingredientName": "豚コマ切れ肉",
-        "quantity": 80.0,
+        "quantity": 80,
         "unit": "g",
         "category": "お肉"
       },
       {
         "ingredientName": "キャベツ",
-        "quantity": 100.0,
+        "quantity": 100,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
         "ingredientName": "人参",
-        "quantity": 30.0,
+        "quantity": 30,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
         "ingredientName": "長ネギ",
-        "quantity": 40.0,
+        "quantity": 40,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
         "ingredientName": "オイスターソース",
-        "quantity": 2.0,
+        "quantity": 2,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "白だし",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "かつおぶし",
-        "quantity": 0.0,
+        "quantity": 0,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "紅生姜",
-        "quantity": 0.0,
+        "quantity": 0,
         "unit": "適量",
         "category": "加工食品"
       }
     ],
     "isPublic": true,
-    "subCategory": [
-      "ごはん・麺・もち",
-      "フライパン",
-      "レシピ動画"
-    ],
     "category": [
       "夜ごはん",
       "昼ごはん"
+    ],
+    "subCategory": [
+      "ごはん・麺・もち"
     ],
     "createdAt": "2025-12-24T04:38:40.965771",
     "steps": [
@@ -14092,9 +14089,9 @@
       "仕上げにたっぷりの鰹節をかけ、紅生姜を添えて完成。"
     ],
     "cookingTime": {
+      "cook": 20,
       "total": 20,
-      "cook": 10,
-      "prep": 10
+      "prep": 0
     },
     "isDeleted": false,
     "genres": [
@@ -14964,33 +14961,34 @@
     "favoriteCount": 0,
     "id": "ai_8ee5346a-e0fa-4bbf-9ac8-a267b155543d",
     "nutrition": {
-      "fat": 35.0,
-      "protein": 25.0,
-      "calories": 600.0,
-      "carbs": 60.0,
-      "fiber": 2.0,
-      "salt": 3.0
+      "salt": 3,
+      "protein": 25,
+      "calories": 600,
+      "carbs": 60,
+      "fiber": 2,
+      "fat": 35
     },
     "url": "https://bazurecipe.com/2020/05/12/%e3%82%ab%e3%83%ab%e3%83%9c%e3%83%8a%e3%83%bc%e3%83%a9%e3%81%86%e3%81%a9%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2026-05-05T07:22:16.443000+00:00",
     "name": "カルボナーラうどん",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "冷凍うどん",
-        "quantity": 1.0,
-        "unit": "個",
+        "quantity": 1,
+        "unit": "袋",
         "category": "冷凍食品"
       },
       {
         "ingredientName": "ベーコン",
-        "quantity": 50.0,
+        "quantity": 50,
         "unit": "g",
         "category": "お肉"
       },
       {
         "ingredientName": "卵",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "個",
         "category": "乳製品・卵"
       },
@@ -15002,21 +15000,18 @@
       },
       {
         "ingredientName": "粉チーズ",
-        "quantity": 2.0,
+        "quantity": 2,
         "unit": "大さじ",
         "category": "乳製品・卵"
       }
     ],
-    "group": "主食",
     "isPublic": true,
-    "subCategory": [
-      "レンジで簡単",
-      "麺料理",
-      "時短"
-    ],
     "category": [
       "夜ごはん",
       "昼ごはん"
+    ],
+    "subCategory": [
+      "レンジで簡単"
     ],
     "createdAt": "2025-12-24T04:42:42.128316",
     "steps": [
@@ -15024,9 +15019,9 @@
       "熱いうちに溶き卵、A（コンソメ、粉チーズ）を加えて混ぜ、器に盛る。黒コショウをたっぷりかけて完成！"
     ],
     "cookingTime": {
+      "cook": 7,
       "total": 7,
-      "cook": 5,
-      "prep": 2
+      "prep": 0
     },
     "isDeleted": false,
     "genres": [
@@ -15441,27 +15436,28 @@
     "favoriteCount": 0,
     "id": "ai_a618cb37-4f9c-4d63-86de-fa83d18093c5",
     "nutrition": {
-      "fat": 20.0,
-      "protein": 15.0,
-      "calories": 450.0,
-      "carbs": 60.0,
+      "salt": 2.5,
+      "protein": 15,
+      "calories": 450,
+      "carbs": 60,
       "fiber": 0.5,
-      "salt": 2.5
+      "fat": 20
     },
     "url": "https://bazurecipe.com/2020/06/24/%e3%81%ba%e3%81%ba%e7%8e%89%e3%81%86%e3%81%a9%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2025-12-24T05:21:55.652000+00:00",
+    "updatedAt": "2026-05-05T07:22:03.702000+00:00",
     "name": "ぺぺ玉うどん",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "冷凍うどん",
-        "quantity": 1.0,
-        "unit": "適量",
-        "category": "米・パン・その他"
+        "quantity": 1,
+        "unit": "袋",
+        "category": "冷凍食品"
       },
       {
         "ingredientName": "卵",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "個",
         "category": "乳製品・卵"
       },
@@ -15473,24 +15469,23 @@
       },
       {
         "ingredientName": "にんにく",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "片",
         "category": "野菜・果物"
       },
       {
         "ingredientName": "鷹の爪",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "本",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "パセリ",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "適量",
         "category": "野菜・果物"
       }
     ],
-    "group": "主食",
     "isPublic": true,
     "subCategory": [],
     "category": [
@@ -15503,9 +15498,9 @@
       "熱いうちに溶き卵1個を入れ、全体を混ぜ合わせたら完成。"
     ],
     "cookingTime": {
+      "cook": 11,
       "total": 11,
-      "cook": 6,
-      "prep": 5
+      "prep": 0
     },
     "isDeleted": false,
     "genres": [
@@ -19806,33 +19801,34 @@
     "favoriteCount": 0,
     "id": "ai_8967ec64-4757-4a63-a10c-070ce5a7fdcd",
     "nutrition": {
-      "fat": 28.0,
-      "protein": 31.0,
-      "calories": 640.0,
-      "carbs": 63.0,
-      "fiber": 3.0,
-      "salt": 4.7
+      "salt": 4.7,
+      "protein": 31,
+      "calories": 640,
+      "carbs": 63,
+      "fiber": 3,
+      "fat": 28
     },
     "url": "https://bazurecipe.com/2021/01/27/%e8%87%b3%e9%ab%98%e3%81%ae%e8%82%89%e3%81%86%e3%81%a9%e3%82%93/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2026-01-31T04:40:55.314000+00:00",
+    "updatedAt": "2026-05-05T07:22:40.471000+00:00",
     "name": "至高の肉うどん",
+    "group": "主食",
     "ingredients": [
       {
         "ingredientName": "冷凍うどん",
-        "quantity": 1.0,
-        "unit": "適量",
-        "category": "米・パン・その他"
+        "quantity": 1,
+        "unit": "袋",
+        "category": "冷凍食品"
       },
       {
         "ingredientName": "牛薄切り肉",
-        "quantity": 120.0,
+        "quantity": 120,
         "unit": "g",
         "category": "お肉"
       },
       {
         "ingredientName": "ショウガ",
-        "quantity": 5.0,
+        "quantity": 5,
         "unit": "g",
         "category": "野菜・果物"
       },
@@ -19844,38 +19840,36 @@
       },
       {
         "ingredientName": "オイスターソース",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "白だし",
-        "quantity": 2.0,
+        "quantity": 2,
         "unit": "大さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "万能ネギ",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "適量",
         "category": "野菜・果物"
       },
       {
         "ingredientName": "七味唐辛子",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "適量",
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主食",
     "isPublic": true,
-    "subCategory": [
-      "煮込み",
-      "麺類"
-    ],
     "category": [
       "昼ごはん",
       "夜ごはん"
+    ],
+    "subCategory": [
+      "煮込み"
     ],
     "createdAt": "2026-01-24T04:52:08.589617",
     "steps": [
@@ -19884,9 +19878,9 @@
       "煮込んだ牛肉を汁ごとうどんにかけ、万能ネギと七味唐辛子を添えて完成。"
     ],
     "cookingTime": {
+      "cook": 15,
       "total": 15,
-      "cook": 10,
-      "prep": 5
+      "prep": 0
     },
     "isDeleted": false,
     "genres": [
@@ -19979,21 +19973,22 @@
     "favoriteCount": 0,
     "id": "ai_c0f316f4-e642-4eee-8639-0264e58024bf",
     "nutrition": {
-      "fat": 35.0,
-      "protein": 25.0,
-      "calories": 500.0,
-      "carbs": 25.0,
-      "fiber": 4.0,
-      "salt": 2.5
+      "salt": 2.5,
+      "protein": 25,
+      "calories": 500,
+      "carbs": 25,
+      "fiber": 4,
+      "fat": 35
     },
     "url": "https://bazurecipe.com/2020/05/07/%e7%84%a1%e6%b0%b4%e7%99%bd%e8%8f%9c%e3%82%ab%e3%83%ac%e3%83%bc/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2026-01-31T04:40:55.314000+00:00",
+    "updatedAt": "2026-05-05T08:43:13.420000+00:00",
     "name": "無水白菜カレー",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "白菜",
-        "quantity": 125.0,
+        "quantity": 125,
         "unit": "g",
         "category": "野菜・果物"
       },
@@ -20005,20 +20000,20 @@
       },
       {
         "ingredientName": "豚バラ肉",
-        "quantity": 90.0,
+        "quantity": 90,
         "unit": "g",
         "category": "お肉"
       },
       {
         "ingredientName": "バター",
-        "quantity": 5.0,
+        "quantity": 5,
         "unit": "g",
         "category": "乳製品・卵"
       },
       {
         "ingredientName": "カレールー",
-        "quantity": 1.0,
-        "unit": "片",
+        "quantity": 1,
+        "unit": "かけ",
         "category": "加工食品"
       },
       {
@@ -20028,15 +20023,13 @@
         "category": "調味料・乾物・缶詰"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
-    "subCategory": [
-      "煮込み料理",
-      "無水"
-    ],
     "category": [
       "昼ごはん",
       "夜ごはん"
+    ],
+    "subCategory": [
+      "煮込み料理"
     ],
     "createdAt": "2026-01-24T04:49:56.292983",
     "steps": [
@@ -20044,9 +20037,9 @@
       "カレールー、ウスターソース、砂糖（小さじ1弱）を加えて混ぜ、蓋をして数分煮る。"
     ],
     "cookingTime": {
+      "cook": 35,
       "total": 35,
-      "cook": 25,
-      "prep": 10
+      "prep": 0
     },
     "isDeleted": false,
     "genres": [
@@ -20061,59 +20054,57 @@
     "favoriteCount": 0,
     "id": "ai_f957b3ac-e7df-4a8f-aa91-33c539b50d01",
     "nutrition": {
-      "fat": 38.0,
-      "protein": 35.0,
-      "calories": 550.0,
-      "carbs": 30.0,
-      "fiber": 3.0,
-      "salt": 4.0
+      "salt": 4,
+      "protein": 35,
+      "calories": 550,
+      "carbs": 30,
+      "fiber": 3,
+      "fat": 38
     },
     "url": "https://bazurecipe.com/2020/05/16/%e7%84%a1%e6%b0%b4%e3%82%b5%e3%83%90%e7%bc%b6%e3%82%ad%e3%83%bc%e3%83%9e%e3%82%ab%e3%83%ac%e3%83%bc/",
     "creatorId": "SqW4CttjPqOnRd9pS72kGEqd6Xt2",
-    "updatedAt": "2026-01-31T04:40:55.314000+00:00",
+    "updatedAt": "2026-05-05T08:42:59.037000+00:00",
     "name": "無水サバ缶キーマカレー",
+    "group": "主菜",
     "ingredients": [
       {
         "ingredientName": "玉ねぎ",
-        "quantity": 120.0,
+        "quantity": 120,
         "unit": "g",
         "category": "野菜・果物"
       },
       {
         "ingredientName": "おろしにんにく",
-        "quantity": 1.0,
+        "quantity": 1,
         "unit": "片",
         "category": "野菜・果物"
       },
       {
         "ingredientName": "ウスターソース",
-        "quantity": 2.0,
+        "quantity": 2,
         "unit": "小さじ",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "カレールー",
-        "quantity": 2.0,
-        "unit": "片",
+        "quantity": 2,
+        "unit": "かけ",
         "category": "調味料・乾物・缶詰"
       },
       {
         "ingredientName": "バター",
-        "quantity": 20.0,
+        "quantity": 20,
         "unit": "g",
         "category": "乳製品・卵"
       }
     ],
-    "group": "主菜",
     "isPublic": true,
-    "subCategory": [
-      "レンジ調理",
-      "無水料理",
-      "カレー"
-    ],
     "category": [
       "昼ごはん",
       "夜ごはん"
+    ],
+    "subCategory": [
+      "レンジ調理"
     ],
     "createdAt": "2026-01-24T04:48:20.353535",
     "steps": [
@@ -20122,9 +20113,9 @@
       "電子レンジ600Wで5分加熱したら完成です。"
     ],
     "cookingTime": {
+      "cook": 8,
       "total": 8,
-      "cook": 5,
-      "prep": 3
+      "prep": 0
     },
     "isDeleted": false,
     "genres": [
@@ -20155,5 +20146,439 @@
     "cookingTime": null,
     "genres": [],
     "id": "179qsXVPwxWWOLQaunbj"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-01-31T04:47:19.498000+00:00",
+    "name": "焼きうどん",
+    "group": "主食",
+    "ingredients": [
+      {
+        "ingredientName": "うどん",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-01-31T04:47:19.498000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "zmf4Rw1KP468G3Eo6CAl"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-01-31T04:48:10.348000+00:00",
+    "name": "しゃぶしゃぶ",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "豚肉",
+        "quantity": 300,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-01-31T04:48:10.348000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "fjfF3m6ud5PUW6ghpmBb"
+  },
+  {
+    "features": [
+      "お弁当向き",
+      "ダイエット向き",
+      "筋トレ向き"
+    ],
+    "nutrition": {
+      "salt": 2.8,
+      "protein": 26,
+      "calories": 381,
+      "carbs": 25.4,
+      "fiber": 0.9,
+      "fat": 16.9
+    },
+    "url": "https://delishkitchen.tv/recipes/199360022692496416",
+    "creatorId": "68YTHsiQOBV1xa63nY4cRjxMw5h2",
+    "updatedAt": "2026-01-31T08:21:36.072000+00:00",
+    "name": "甘辛味でご飯にぴったり！ささみのカリカリ炒め",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "ささみ",
+        "quantity": 200,
+        "unit": "g",
+        "category": "お肉"
+      },
+      {
+        "ingredientName": "片栗粉",
+        "quantity": 3,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      },
+      {
+        "ingredientName": "白すりごま",
+        "quantity": 1,
+        "unit": "大さじ",
+        "category": "調味料・乾物・缶詰"
+      }
+    ],
+    "isPublic": true,
+    "subCategory": [
+      "揚げ物"
+    ],
+    "category": [
+      "昼ごはん",
+      "夜ごはん"
+    ],
+    "createdAt": "2026-01-31T08:21:36.072000+00:00",
+    "isDeleted": false,
+    "cookingTime": {
+      "cook": 15,
+      "total": 15,
+      "prep": 0
+    },
+    "genres": [
+      "和食"
+    ],
+    "id": "CoRmSyKcM6iRqgiTl6mE"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-01-31T10:28:26.012000+00:00",
+    "name": "塩麻婆豆腐",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "豆腐",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-01-31T10:28:26.012000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "6w9nglUpewMFEfY7zlWm"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-01T02:49:07.384000+00:00",
+    "name": "ガーリックシュリンプ",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "エビ",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-01T02:49:07.384000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "3moJP95REtIKVNylOeOT"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-01T02:53:00.535000+00:00",
+    "name": "鯖焼き",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "さば",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-01T02:53:00.535000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "syVqtI2cU0pd9nsJGGGe"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-06T23:57:24.859000+00:00",
+    "name": "パン",
+    "group": "主食",
+    "ingredients": [
+      {
+        "ingredientName": "パン",
+        "quantity": 2,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-06T23:57:24.859000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "VF3pMo9p49Qgfg2NU03m"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-07T00:00:22.670000+00:00",
+    "name": "カルパッチョ",
+    "group": "副菜",
+    "ingredients": [
+      {
+        "ingredientName": "サーモン",
+        "quantity": 100,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-07T00:00:22.670000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "i2inwFOgga8RolZYJr5X"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-14T01:43:48.860000+00:00",
+    "name": "アヒージョ",
+    "group": "副菜",
+    "ingredients": [
+      {
+        "ingredientName": "えび",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-14T01:43:48.860000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "lWx4MRePuqo46UTQl5Uz"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-14T01:47:25.819000+00:00",
+    "name": "小松菜の煮浸し",
+    "group": "副菜",
+    "ingredients": [
+      {
+        "ingredientName": "小松菜",
+        "quantity": 100,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-14T01:47:25.819000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "qR9POafGrlngk7ZiTp0h"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-14T01:49:07.802000+00:00",
+    "name": "蓮根のきんぴら",
+    "group": "副菜",
+    "ingredients": [
+      {
+        "ingredientName": "れんこん",
+        "quantity": 100,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-14T01:49:07.802000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "FIqpwjhptSAnEWZiSrTh"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-14T02:46:13.142000+00:00",
+    "name": "豆腐ハンバーグ",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "豆腐",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-14T02:46:13.142000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "BQpzwHhbzrqIinwtuPHl"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-14T04:00:56.107000+00:00",
+    "name": "ヒレカツ",
+    "group": "主食",
+    "ingredients": [
+      {
+        "ingredientName": "ヒレ肉",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-14T04:00:56.107000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "LLzQjGS5dIEIeHagb0gp"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-14T04:05:48.674000+00:00",
+    "name": "オムライス",
+    "group": "主食",
+    "ingredients": [
+      {
+        "ingredientName": "鶏肉",
+        "quantity": 100,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-14T04:05:48.674000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "unYHinR9q1y92ArrLH5P"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-22T07:38:44.913000+00:00",
+    "name": "おでん",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "大根",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-22T07:38:44.913000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "aNQXVBDXdlS5IbZmrId5"
+  },
+  {
+    "features": [],
+    "nutrition": null,
+    "url": "",
+    "creatorId": "5rJD02CUW3UdDXQ2vMwbk9a7rW22",
+    "updatedAt": "2026-02-28T03:23:11.321000+00:00",
+    "name": "ほっけ焼き",
+    "group": "主菜",
+    "ingredients": [
+      {
+        "ingredientName": "ほっけ",
+        "quantity": 200,
+        "unit": "g",
+        "category": "野菜・果物"
+      }
+    ],
+    "isPublic": false,
+    "subCategory": [],
+    "category": [],
+    "createdAt": "2026-02-28T03:23:11.321000+00:00",
+    "isDeleted": false,
+    "cookingTime": null,
+    "genres": [],
+    "id": "AmtfAG6R917fN1eyOS9C"
   }
 ]
